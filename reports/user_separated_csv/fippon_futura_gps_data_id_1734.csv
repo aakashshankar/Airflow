@@ -1,0 +1,29 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492245,1734,26.6938741,88.43151230000002,2020-01-03 11:34:41,0.0,0.0,1625.0,network,"Pandit Gyan Prakash Ghosh Sarani,Babupara,Siliguri,West Bengal 734004,India",0.0,punchIn,,2020-01-03 11:35:04
+3492250,1734,26.6936417,88.42690870000001,2020-01-03 11:36:35,0.0,0.0,1700.0,network,"Loknath Sarani,Babupara,Siliguri,West Bengal 734004,India",0.565,movement,,2020-01-03 11:36:38
+3492413,1734,26.71024769,88.42674511,2020-01-03 11:56:00,9.51013,327.4,11.0,gps,"Siliguri Deshbandhu Chittaranjan Das Fly Over Rd,Ward 6,Hakim Para,Siliguri,West Bengal 734001,India",2.253,movement,,2020-01-03 12:16:39
+3492414,1734,26.72012925,88.42415384,2020-01-03 12:16:34,1.50163,14.1,42.0,gps,"HMA Building,Nabin Sen Rd,Mahakal Pally,Janta Nagar,Siliguri,West Bengal 734001,India",1.239,movement,Idle,2020-01-03 12:16:48
+3492766,1734,26.72012925,88.42415384,2020-01-03 12:32:00,1.50163,14.1,42.0,gps,"HMA Building,Nabin Sen Rd,Mahakal Pally,Janta Nagar,Siliguri,West Bengal 734001,India",0.0,movement,Idle,2020-01-03 14:00:39
+3492767,1734,26.72012925,88.42415384,2020-01-03 12:48:00,1.50163,14.1,42.0,gps,"HMA Building,Nabin Sen Rd,Mahakal Pally,Janta Nagar,Siliguri,West Bengal 734001,India",0.0,movement,Idle,2020-01-03 14:00:44
+3493167,1734,26.71969089,88.42003012,2020-01-03 13:08:01,0.0,0.0,212.0,gps,"23,Hill Cart Rd,Ward 10,Ward 4,Janta Nagar,Siliguri,West Bengal 734001,India",0.474,movement,,2020-01-03 15:51:43
+3493168,1734,26.71985977,88.4157787,2020-01-03 13:24:01,0.0,0.0,226.0,gps,"Junction Rd,Coolie Patti,Patiram Jote,Siliguri,West Bengal 734001,India",2.178,movement,Idle,2020-01-03 15:51:46
+3493169,1734,26.71985977,88.4157787,2020-01-03 13:40:01,0.0,0.0,226.0,gps,"Junction Rd,Coolie Patti,Patiram Jote,Siliguri,West Bengal 734001,India",0.0,movement,Idle,2020-01-03 15:51:48
+3493171,1734,26.72084353,88.41934824,2020-01-03 13:55:01,0.0,0.0,11.0,gps,"Durga Nagar Colony,Pradhan Nagar PO,Gurung Basti,Siliguri,West Bengal 734003,India",1.0759999999999998,movement,,2020-01-03 15:51:50
+3493174,1734,26.72014533,88.41983834,2020-01-03 14:00:25,0.0,0.0,0.0,gps,"1,Hill Cart Rd,Ward 3,Janta Nagar,Siliguri,West Bengal 734001,India",0.0,activity,Idle,2020-01-03 15:51:55
+3493175,1734,26.71987631189177,88.42016519876385,2020-01-03 14:26:18,0.0,0.0,100606.0,fused,"1,Hill Cart Rd,Ward 3,Janta Nagar,Siliguri,West Bengal 734001,India",0.4270000000000001,movement,Idle,2020-01-03 15:52:02
+3493177,1734,26.71987631189177,88.42016519876385,2020-01-03 14:41:34,0.0,81.0,100606.0,fused,"1,Hill Cart Rd,Ward 3,Janta Nagar,Siliguri,West Bengal 734001,India",0.0,movement,Idle,2020-01-03 15:52:06
+3493178,1734,26.69237148,88.42993864,2020-01-03 14:55:07,0.0,0.0,44.0,gps,"Ustad Amir Khan Sarani,Babupara,Siliguri,West Bengal 734004,India",4.062,movement,Idle,2020-01-03 15:52:12
+3493179,1734,26.69237148,88.42993864,2020-01-03 15:16:02,0.0,0.0,44.0,gps,"Ustad Amir Khan Sarani,Babupara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 15:52:17
+3493181,1734,26.69237148,88.42993864,2020-01-03 15:32:01,0.0,0.0,44.0,gps,"Ustad Amir Khan Sarani,Babupara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 15:52:23
+3493182,1734,26.68454574,88.44386686,2020-01-03 15:47:27,0.920054,147.2,14.0,gps,"New Jalpaiguri Junction,Ward 35,Nayapara,Siliguri,West Bengal 734007,India",2.147,movement,Idle,2020-01-03 15:52:30
+3493183,1734,26.68454574,88.44386686,2020-01-03 15:51:33,0.87023,157.6,14.0,gps,"New Jalpaiguri Junction,Ward 35,Nayapara,Siliguri,West Bengal 734007,India",0.0,movement,Idle,2020-01-03 15:52:38
+3493184,1734,26.68381311,88.44410437,2020-01-03 15:52:12,0.0,0.0,0.0,gps,"NJP TOY TRAIN PLATFORM DHR,New Jalpaiguri Railway Station,New Jalpaiguri,Dist,Nayapara,Siliguri,West Bengal 734004,India",0.0,activity,,2020-01-03 15:52:45
+3493238,1734,26.68286028,88.44383729,2020-01-03 16:06:46,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.187496,movement,Idle,2020-01-03 16:06:55
+3493301,1734,26.68286028,88.44383729,2020-01-03 16:21:22,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 16:25:11
+3493340,1734,26.68286028,88.44383729,2020-01-03 16:36:37,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 16:36:39
+3493679,1734,26.68286028,88.44383729,2020-01-03 16:56:01,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 18:27:53
+3493680,1734,26.68286028,88.44383729,2020-01-03 17:16:00,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 18:27:54
+3493681,1734,26.68286028,88.44383729,2020-01-03 17:32:00,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 18:27:56
+3493682,1734,26.68286028,88.44383729,2020-01-03 17:48:00,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 18:27:57
+3493683,1734,26.68286028,88.44383729,2020-01-03 18:05:24,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 18:27:58
+3493684,1734,26.68286028,88.44383729,2020-01-03 18:24:01,0.0,0.0,29.0,gps,"PLATFORM 2,NJP Railway Station,Nayapara,Siliguri,West Bengal 734004,India",0.0,movement,Idle,2020-01-03 18:27:59

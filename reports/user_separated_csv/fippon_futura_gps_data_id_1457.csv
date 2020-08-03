@@ -1,0 +1,59 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492133,1457,20.9859759,75.5333898,2020-01-03 10:56:26,0.0,0.0,2823.0,network,"Nerinaka,Neri Naka,Digambar Housing Society,Jalgaon,Maharashtra 425002,India",0.0,punchIn,,2020-01-03 10:56:29
+3492136,1457,20.99091173,75.53765642,2020-01-03 10:58:07,0.0,0.0,138.28799999999998,gps,"Girana Pumping Rd,Digambar Housing Society,Jalgaon,Maharashtra 425002,India",1.011,movement,Idle,2020-01-03 10:58:09
+3492181,1457,20.99091173,75.53765642,2020-01-03 11:11:34,0.0,0.0,138.28799999999998,gps,"Girana Pumping Rd,Digambar Housing Society,Jalgaon,Maharashtra 425002,India",0.0,movement,Idle,2020-01-03 11:11:35
+3492226,1457,20.99091173,75.53765642,2020-01-03 11:26:48,0.0,0.0,138.28799999999998,gps,"Girana Pumping Rd,Digambar Housing Society,Jalgaon,Maharashtra 425002,India",0.0,movement,Idle,2020-01-03 11:26:50
+3492268,1457,20.99045419,75.53707534,2020-01-03 11:41:48,0.0,0.0,128.64,gps,"G. No 165 P. No 11,Jijau Nagar,Digambar Housing Society,Jalgaon,Maharashtra 425001,India",0.0,movement,Idle,2020-01-03 11:41:50
+3492314,1457,20.99045419,75.53707534,2020-01-03 11:56:50,0.0,0.0,128.64,gps,"G. No 165 P. No 11,Jijau Nagar,Digambar Housing Society,Jalgaon,Maharashtra 425001,India",0.0,movement,Idle,2020-01-03 11:56:52
+3492390,1457,20.99045419,75.53707534,2020-01-03 12:11:49,0.0,0.0,128.64,gps,"G. No 165 P. No 11,Jijau Nagar,Digambar Housing Society,Jalgaon,Maharashtra 425001,India",0.0,movement,Idle,2020-01-03 12:11:51
+3492445,1457,20.99045419,75.53707534,2020-01-03 12:26:51,0.0,0.0,128.64,gps,"G. No 165 P. No 11,Jijau Nagar,Digambar Housing Society,Jalgaon,Maharashtra 425001,India",0.0,movement,Idle,2020-01-03 12:26:54
+3492500,1457,20.99220179,75.53884578,2020-01-03 12:41:53,7.85,91.6,9.648,gps,"Girana Pumping Rd,Digambar Housing Society,Jalgaon,Maharashtra 425002,India",0.472,movement,,2020-01-03 12:41:54
+3492546,1457,20.99397444,75.54736804,2020-01-03 12:56:54,0.0,0.0,88.976,gps,"Unnamed Road,Kisanrao Nagar,Yashwant Nagar,Jalgaon,Maharashtra 425002,India",1.269,movement,Idle,2020-01-03 12:56:57
+3492588,1457,20.99397444,75.54736804,2020-01-03 13:11:52,0.0,0.0,88.976,gps,"Unnamed Road,Kisanrao Nagar,Yashwant Nagar,Jalgaon,Maharashtra 425002,India",0.0,movement,Idle,2020-01-03 13:11:54
+3492628,1457,20.99330054,75.55789202,2020-01-03 13:22:09,1.91,225.5,17.152,gps,"9/A,Mahabal Rd,Jai Nagar,Jalgaon,Maharashtra 42500191,Mahabal Rd,Jai Nagar,Jalgaon,Maharashtra 425001,India",1.35,movement,Idle,2020-01-03 13:22:12
+3492631,1457,20.993219600000003,75.55779441,2020-01-03 13:22:53,0.0,0.0,0.0,gps,"Ramanand Nagar Rd,Ramdas Colony,Jalgaon,Maharashtra 425002,India",0.0,activity,Idle,2020-01-03 13:23:04
+3492657,1457,20.99322649,75.55779138,2020-01-03 13:28:23,0.0,0.0,4.288,gps,"Ramanand Nagar Rd,Ramdas Colony,Jalgaon,Maharashtra 425002,India",0.0,movement,Idle,2020-01-03 13:28:25
+3492704,1457,0.0,0.0,2020-01-03 13:43:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:43:26
+3492749,1457,0.0,0.0,2020-01-03 13:56:12,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:56:14
+3492754,1457,21.01117686,75.56656956,2020-01-03 13:57:12,0.0,0.0,0.0,gps,"1-5,Plot No. 67,Near Balgandharv Theater,Visanji Nagar,Jaikisan Wadi,Jalgaon,Maharashtra 425001,India",2.43,activity,Idle,2020-01-03 13:57:30
+3492755,1457,21.01117731,75.56657099,2020-01-03 13:57:44,0.0,0.0,0.0,gps,"1-5,Plot No. 67,Near Balgandharv Theater,Visanji Nagar,Jaikisan Wadi,Jalgaon,Maharashtra 425001,India",2.43,activity,Idle,2020-01-03 13:57:56
+3492769,1457,21.01173043,75.56203697,2020-01-03 14:00:53,0.0,0.0,5.36,gps,"Dukan No: 5,J.T. Chamber,Pratap Nagar,Jalgaon,Maharashtra 425001,India",2.5540000000000003,movement,,2020-01-03 14:00:55
+3492813,1457,21.00145554,75.55944363,2020-01-03 14:14:19,0.0,0.0,0.0,gps,"400,Bhaskar Market Rd,Pratap Nagar,Jalgaon,Maharashtra 425001,India",1.4780000000000002,activity,Idle,2020-01-03 14:14:38
+3492816,1457,21.00144695,75.55944662,2020-01-03 14:15:52,0.0,0.0,3.216,gps,"400,Bhaskar Market Rd,Pratap Nagar,Jalgaon,Maharashtra 425001,India",1.4780000000000002,movement,Idle,2020-01-03 14:15:54
+3492824,1457,21.00071097,75.55817109,2020-01-03 14:18:08,2.77,251.8,16.08,gps,"41,MJ College Rd,Vidhya Nagar,Ramdas Colony,Jalgaon,Maharashtra 425001,India",0.162,movement,,2020-01-03 14:18:11
+3492876,1457,0.0,0.0,2020-01-03 14:33:10,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:33:12
+3492944,1457,0.0,0.0,2020-01-03 14:48:11,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:48:13
+3492987,1457,0.0,0.0,2020-01-03 15:03:12,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:03:13
+3493051,1457,0.0,0.0,2020-01-03 15:18:13,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:18:14
+3493123,1457,0.0,0.0,2020-01-03 15:33:23,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:33:24
+3493158,1457,0.0,0.0,2020-01-03 15:48:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:48:26
+3493228,1457,0.0,0.0,2020-01-03 16:03:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:03:26
+3493249,1457,0.0,0.0,2020-01-03 16:11:36,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:11:38
+3493309,1457,0.0,0.0,2020-01-03 16:26:36,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:26:38
+3493353,1457,0.0,0.0,2020-01-03 16:41:37,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:41:39
+3493403,1457,0.0,0.0,2020-01-03 16:56:37,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:56:39
+3493457,1457,0.0,0.0,2020-01-03 17:11:38,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:11:39
+3493491,1457,0.0,0.0,2020-01-03 17:26:39,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:26:40
+3493542,1457,0.0,0.0,2020-01-03 17:41:39,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:41:41
+3493585,1457,0.0,0.0,2020-01-03 17:56:40,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:56:41
+3493625,1457,0.0,0.0,2020-01-03 18:11:40,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:11:42
+3493676,1457,0.0,0.0,2020-01-03 18:26:41,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:26:43
+3493717,1457,0.0,0.0,2020-01-03 18:41:41,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:41:43
+3493752,1457,0.0,0.0,2020-01-03 18:57:16,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:57:18
+3493809,1457,0.0,0.0,2020-01-03 19:12:17,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:12:19
+3493852,1457,0.0,0.0,2020-01-03 19:27:18,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:27:23
+3493929,1457,0.0,0.0,2020-01-03 19:42:19,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:42:22
+3493956,1457,0.0,0.0,2020-01-03 19:57:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:57:27
+3494060,1457,0.0,0.0,2020-01-03 20:13:03,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:28:22
+3494061,1457,0.0,0.0,2020-01-03 20:28:19,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:28:35
+3494103,1457,0.0,0.0,2020-01-03 20:43:20,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:43:21
+3494139,1457,0.0,0.0,2020-01-03 20:58:20,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:00:01
+3494152,1457,0.0,0.0,2020-01-03 21:13:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:13:23
+3494176,1457,0.0,0.0,2020-01-03 21:28:23,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:28:24
+3494217,1457,0.0,0.0,2020-01-03 21:43:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:43:25
+3494236,1457,0.0,0.0,2020-01-03 21:58:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:58:26
+3494258,1457,0.0,0.0,2020-01-03 22:13:26,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:13:28
+3494311,1457,0.0,0.0,2020-01-03 22:28:26,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:28:29
+3494344,1457,0.0,0.0,2020-01-03 22:43:35,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:43:40
+3494357,1457,0.0,0.0,2020-01-03 22:55:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:55:48
+3494358,1457,20.9885866,75.5376779,2020-01-03 22:55:58,0.0,0.0,600.0,network,"Wagh Nagar,Digambar Housing Society,Jalgaon,Maharashtra 425001,India",3.247,punchOut,,2020-01-03 22:56:02

@@ -1,0 +1,18 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491971,1709,17.37596418,78.57268175,2020-01-03 10:10:23,0.0,0.0,5.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,punchIn,Idle,2020-01-03 10:10:25
+3491972,1709,17.37596418,78.57268175,2020-01-03 10:10:25,0.0,0.0,5.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,movement,Idle,2020-01-03 10:10:27
+3492012,1709,17.37596418,78.57268175,2020-01-03 10:25:36,0.0,0.0,5.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,movement,Idle,2020-01-03 10:25:36
+3492058,1709,17.3695009,78.57360899999998,2020-01-03 10:40:43,0.0,0.0,26.386,gps,"Anand Nagar,Andalaguda,Bandlaguda,Nagole,Hyderabad,Telangana 500068,India",1.094,movement,Idle,2020-01-03 10:40:43
+3492131,1709,17.3695009,78.57360899999998,2020-01-03 10:55:47,0.0,0.0,26.386,gps,"Anand Nagar,Andalaguda,Bandlaguda,Nagole,Hyderabad,Telangana 500068,India",0.0,movement,Idle,2020-01-03 10:55:47
+3492215,1709,17.37600315,78.57268968,2020-01-03 11:25:51,0.0,0.0,11.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",1.096,movement,Idle,2020-01-03 11:25:52
+3492257,1709,17.37600315,78.57268968,2020-01-03 11:40:52,0.0,0.0,11.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,movement,Idle,2020-01-03 11:40:54
+3492436,1709,17.37600315,78.57268968,2020-01-03 11:55:53,0.0,0.0,11.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,movement,Idle,2020-01-03 12:25:57
+3492437,1709,17.37600315,78.57268968,2020-01-03 12:25:55,3.05747,346.992,11.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,movement,Idle,2020-01-03 12:25:58
+3492489,1709,17.37600315,78.57268968,2020-01-03 12:40:56,0.0,0.0,11.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,movement,Idle,2020-01-03 12:40:58
+3493803,1709,17.37600315,78.57268968,2020-01-03 19:11:23,0.0,0.0,11.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,movement,Idle,2020-01-03 19:11:25
+3493806,1709,17.37600061,78.57277093,2020-01-03 19:11:37,0.0,0.0,0.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,activity,Idle,2020-01-03 19:11:46
+3493807,1709,17.37599031,78.57270807,2020-01-03 19:12:03,0.0,0.0,0.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,activity,Idle,2020-01-03 19:12:11
+3493810,1709,17.37599281,78.57270574,2020-01-03 19:12:29,0.0,0.0,0.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,activity,Idle,2020-01-03 19:12:37
+3493812,1709,17.37594291,78.57273747,2020-01-03 19:13:20,0.0,0.0,0.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,activity,Idle,2020-01-03 19:13:30
+3493813,1709,17.3759344,78.57274035,2020-01-03 19:14:06,0.0,0.0,0.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,activity,Idle,2020-01-03 19:14:16
+3493819,1709,17.37593509,78.57273851,2020-01-03 19:14:32,0.0,0.0,3.0,gps,"58,AHS Colony,Ajay Nagar,Nagole,Hyderabad,Telangana 500068,India",0.0,punchOut,Idle,2020-01-03 19:15:13

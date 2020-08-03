@@ -1,0 +1,39 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3493053,1717,8.38747095,77.14385662,2020-01-03 15:18:31,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,punchIn,Idle,2020-01-03 15:18:42
+3493054,1717,8.38747095,77.14385662,2020-01-03 15:18:46,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 15:18:53
+3493055,1717,8.38747095,77.14385662,2020-01-03 15:19:12,0.0,0.0,0.0,na,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,activity,Idle,2020-01-03 15:19:21
+3493125,1717,8.38747095,77.14385662,2020-01-03 15:33:43,0.55,310.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 15:33:47
+3493160,1717,8.38747095,77.14385662,2020-01-03 15:48:38,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 15:48:46
+3493332,1717,8.38747095,77.14385662,2020-01-03 16:03:39,0.48,245.4,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 16:33:43
+3493333,1717,8.38747095,77.14385662,2020-01-03 16:23:26,1.04,93.3,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 16:33:51
+3493334,1717,8.38747095,77.14385662,2020-01-03 16:33:36,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 16:34:00
+3493384,1717,8.38747095,77.14385662,2020-01-03 16:48:43,0.32,48.7,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 16:48:48
+3493559,1717,8.38747095,77.14385662,2020-01-03 17:03:33,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 17:48:43
+3493573,1717,8.38747095,77.14385662,2020-01-03 17:48:38,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 17:53:51
+3493601,1717,8.38747095,77.14385662,2020-01-03 17:18:33,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 18:03:39
+3493602,1717,8.38747095,77.14385662,2020-01-03 17:33:33,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 18:03:41
+3493603,1717,8.38747095,77.14385662,2020-01-03 18:03:35,3.1,242.7,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 18:03:43
+3493658,1717,8.38747095,77.14385662,2020-01-03 18:18:34,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 18:18:36
+3493697,1717,8.38747095,77.14385662,2020-01-03 18:33:34,0.28,81.5,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 18:33:36
+3493732,1717,8.38747095,77.14385662,2020-01-03 18:48:34,0.0,0.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 18:48:36
+3493761,1717,8.38747095,77.14385662,2020-01-03 19:03:36,0.43,301.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 19:03:39
+3493826,1717,8.38747095,77.14385662,2020-01-03 19:18:34,5.65,192.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 19:18:37
+3493880,1717,8.41748948,77.19481434,2020-01-03 19:33:34,0.33,199.9,22.512,gps,"Parassala Vellarada Rd,Kerala 695505,India",8.004,movement,Idle,2020-01-03 19:33:38
+3493941,1717,8.41748948,77.19481434,2020-01-03 19:48:36,0.79,341.4,22.512,gps,"Parassala Vellarada Rd,Kerala 695505,India",0.0,movement,Idle,2020-01-03 19:48:39
+3493985,1717,8.41828318,77.1950297,2020-01-03 20:03:35,0.0,0.0,5.36,gps,"Parassala Vellarada Rd,Tamil Nadu 695505,India",0.0,movement,Idle,2020-01-03 20:03:37
+3494080,1717,8.41828318,77.1950297,2020-01-03 20:18:33,0.33,353.6,5.36,gps,"Parassala Vellarada Rd,Tamil Nadu 695505,India",0.0,movement,Idle,2020-01-03 20:33:37
+3494081,1717,8.41777453,77.1943801,2020-01-03 20:33:35,0.7,154.9,24.656,gps,"Parassala Vellarada Rd,Kerala 695505,India",0.0,movement,,2020-01-03 20:33:38
+3494119,1717,8.38566823,77.14203239,2020-01-03 20:48:35,0.0,0.0,6.432,gps,"Amaravila-Karakonam Rd,Kollayil,Kerala 695503,India",8.238999999999999,movement,,2020-01-03 20:48:37
+3494145,1717,8.38362229,77.14352378,2020-01-03 21:03:35,0.18,315.0,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695508,India",0.415,movement,Idle,2020-01-03 21:03:38
+3494165,1717,8.38362229,77.14352378,2020-01-03 21:18:35,0.49,174.6,9.648,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695508,India",0.0,movement,Idle,2020-01-03 21:18:37
+3494211,1717,8.38773745,77.14381767,2020-01-03 21:33:34,5.53,62.7,15.008,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.865,movement,Idle,2020-01-03 21:33:36
+3494228,1717,8.38773745,77.14381767,2020-01-03 21:48:34,0.0,0.0,15.008,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 21:48:35
+3494248,1717,8.38773745,77.14381767,2020-01-03 22:03:34,0.0,0.0,15.008,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 22:03:35
+3494270,1717,8.38773745,77.14381767,2020-01-03 22:18:34,0.57,123.4,15.008,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 22:18:37
+3494317,1717,8.38773745,77.14381767,2020-01-03 22:33:34,0.0,0.0,15.008,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 22:33:36
+3494354,1717,8.38923552,77.14292275,2020-01-03 22:48:35,0.33,25.7,53.6,gps,"Mekkolla Bhagavthy Temple Road,Kollayil,Kerala 695503,India",0.193554,movement,,2020-01-03 22:48:36
+3494376,1717,8.38741879,77.1436233,2020-01-03 23:03:40,0.0,0.0,39.664,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.599,movement,Idle,2020-01-03 23:03:44
+3494395,1717,8.38741879,77.1436233,2020-01-03 23:18:33,0.0,0.0,39.664,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 23:18:36
+3494406,1717,8.38741879,77.1436233,2020-01-03 23:33:34,0.66,3.4,39.664,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 23:33:36
+3494415,1717,8.38741879,77.1436233,2020-01-03 23:48:34,0.87,288.6,39.664,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,movement,Idle,2020-01-03 23:48:36
+3494426,1717,8.38747742,77.1437233,2020-01-03 23:59:00,0.0,0.0,33.232,gps,"Nediyamcode,Amaravila-Karakonam Rd,Kerala 695503,India",0.0,punchOut,Idle,2020-01-03 23:59:20

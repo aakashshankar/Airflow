@@ -1,0 +1,44 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492183,1352,22.6345651,88.45209840000003,2020-01-03 11:12:02,0.0,0.0,23.766,network,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,punchIn,Idle,2020-01-03 11:12:03
+3492184,1352,22.6345651,88.45209840000003,2020-01-03 11:12:04,0.0,0.0,23.766,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 11:12:06
+3492898,1352,22.6345651,88.45209840000003,2020-01-03 11:27:03,4.76,79.9,23.766,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 14:40:22
+3492899,1352,22.6345651,88.45209840000003,2020-01-03 11:42:04,1.49,58.7,23.766,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 14:40:23
+3492900,1352,22.63439719,88.45218539,2020-01-03 12:00:31,0.33,49.8,52.528,gps,"Jonaki Appartment Grond Floor Salua,Rajarhat Main Rd,Kalipark,Bablatala,Gopalpur I,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 14:40:25
+3492901,1352,22.63448992,88.45224067,2020-01-03 12:15:31,0.0,0.0,63.24800000000001,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 14:40:27
+3492902,1352,22.63448992,88.45224067,2020-01-03 12:30:31,0.0,0.0,63.24800000000001,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 14:40:28
+3492903,1352,22.63448992,88.45224067,2020-01-03 12:45:32,0.0,0.0,63.24800000000001,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 14:40:30
+3492904,1352,22.63439434,88.45166037,2020-01-03 13:00:31,0.0,0.0,26.8,gps,"Unnamed Road,Kalipark,Bablatala,Gopalpur I,Kolkata,West Bengal 700052,India",0.0,movement,Idle,2020-01-03 14:40:32
+3492905,1352,22.63399525,88.45354033,2020-01-03 13:15:31,0.0,0.0,28.944000000000006,gps,"Rajarhat Main Rd,Dash Drone,Bablatala,Gopalpur I,Kolkata,West Bengal 700136,India",0.51,movement,,2020-01-03 14:40:33
+3492906,1352,22.62887194,88.44656903,2020-01-03 13:30:31,3.31,222.3,15.008,gps,"Rajarhat Main Rd,Dash Drone,Kaikhali,Kolkata,West Bengal 700136,India",0.976,movement,,2020-01-03 14:40:38
+3492907,1352,22.59452054,88.39827393,2020-01-03 13:45:30,14.48,235.1,15.008,gps,"10,VIP Rd,AA Block,Sector 1,Ultadanga,Kolkata,West Bengal 700052,India",7.4060000000000015,movement,,2020-01-03 14:40:43
+3492908,1352,22.57810672,88.39017168,2020-01-03 14:00:30,0.86,215.6,63.24800000000001,gps,"P-328,CIT Rd,Scheme VI-M,Phool Bagan,Kankurgachi,Kolkata,West Bengal 700054,India",2.143,movement,,2020-01-03 14:40:47
+3492909,1352,22.57256182,88.38912223,2020-01-03 14:15:31,1.01,289.9,19.296,gps,"105,CIT Rd,Phool Bagan,Kankurgachi,Kolkata,West Bengal 700054,India",0.966,movement,,2020-01-03 14:40:53
+3492910,1352,22.57825512,88.36765036,2020-01-03 14:30:31,0.0,0.0,33.232,gps,"58,Keshab Chandra Sen St,City College,College Row,Machuabazar,Kolkata,West Bengal 700009,India",2.971,movement,Idle,2020-01-03 14:40:57
+3492911,1352,22.57825512,88.36765036,2020-01-03 14:40:20,0.0,0.0,33.232,gps,"58,Keshab Chandra Sen St,City College,College Row,Machuabazar,Kolkata,West Bengal 700009,India",0.0,movement,Idle,2020-01-03 14:41:00
+3492912,1352,22.58083473,88.36811124,2020-01-03 14:40:32,0.0,0.0,0.0,gps,"22/1B,College Street,Kolkata,West Bengal 700007,India",0.290808,activity,Idle,2020-01-03 14:41:09
+3494098,1352,22.58082704,88.36824256,2020-01-03 14:55:17,0.53,98.4,24.656,gps,"22/1B,College Street,Kolkata,West Bengal 700007,India",0.871,movement,Idle,2020-01-03 20:40:40
+3494099,1352,22.58082704,88.36824256,2020-01-03 15:10:30,0.53,98.4,24.656,gps,"22/1B,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 20:40:42
+3494149,1352,22.58082704,88.36824256,2020-01-03 15:25:30,0.53,98.4,24.656,gps,"22/1B,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:10:41
+3494179,1352,22.58085292,88.36795333,2020-01-03 15:40:30,0.73,312.4,42.88,gps,"78,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:29:14
+3494181,1352,22.58085292,88.36795333,2020-01-03 15:55:31,0.73,312.4,42.88,gps,"78,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:29:25
+3494182,1352,22.58083594,88.36784885,2020-01-03 16:10:31,0.0,0.0,46.096,gps,"80B,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:29:28
+3494183,1352,22.58083594,88.36784885,2020-01-03 16:25:31,0.0,0.0,46.096,gps,"80B,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:29:39
+3494184,1352,22.58083594,88.36784885,2020-01-03 16:40:32,0.0,0.0,46.096,gps,"80B,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:29:51
+3494185,1352,22.58083594,88.36784885,2020-01-03 16:55:31,0.0,0.0,46.096,gps,"80B,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:30:01
+3494186,1352,22.5806865,88.36789873,2020-01-03 17:10:31,0.0,0.0,135.072,gps,"79B,79A,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:30:05
+3494190,1352,22.5806865,88.36789873,2020-01-03 17:25:31,0.0,0.0,135.072,gps,"79B,79A,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:30:30
+3494192,1352,22.5806865,88.36789873,2020-01-03 17:40:30,0.0,0.0,135.072,gps,"79B,79A,College Street,Kolkata,West Bengal 700007,India",0.0,movement,Idle,2020-01-03 21:30:33
+3494193,1352,22.581103,88.36803942,2020-01-03 17:55:30,0.0,0.0,58.96,gps,"3,Guruprasad Chowdhury Ln,Simla,Machuabazar,Kolkata,West Bengal 700006,India",0.0,movement,Idle,2020-01-03 21:30:36
+3494194,1352,22.58049105,88.36797484,2020-01-03 18:10:30,0.0,0.0,16.08,gps,"78A,78B,College Street,Kolkata,West Bengal 700007,India",0.0,movement,,2020-01-03 21:30:46
+3494195,1352,22.58158022,88.37399070000002,2020-01-03 18:25:31,0.5,138.2,33.232,gps,"711,SH 1,Machuabazar,Kolkata,West Bengal 700009,India",1.482,movement,,2020-01-03 21:31:00
+3494196,1352,22.5847064,88.37485491,2020-01-03 18:40:31,0.43,343.7,32.16,gps,"Maniktala Crossing,Yogi Para,Garpar,Machuabazar,Kolkata,West Bengal 700006,India",0.513,movement,Idle,2020-01-03 21:31:03
+3494198,1352,22.58482688,88.37491204,2020-01-03 18:55:31,0.0,0.0,10.72,gps,"212,212A,Vivekananda Rd,Manicktala,Garpar,Machuabazar,Kolkata,West Bengal 700006,India",0.0,movement,Idle,2020-01-03 21:31:12
+3494201,1352,22.58482688,88.37491204,2020-01-03 19:10:31,0.0,0.0,10.72,gps,"212,212A,Vivekananda Rd,Manicktala,Garpar,Machuabazar,Kolkata,West Bengal 700006,India",0.0,movement,Idle,2020-01-03 21:31:24
+3494202,1352,22.58482688,88.37491204,2020-01-03 19:40:31,0.0,0.0,10.72,gps,"212,212A,Vivekananda Rd,Manicktala,Garpar,Machuabazar,Kolkata,West Bengal 700006,India",0.0,movement,Idle,2020-01-03 21:31:27
+3494203,1352,22.63447171,88.45226199,2020-01-03 20:10:32,0.0,0.0,17.152,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",12.148,movement,Idle,2020-01-03 21:31:33
+3494204,1352,22.63447171,88.45226199,2020-01-03 20:40:35,0.5,185.3,17.152,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 21:31:42
+3494205,1352,22.63447171,88.45226199,2020-01-03 21:10:35,0.0,0.0,17.152,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 21:31:44
+3494206,1352,22.63478458,88.45215675,2020-01-03 21:28:57,0.0,0.0,64.32,gps,"11-9/7,Kalipark,Bablatala,Gopalpur I,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 21:31:51
+3494207,1352,22.63478458,88.45215675,2020-01-03 21:28:58,0.0,0.0,64.32,gps,"11-9/7,Kalipark,Bablatala,Gopalpur I,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 21:32:02
+3494209,1352,22.63478458,88.45215675,2020-01-03 21:28:59,0.0,0.0,64.32,gps,"11-9/7,Kalipark,Bablatala,Gopalpur I,Kolkata,West Bengal 700136,India",0.0,movement,Idle,2020-01-03 21:32:25
+3494210,1352,22.63446302,88.45235928,2020-01-03 21:33:26,0.51,287.3,26.8,gps,"350,Rajarhat Main Rd,Near Bus Stop,Dash Drone,Bablatala,Newtown,Kolkata,West Bengal 700136,India",0.0,punchOut,,2020-01-03 21:33:30

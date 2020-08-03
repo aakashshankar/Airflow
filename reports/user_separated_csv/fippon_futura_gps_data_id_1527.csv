@@ -1,0 +1,18 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491804,1527,11.18535923123766,75.8734436244883,2020-01-02 20:48:05,0.575665,268.476,128.0,gps,"Kottakurumba Temple Rd,Kozhikode,Kerala 673633,India",0.944,movement,,2020-01-03 00:23:26
+3491805,1527,11.18594584434102,75.87378121875281,2020-01-02 23:59:00,0.062313,41.5795,48.0,gps,"Kottakurumba Temple Rd,Kozhikode,Kerala 673633,India",0.0,punchOut,,2020-01-03 00:23:30
+3493356,1527,11.175731,75.8739115,2020-01-03 16:42:18,0.0,0.0,27.301,fused,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,punchIn,Idle,2020-01-03 16:42:22
+3493358,1527,11.175731,75.8739115,2020-01-03 16:42:31,0.0,0.0,0.0,fused,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,activity,Idle,2020-01-03 16:42:38
+3493364,1527,11.175731,75.8739115,2020-01-03 16:43:52,0.0,0.0,27.301,fused,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 16:43:54
+3493367,1527,11.175731,75.8739115,2020-01-03 16:44:11,0.0,0.0,27.301,fused,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 16:44:14
+3493391,1527,11.175731,75.8739115,2020-01-03 16:52:23,0.0,0.0,27.301,fused,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 16:52:27
+3493397,1527,0.0,0.0,2020-01-03 16:55:30,0.0,0.0,0.0,,User has done Clear Data on app before Punch Out,0.0,punchOut,,2020-01-03 16:56:03
+3493398,1527,11.1757301,75.87389940000001,2020-01-03 16:56:00,0.0,0.0,23.619,network,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,punchIn,Idle,2020-01-03 16:56:03
+3493410,1527,11.1757301,75.87389940000001,2020-01-03 16:57:32,0.0,0.0,23.619,network,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 16:57:37
+3493461,1527,11.1757301,75.87389940000001,2020-01-03 17:12:33,0.0,0.0,23.619,network,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 17:12:34
+3493496,1527,11.1757301,75.87389940000001,2020-01-03 17:27:33,0.0,0.0,23.619,network,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 17:27:37
+3493557,1527,11.1757301,75.87389940000001,2020-01-03 17:47:35,0.0,0.0,23.619,network,"Ramanattukar Junction,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 17:47:37
+3493688,1527,11.176609804500757,75.87349015777447,2020-01-03 18:00:58,0.345052,309.501,128.0,gps,"Imperial Home Shop NH Bye Pass Junction,Ramanattukara,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 18:30:31
+3493689,1527,11.176609804500757,75.87349015777447,2020-01-03 18:30:28,0.0,0.0,128.0,gps,"Imperial Home Shop NH Bye Pass Junction,Ramanattukara,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 18:30:33
+3494289,1527,11.186024253685277,75.87392843333309,2020-01-03 20:23:06,0.7660939999999999,38.1981,96.0,gps,"Neelattuthazam Rd,Kozhikode,Kerala 673633,India",1.568,movement,Idle,2020-01-03 22:26:12
+3494291,1527,11.186097170799348,75.87382688445182,2020-01-03 22:26:07,0.0877152,228.51,4.0,gps,"Kottakurumba Temple Rd,Kozhikode,Kerala 673633,India",0.0,movement,Idle,2020-01-03 22:26:13

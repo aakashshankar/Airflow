@@ -1,0 +1,10 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492141,1230,28.6431779,77.3782397,2020-01-03 10:59:12,0.0,0.0,23.999,network,"Vasundhara - Indirapuram Rd,Niti Khand 3,Manoj Vihar,Indirapuram,Ghaziabad,Uttar Pradesh 201014,India",0.0,punchIn,Idle,2020-01-03 10:59:15
+3492142,1230,28.6431779,77.3782397,2020-01-03 10:59:16,0.81,0.0,23.999,gps,"Vasundhara - Indirapuram Rd,Niti Khand 3,Manoj Vihar,Indirapuram,Ghaziabad,Uttar Pradesh 201014,India",0.0,movement,Idle,2020-01-03 10:59:17
+3492185,1230,28.6490885540843,77.36082921735942,2020-01-03 11:12:24,0.0,0.0,78.0,gps,"127,Shakti Khand I,Indirapuram,Ghaziabad,Uttar Pradesh 201014,India",3.812,movement,Idle,2020-01-03 11:12:28
+3492227,1230,28.648904026485987,77.3611291218549,2020-01-03 11:27:21,0.22,0.0,19.0,gps,"GDA Flats,Sector 10,Shakti Khand I,Indirapuram,Ghaziabad,Uttar Pradesh 201014,India",0.0,movement,Idle,2020-01-03 11:27:23
+3492271,1230,28.648904026485987,77.3611291218549,2020-01-03 11:42:21,0.09,0.0,19.0,gps,"GDA Flats,Sector 10,Shakti Khand I,Indirapuram,Ghaziabad,Uttar Pradesh 201014,India",0.0,movement,Idle,2020-01-03 11:42:22
+3492391,1230,28.648904026485987,77.3611291218549,2020-01-03 11:57:20,0.2,0.0,19.0,gps,"GDA Flats,Sector 10,Shakti Khand I,Indirapuram,Ghaziabad,Uttar Pradesh 201014,India",0.0,movement,Idle,2020-01-03 12:12:33
+3492392,1230,28.648904026485987,77.3611291218549,2020-01-03 12:12:30,0.17,0.0,19.0,gps,"GDA Flats,Sector 10,Shakti Khand I,Indirapuram,Ghaziabad,Uttar Pradesh 201014,India",0.0,movement,Idle,2020-01-03 12:12:35
+3493999,1230,28.64755910821259,77.34697259031236,2020-01-03 20:06:22,10.57,123.3,5.0,gps,"630/5,Harshvardhan Marg,Sector 5,Vaishali,Ghaziabad,Uttar Pradesh 201010,India",2.861,punchOut,Idle,2020-01-03 20:08:44
+3494009,1230,28.64755910821259,77.34697259031236,2020-01-03 20:08:35,10.57,123.3,5.0,gps,"630/5,Harshvardhan Marg,Sector 5,Vaishali,Ghaziabad,Uttar Pradesh 201010,India",2.861,movement,Idle,2020-01-03 20:12:46

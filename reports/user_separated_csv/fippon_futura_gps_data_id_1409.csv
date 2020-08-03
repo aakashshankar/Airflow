@@ -1,0 +1,4 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491956,1409,0.0,0.0,2020-01-03 10:06:58,0.0,0.0,0.0,,User has done Clear Data on app before Punch Out,0.0,punchOut,,2020-01-03 10:07:49
+3491957,1409,28.886986666666665,76.60306333333331,2020-01-03 10:07:28,1.21114,283.73,4.1,gps,"17/6,Block No - 19,Gandhi Nagar,Arjun Nagar,Rohtak,Haryana 124001,India",0.0,punchIn,Idle,2020-01-03 10:07:51
+3491958,1409,28.886986666666665,76.60306333333331,2020-01-03 10:07:44,1.14732,282.9,4.1,gps,"17/6,Block No - 19,Gandhi Nagar,Arjun Nagar,Rohtak,Haryana 124001,India",0.0,movement,Idle,2020-01-03 10:07:58

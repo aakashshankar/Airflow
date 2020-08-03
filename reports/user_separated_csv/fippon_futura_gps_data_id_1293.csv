@@ -1,0 +1,46 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491878,1293,22.764407,75.87481509999998,2020-01-03 09:11:26,0.0,0.0,1102.0,network,"Radhakunj Apartment,51-A,Opp. Royal Bunglow,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,punchIn,,2020-01-03 09:11:30
+3491879,1293,22.76574827,75.87413256,2020-01-03 09:11:31,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.248,movement,Idle,2020-01-03 09:11:35
+3491891,1293,22.76574827,75.87413256,2020-01-03 09:26:30,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 09:26:33
+3491913,1293,22.76574827,75.87413256,2020-01-03 09:41:30,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 09:41:33
+3491927,1293,22.76574827,75.87413256,2020-01-03 09:56:30,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 09:56:32
+3491974,1293,22.76574827,75.87413256,2020-01-03 10:11:39,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 10:11:42
+3492017,1293,22.76574827,75.87413256,2020-01-03 10:26:37,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 10:26:40
+3492062,1293,22.76574827,75.87413256,2020-01-03 10:41:35,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 10:41:36
+3492134,1293,22.76574827,75.87413256,2020-01-03 10:56:36,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 10:56:37
+3492182,1293,22.76574827,75.87413256,2020-01-03 11:11:36,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 11:11:39
+3492222,1293,22.76574827,75.87413256,2020-01-03 11:26:37,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 11:26:39
+3492265,1293,22.76574827,75.87413256,2020-01-03 11:41:37,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 11:41:39
+3492313,1293,22.76574827,75.87413256,2020-01-03 11:56:38,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 11:56:40
+3492389,1293,22.76574827,75.87413256,2020-01-03 12:11:40,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 12:11:42
+3492444,1293,22.76574827,75.87413256,2020-01-03 12:26:40,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 12:26:44
+3492498,1293,22.76574827,75.87413256,2020-01-03 12:41:40,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 12:41:41
+3492545,1293,22.76574827,75.87413256,2020-01-03 12:56:40,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 12:56:42
+3492587,1293,22.76574827,75.87413256,2020-01-03 13:11:41,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 13:11:43
+3492652,1293,22.76574827,75.87413256,2020-01-03 13:26:42,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 13:26:44
+3492701,1293,22.76574827,75.87413256,2020-01-03 13:41:42,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 13:41:44
+3492753,1293,22.76574827,75.87413256,2020-01-03 13:56:42,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 13:56:44
+3492806,1293,22.76574827,75.87413256,2020-01-03 14:11:43,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 14:11:45
+3492845,1293,22.76574827,75.87413256,2020-01-03 14:26:44,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 14:26:45
+3492916,1293,22.76574827,75.87413256,2020-01-03 14:41:44,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 14:41:46
+3492972,1293,22.76574827,75.87413256,2020-01-03 14:56:45,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 14:56:47
+3493016,1293,22.76574827,75.87413256,2020-01-03 15:11:45,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 15:11:48
+3493089,1293,22.76574827,75.87413256,2020-01-03 15:26:46,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 15:26:48
+3493143,1293,22.76574827,75.87413256,2020-01-03 15:41:46,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 15:41:48
+3493198,1293,22.76574827,75.87413256,2020-01-03 15:56:47,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 15:56:49
+3493250,1293,22.76574827,75.87413256,2020-01-03 16:11:48,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 16:11:50
+3493312,1293,22.76574827,75.87413256,2020-01-03 16:26:48,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 16:26:50
+3493404,1293,22.76574827,75.87413256,2020-01-03 16:41:48,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 16:56:50
+3493405,1293,22.76574827,75.87413256,2020-01-03 16:56:49,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 16:56:52
+3493458,1293,22.76574827,75.87413256,2020-01-03 17:11:50,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 17:11:52
+3493492,1293,22.76574827,75.87413256,2020-01-03 17:26:50,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 17:26:52
+3493543,1293,22.76574827,75.87413256,2020-01-03 17:41:50,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 17:41:52
+3493586,1293,22.76574827,75.87413256,2020-01-03 17:56:50,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 17:56:52
+3493629,1293,22.76574827,75.87413256,2020-01-03 18:11:51,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 18:11:53
+3493667,1293,22.76574827,75.87413256,2020-01-03 18:24:56,0.0,0.0,37.52,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 18:24:59
+3493670,1293,22.76574827,75.87413256,2020-01-03 18:25:06,0.0,0.0,0.0,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,activity,Idle,2020-01-03 18:25:16
+3493671,1293,22.76574827,75.87413256,2020-01-03 18:25:19,0.0,0.0,0.0,gps,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",0.0,activity,Idle,2020-01-03 18:25:28
+3493710,1293,22.76507897,75.88727058,2020-01-03 18:39:58,0.43,305.4,3.216,gps,"178,Scheme No 78 Part 2,Opp. Prestige Engineering College,LCH Hospital Main Road,Scheme Number 78,Part II,Scheme 78,Vijay Nagar,Indore,Madhya Pradesh 452010,India",1.961,movement,Idle,2020-01-03 18:40:02
+3493737,1293,22.76507897,75.88727058,2020-01-03 18:51:57,0.43,305.4,3.216,gps,"178,Scheme No 78 Part 2,Opp. Prestige Engineering College,LCH Hospital Main Road,Scheme Number 78,Part II,Scheme 78,Vijay Nagar,Indore,Madhya Pradesh 452010,India",0.0,movement,Idle,2020-01-03 18:52:00
+3493738,1293,22.76507897,75.88727058,2020-01-03 18:52:21,0.0,0.0,0.0,gps,"178,Scheme No 78 Part 2,Opp. Prestige Engineering College,LCH Hospital Main Road,Scheme Number 78,Part II,Scheme 78,Vijay Nagar,Indore,Madhya Pradesh 452010,India",0.0,activity,Idle,2020-01-03 18:52:40
+3493739,1293,22.7655408,75.8742404,2020-01-03 18:52:43,0.0,0.0,48.9,network,"36,Row House,Swasthya Nagar,Sukhlia,Indore,Madhya Pradesh 452010,India",1.907,punchOut,Idle,2020-01-03 18:52:54

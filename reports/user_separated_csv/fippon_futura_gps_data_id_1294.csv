@@ -1,0 +1,49 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492125,1294,23.1773833,75.78723570000002,2020-01-03 10:51:19,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,punchIn,Idle,2020-01-03 10:52:03
+3492127,1294,23.1773833,75.78723570000002,2020-01-03 10:51:48,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 10:52:08
+3493004,1294,23.1773833,75.78723570000002,2020-01-03 11:07:24,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:09:41
+3493007,1294,23.1773833,75.78723570000002,2020-01-03 11:23:37,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:10:08
+3493008,1294,23.1773833,75.78723570000002,2020-01-03 11:40:49,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:10:13
+3493010,1294,23.1773833,75.78723570000002,2020-01-03 12:00:30,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:10:27
+3493011,1294,23.1773833,75.78723570000002,2020-01-03 12:15:34,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:10:38
+3493012,1294,23.1773833,75.78723570000002,2020-01-03 12:35:34,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:10:50
+3493013,1294,23.1773833,75.78723570000002,2020-01-03 12:53:35,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:11:16
+3493019,1294,23.1773833,75.78723570000002,2020-01-03 13:08:56,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:12:03
+3493020,1294,23.1773833,75.78723570000002,2020-01-03 13:26:34,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:12:15
+3493021,1294,23.1773833,75.78723570000002,2020-01-03 13:43:46,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:13:04
+3493064,1294,23.1773833,75.78723570000002,2020-01-03 13:59:00,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:23:17
+3493065,1294,23.1773833,75.78723570000002,2020-01-03 14:18:56,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:23:21
+3493066,1294,23.1773833,75.78723570000002,2020-01-03 14:37:56,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:23:24
+3493067,1294,23.1773833,75.78723570000002,2020-01-03 14:54:15,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:23:29
+3493068,1294,23.1773833,75.78723570000002,2020-01-03 14:54:48,0.0,0.0,0.0,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,activity,Idle,2020-01-03 15:23:44
+3493069,1294,23.1773833,75.78723570000002,2020-01-03 15:08:58,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:24:02
+3493071,1294,23.1773833,75.78723570000002,2020-01-03 15:09:29,0.0,0.0,0.0,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,activity,Idle,2020-01-03 15:24:14
+3493072,1294,23.1773833,75.78723570000002,2020-01-03 15:22:57,0.0,0.0,23.843000000000004,gps,"Madhav Club Rd,Sindhi Colony,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:24:35
+3493073,1294,23.1909283,75.7750839,2020-01-03 15:23:26,0.0,0.0,0.0,gps,"12,Subhash Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,activity,Idle,2020-01-03 15:24:53
+3493074,1294,23.1909283,75.7750839,2020-01-03 15:24:16,0.0,0.0,48.9,gps,"12,Subhash Nagar,Ujjain,Madhya Pradesh 456010,India",2.65,movement,Idle,2020-01-03 15:25:29
+3493111,1294,23.1909283,75.7750839,2020-01-03 15:30:46,0.0,0.0,48.9,gps,"12,Subhash Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 15:30:53
+3493161,1294,23.1926378,75.77688559999999,2020-01-03 15:32:06,0.0,0.0,0.0,gps,"Ujjain Jaora Rd,Advalpura,Ujjain,Madhya Pradesh 456006,India",0.331,activity,Idle,2020-01-03 15:48:47
+3493207,1294,23.1926378,75.77688559999999,2020-01-03 15:48:29,0.0,0.0,52.4,gps,"Ujjain Jaora Rd,Advalpura,Ujjain,Madhya Pradesh 456006,India",0.331,movement,Idle,2020-01-03 15:58:46
+3493208,1294,23.1926378,75.77688559999999,2020-01-03 15:58:25,0.0,0.0,52.4,gps,"Ujjain Jaora Rd,Advalpura,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 15:58:51
+3493211,1294,23.1926378,75.77688559999999,2020-01-03 15:58:45,0.0,0.0,0.0,gps,"Ujjain Jaora Rd,Advalpura,Ujjain,Madhya Pradesh 456006,India",0.0,activity,Idle,2020-01-03 15:59:07
+3493264,1294,23.1926378,75.77688559999999,2020-01-03 16:14:28,0.0,0.0,52.4,gps,"Ujjain Jaora Rd,Advalpura,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 16:14:40
+3493359,1294,23.1926378,75.77688559999999,2020-01-03 16:19:18,0.0,0.0,52.4,gps,"Ujjain Jaora Rd,Advalpura,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 16:43:03
+3493379,1294,23.1789693,75.7920914,2020-01-03 16:42:41,0.0,0.0,64.1,gps,"Lalwani Tower,Freeganj,Madhav Nagar,Ujjain,Madhya Pradesh 456010,India",3.294,movement,,2020-01-03 16:47:25
+3493479,1294,23.1926378,75.77688559999999,2020-01-03 16:19:58,0.0,0.0,0.0,gps,"Ujjain Jaora Rd,Advalpura,Ujjain,Madhya Pradesh 456006,India",0.0,activity,Idle,2020-01-03 17:21:06
+3493480,1294,23.1926378,75.77688559999999,2020-01-03 16:39:45,0.0,0.0,52.4,gps,"Ujjain Jaora Rd,Advalpura,Ujjain,Madhya Pradesh 456006,India",0.0,movement,Idle,2020-01-03 17:21:21
+3493528,1294,23.179063100000004,75.7924854,2020-01-03 16:42:20,0.0,0.0,0.0,gps,"14/1,Vikram Marg,Freeganj,Freeganj,Madhav Nagar,Ujjain,Madhya Pradesh 456010,India",3.254,activity,,2020-01-03 17:39:15
+3493530,1294,23.1790667,75.7925118,2020-01-03 17:00:53,0.0,0.0,23.921,gps,"14/1,Vikram Marg,Freeganj,Freeganj,Madhav Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 17:39:22
+3493532,1294,23.1790667,75.7925118,2020-01-03 17:20:52,0.0,0.0,23.921,gps,"14/1,Vikram Marg,Freeganj,Freeganj,Madhav Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 17:39:30
+3493533,1294,23.1790667,75.7925118,2020-01-03 17:36:40,0.0,0.0,23.921,gps,"14/1,Vikram Marg,Freeganj,Freeganj,Madhav Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 17:39:33
+3493534,1294,23.1790667,75.7925118,2020-01-03 17:38:50,0.0,0.0,23.921,gps,"14/1,Vikram Marg,Freeganj,Freeganj,Madhav Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 17:39:36
+3493535,1294,23.1790667,75.7925118,2020-01-03 17:39:13,0.0,0.0,0.0,gps,"14/1,Vikram Marg,Freeganj,Freeganj,Madhav Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,activity,Idle,2020-01-03 17:39:46
+3493575,1294,23.1612025,75.7877903,2020-01-03 17:55:05,0.0,0.0,39.6,gps,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",3.027,movement,Idle,2020-01-03 17:55:16
+3493641,1294,23.1612025,75.7877903,2020-01-03 18:14:57,0.0,0.0,39.6,gps,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 18:15:04
+3493740,1294,23.1612025,75.7877903,2020-01-03 18:35:05,0.0,0.0,39.6,gps,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 18:54:43
+3493741,1294,23.1612025,75.7877903,2020-01-03 18:54:28,0.0,0.0,39.6,gps,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 18:54:46
+3493814,1294,23.1612025,75.7877903,2020-01-03 19:14:26,0.0,0.0,39.6,gps,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 19:14:34
+3493991,1294,23.1612025,75.7877903,2020-01-03 19:34:25,0.0,0.0,39.6,gps,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 20:05:53
+3493992,1294,23.1612025,75.7877903,2020-01-03 19:50:41,0.0,0.0,39.6,gps,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 20:05:56
+3493993,1294,23.1612025,75.7877903,2020-01-03 20:05:48,0.0,0.0,39.6,gps,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,movement,Idle,2020-01-03 20:05:59
+3493996,1294,0.0,0.0,2020-01-03 20:07:04,0.0,0.0,0.0,na,Unknown Location,0.0,movement,,2020-01-03 20:07:11
+3493998,1294,23.1612025,75.7877903,2020-01-03 20:07:05,0.0,0.0,20.0,network,"96,Nanakheda,Indore Road,Opposite Ved Nagar,Shivaji Nagar,Ujjain,Madhya Pradesh 456010,India",0.0,punchOut,Idle,2020-01-03 20:07:45

@@ -1,0 +1,42 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492667,1415,19.174411666666668,72.86383166666666,2020-01-03 13:30:01,0.0,215.82,2.3,gps,"I-4,Yashodham,Goregaon,Mumbai,Maharashtra 400063,India",0.0,punchIn,Idle,2020-01-03 13:30:04
+3492668,1415,19.174411666666668,72.86383166666666,2020-01-03 13:30:04,0.0,215.82,2.3,gps,"I-4,Yashodham,Goregaon,Mumbai,Maharashtra 400063,India",0.0,movement,Idle,2020-01-03 13:30:08
+3492716,1415,19.175845,72.873755,2020-01-03 13:45:05,4.2176300000000015,97.17,1.7,gps,"General Arun Kumar Vaidya Marg,Malad,Banjar Pada,Dindoshi,Malad East,Mumbai,Maharashtra 400097,India",1.1840000000000002,movement,,2020-01-03 13:45:07
+3492764,1415,19.172488333333334,72.874865,2020-01-03 14:00:05,0.0,328.12,1.2,gps,"Shop No. 1,Hanuman Nagar Rahiwashi Sangh,Near Sai Baba Tea stall,Hanuman nagar,Muncipal Colony,Sector A,Goregaon,Mumbai,Maharashtra 400065,India",0.5,movement,Idle,2020-01-03 14:00:06
+3492815,1415,19.172488333333334,72.874865,2020-01-03 14:15:07,0.0,328.12,1.2,gps,"Shop No. 1,Hanuman Nagar Rahiwashi Sangh,Near Sai Baba Tea stall,Hanuman nagar,Muncipal Colony,Sector A,Goregaon,Mumbai,Maharashtra 400065,India",0.0,movement,Idle,2020-01-03 14:15:07
+3492855,1415,19.172488333333334,72.874865,2020-01-03 14:30:08,0.0,328.12,1.2,gps,"Shop No. 1,Hanuman Nagar Rahiwashi Sangh,Near Sai Baba Tea stall,Hanuman nagar,Muncipal Colony,Sector A,Goregaon,Mumbai,Maharashtra 400065,India",0.0,movement,Idle,2020-01-03 14:30:09
+3492939,1415,19.175441666666664,72.86543499999998,2020-01-03 14:45:09,8.04459,255.2,2.5,gps,"Dindoshi Bus Stand,Malad,Suchi Dham,Dindoshi,Malad East,Mumbai,Maharashtra 400097,India",1.244,movement,Idle,2020-01-03 14:45:11
+3492984,1415,19.175441666666664,72.86543499999998,2020-01-03 15:00:09,8.04459,255.2,2.5,gps,"Dindoshi Bus Stand,Malad,Suchi Dham,Dindoshi,Malad East,Mumbai,Maharashtra 400097,India",0.0,movement,Idle,2020-01-03 15:00:10
+3493032,1415,19.175441666666664,72.86543499999998,2020-01-03 15:15:09,8.04459,255.2,2.5,gps,"Dindoshi Bus Stand,Malad,Suchi Dham,Dindoshi,Malad East,Mumbai,Maharashtra 400097,India",0.0,movement,Idle,2020-01-03 15:15:10
+3493102,1415,19.175441666666664,72.86543499999998,2020-01-03 15:30:09,8.04459,255.2,2.5,gps,"Dindoshi Bus Stand,Malad,Suchi Dham,Dindoshi,Malad East,Mumbai,Maharashtra 400097,India",0.0,movement,Idle,2020-01-03 15:30:10
+3493149,1415,19.175441666666664,72.86543499999998,2020-01-03 15:45:09,8.04459,255.2,2.5,gps,"Dindoshi Bus Stand,Malad,Suchi Dham,Dindoshi,Malad East,Mumbai,Maharashtra 400097,India",0.0,movement,Idle,2020-01-03 15:45:10
+3493265,1415,19.211665,72.85173333333334,2020-01-03 16:01:15,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",7.109,movement,Idle,2020-01-03 16:15:14
+3493266,1415,19.211665,72.85173333333334,2020-01-03 16:15:11,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 16:15:15
+3493320,1415,19.211665,72.85173333333334,2020-01-03 16:30:13,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 16:30:16
+3493373,1415,19.211665,72.85173333333334,2020-01-03 16:45:14,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 16:45:18
+3493416,1415,19.211665,72.85173333333334,2020-01-03 17:00:15,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 17:00:17
+3493467,1415,19.211665,72.85173333333334,2020-01-03 17:15:16,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 17:15:18
+3493500,1415,19.211665,72.85173333333334,2020-01-03 17:30:17,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 17:30:20
+3493547,1415,19.211665,72.85173333333334,2020-01-03 17:45:18,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 17:45:20
+3493591,1415,19.211665,72.85173333333334,2020-01-03 18:00:19,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 18:00:21
+3493652,1415,19.211665,72.85173333333334,2020-01-03 18:15:20,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 18:15:22
+3493687,1415,19.211665,72.85173333333334,2020-01-03 18:30:20,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 18:30:22
+3493724,1415,19.211665,72.85173333333334,2020-01-03 18:45:21,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 18:45:23
+3493758,1415,19.211665,72.85173333333334,2020-01-03 19:00:22,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 19:00:24
+3493820,1415,19.211665,72.85173333333334,2020-01-03 19:15:23,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 19:15:26
+3493864,1415,19.211665,72.85173333333334,2020-01-03 19:30:24,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 19:30:28
+3493937,1415,19.211665,72.85173333333334,2020-01-03 19:45:25,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 19:45:28
+3493970,1415,19.211665,72.85173333333334,2020-01-03 20:00:26,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 20:00:29
+3494115,1415,19.211665,72.85173333333334,2020-01-03 20:15:31,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 20:46:39
+3494116,1415,19.211665,72.85173333333334,2020-01-03 20:30:26,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 20:46:41
+3494155,1415,19.211665,72.85173333333334,2020-01-03 20:45:28,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 21:15:32
+3494156,1415,19.211665,72.85173333333334,2020-01-03 21:00:28,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 21:15:33
+3494157,1415,19.211665,72.85173333333334,2020-01-03 21:15:29,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 21:15:39
+3494191,1415,19.211665,72.85173333333334,2020-01-03 21:30:30,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 21:30:32
+3494220,1415,19.211665,72.85173333333334,2020-01-03 21:45:32,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 21:45:34
+3494240,1415,19.211665,72.85173333333334,2020-01-03 22:00:33,5.90695,18.26,2.0,gps,"101,SV Rd,Fateh Baug,Kandivali,Mumbai,Maharashtra 400067,India",0.0,movement,Idle,2020-01-03 22:00:35
+3494250,1415,19.174411666666668,72.86383166666666,2020-01-03 22:05:35,0.0,0.0,0.0,gps,"I-4,Yashodham,Goregaon,Mumbai,Maharashtra 400063,India",8.593,activity,Idle,2020-01-03 22:05:40
+3494251,1415,19.174411666666668,72.86383166666666,2020-01-03 22:06:04,0.0,0.0,0.0,gps,"I-4,Yashodham,Goregaon,Mumbai,Maharashtra 400063,India",8.593,activity,Idle,2020-01-03 22:06:09
+3494252,1415,19.174411666666668,72.86383166666666,2020-01-03 22:06:25,0.0,0.0,0.0,gps,"I-4,Yashodham,Goregaon,Mumbai,Maharashtra 400063,India",8.593,activity,Idle,2020-01-03 22:06:35
+3494264,1415,19.215695,72.84830666666667,2020-01-03 22:15:35,0.0,0.0,6.5,gps,"Wing E/1,Haridas Nagar Rd,Shri Punit Nagar,Borivali West,Mumbai,Maharashtra 400092,India",1.16,movement,Idle,2020-01-03 22:15:38
+3494266,1415,19.215778333333333,72.84827833333334,2020-01-03 22:15:49,0.0,0.0,6.5,gps,"Wing A/1,Haridas Nagar Rd,Shri Punit Nagar,Borivali West,Mumbai,Maharashtra 400092,India",0.0,punchOut,Idle,2020-01-03 22:15:54

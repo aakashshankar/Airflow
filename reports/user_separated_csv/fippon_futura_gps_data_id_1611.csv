@@ -1,0 +1,25 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491887,1611,23.23255072,77.40809157,2020-01-02 23:32:14,0.0,0.0,4.112430000000002,gps,"Samaj Bhawan,Service Rd,Tulsi Nagar,Bhopal,Madhya Pradesh 462003,India",0.0,movement,Idle,2020-01-03 09:23:46
+3491888,1611,23.23255072,77.40809157,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,"Samaj Bhawan,Service Rd,Tulsi Nagar,Bhopal,Madhya Pradesh 462003,India",0.0,punchOut,Idle,2020-01-03 09:23:52
+3491889,1611,23.25089841,77.40020415,2020-01-03 09:23:55,0.0,0.0,16.995,gps,"Kaptan Shadi Hall Rd,Chobdarpura,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,punchIn,Idle,2020-01-03 09:23:56
+3491890,1611,23.25089841,77.40020415,2020-01-03 09:23:57,0.0,0.0,16.995,gps,"Kaptan Shadi Hall Rd,Chobdarpura,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 09:23:59
+3492214,1611,23.25100253,77.400142,2020-01-03 11:23:43,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 11:23:45
+3492295,1611,23.25100253,77.400142,2020-01-03 11:48:41,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 11:48:43
+3492341,1611,23.25100253,77.400142,2020-01-03 12:03:42,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 12:03:44
+3492417,1611,23.25100253,77.400142,2020-01-03 12:18:43,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 12:18:45
+3492467,1611,23.25100253,77.400142,2020-01-03 12:33:42,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 12:33:44
+3492521,1611,23.25100253,77.400142,2020-01-03 12:48:43,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 12:48:45
+3492560,1611,23.25100253,77.400142,2020-01-03 13:03:44,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 13:03:46
+3492612,1611,23.25100253,77.400142,2020-01-03 13:18:45,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 13:18:47
+3492706,1611,23.25100253,77.400142,2020-01-03 13:43:29,0.0,0.0,47.0516,gps,"1164,Kamla Park Rd,Near Fiza Hospital,Kamla Park,Patra Pari Ghat,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 13:43:30
+3492825,1611,23.25081663,77.40024633,2020-01-03 14:19:00,0.0,0.0,30.1347,gps,"Ginnori Rd,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 14:19:01
+3492986,1611,23.25081663,77.40024633,2020-01-03 15:03:09,0.0,0.0,30.1347,gps,"Ginnori Rd,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 15:03:11
+3492989,1611,23.25091795,77.40029496,2020-01-03 15:03:25,0.0,0.0,35.4429,gps,"Kaptan Shadi Hall Rd,Chobdarpura,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 15:03:27
+3492994,1611,23.25091795,77.40029496,2020-01-03 15:05:32,0.0,0.0,35.4429,gps,"Kaptan Shadi Hall Rd,Chobdarpura,Talaiya,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 15:05:35
+3493196,1611,23.2309487,77.42666819,2020-01-03 15:56:28,9.99,94.8,12.6065,gps,"?????? (B) | Vyapam (B),Shivaji Nagar,Bhopal,Madhya Pradesh 462016,India",5.3870000000000005,movement,,2020-01-03 15:56:31
+3493199,1611,23.23265445,77.43039366,2020-01-03 15:56:41,0.0,0.0,0.0,gps,"Dainik Bhaskar Mall,T-17,Hoshangabad Rd,DB City Mall,Zone-I,Maharana Pratap Nagar,Bhopal,Madhya Pradesh 462016,India",0.852,activity,,2020-01-03 15:56:51
+3493580,1611,23.22951171,77.43544047,2020-01-03 17:56:26,0.0,0.0,11.0017,gps,"9,Chetak complex,Zone-II,Maharana Pratap Nagar,Bhopal,Madhya Pradesh 462023,India",1.199,movement,,2020-01-03 17:56:29
+3493863,1611,23.29169491,77.4035137,2020-01-03 19:30:21,0.0,0.0,21.6893,gps,"7,Berasiya Rd,Devki Nagar,Karond,Bhopal,Madhya Pradesh 462038,India",9.977,movement,Idle,2020-01-03 19:30:23
+3493866,1611,23.29169491,77.4035137,2020-01-03 19:30:25,0.0,0.0,0.0,gps,"7,Berasiya Rd,Devki Nagar,Karond,Bhopal,Madhya Pradesh 462038,India",0.0,activity,Idle,2020-01-03 19:30:33
+3493868,1611,23.29169491,77.4035137,2020-01-03 19:30:36,0.0,0.0,0.0,gps,"7,Berasiya Rd,Devki Nagar,Karond,Bhopal,Madhya Pradesh 462038,India",0.0,activity,Idle,2020-01-03 19:30:44
+3494188,1611,23.30277396,77.40895116,2020-01-03 21:30:20,0.0,0.0,3.79009,gps,"H NO 65,Goya colony,Karond,Bhopal,Madhya Pradesh 462038,India",1.7480000000000002,movement,Idle,2020-01-03 21:30:23

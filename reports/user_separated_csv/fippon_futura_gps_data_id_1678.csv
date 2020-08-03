@@ -1,0 +1,15 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491883,1678,26.89367376,75.86553315,2020-01-03 09:19:07,12.48,299.2,4.288,gps,"Khamiya,Ghat Ki Guni,Jaipur,Rajasthan 302017,India",0.0,punchIn,,2020-01-03 09:19:09
+3491884,1678,26.89386471,75.86519597,2020-01-03 09:19:10,12.88,305.8,4.288,gps,"1026,Agra Rd,Khaniya,Jaipur,Rajasthan 302017,India",0.0,movement,,2020-01-03 09:19:11
+3492431,1678,26.921411,75.80483050000002,2020-01-03 12:24:37,0.0,0.0,23.264,network,"B 39 A,Citi Center,Sansar Chand Road,Opposite,Royal World,9982333148,Jalupura,Jaipur,Rajasthan 302001,India",8.872,movement,Idle,2020-01-03 12:24:40
+3492432,1678,26.921411,75.80483050000002,2020-01-03 12:24:44,0.0,0.0,23.264,network,"B 39 A,Citi Center,Sansar Chand Road,Opposite,Royal World,9982333148,Jalupura,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 12:24:45
+3492536,1678,26.921411,75.80483050000002,2020-01-03 12:53:02,0.0,0.0,23.264,network,"B 39 A,Citi Center,Sansar Chand Road,Opposite,Royal World,9982333148,Jalupura,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 12:53:03
+3492557,1678,0.0,0.0,2020-01-03 13:00:46,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:00:47
+3493284,1678,0.0,0.0,2020-01-03 16:19:57,0.0,0.0,0.0,,User has done Clear Data on app before Punch Out,0.0,punchOut,,2020-01-03 16:20:28
+3493285,1678,26.92141,75.8048323,2020-01-03 16:20:27,0.0,0.0,23.412,network,"B 39 A,Citi Center,Sansar Chand Road,Opposite,Royal World,9982333148,Jalupura,Jaipur,Rajasthan 302001,India",0.0,punchIn,Idle,2020-01-03 16:20:28
+3493292,1678,26.92141,75.8048323,2020-01-03 16:22:00,0.0,0.0,23.412,network,"B 39 A,Citi Center,Sansar Chand Road,Opposite,Royal World,9982333148,Jalupura,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 16:22:01
+3493604,1678,26.921408000000003,75.8048054,2020-01-03 18:04:57,0.0,0.0,0.0,network,"B 39 A,Citi Center,Sansar Chand Road,Opposite,Royal World,9982333148,Jalupura,Jaipur,Rajasthan 302001,India",0.0,activity,Idle,2020-01-03 18:05:04
+3493766,1678,26.89750850200653,75.90062499046327,2020-01-03 19:05:12,0.0,0.0,25.728,gps,"A-1,Geetabadi Near Ganesh Temple,,Agra Road,Jamdoli,Arjun Nagar,Sumel,Jaipur,Rajasthan 302031,India",13.371,movement,,2020-01-03 19:05:13
+3493767,1678,26.89746305,75.90055923,2020-01-03 19:05:15,0.0,0.0,0.0,gps,"A-1,Geetabadi Near Ganesh Temple,,Agra Road,Jamdoli,Arjun Nagar,Sumel,Jaipur,Rajasthan 302031,India",0.0,activity,Idle,2020-01-03 19:05:19
+3493768,1678,26.89745365,75.90055968,2020-01-03 19:05:25,0.0,0.0,0.0,gps,"3,Arjun Nagar,Sumel,Jaipur,Rajasthan 302031,India",0.0,activity,Idle,2020-01-03 19:05:28
+3493769,1678,26.89743383,75.90054513,2020-01-03 19:05:31,0.0,0.0,3.216,gps,"3,Arjun Nagar,Sumel,Jaipur,Rajasthan 302031,India",0.0,punchOut,Idle,2020-01-03 19:05:34

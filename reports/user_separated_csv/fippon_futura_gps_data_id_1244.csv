@@ -1,0 +1,34 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492137,1244,26.92450282,80.95974738,2020-01-03 10:58:25,0.0,0.0,12.864,gps,"647 B/C -003 A,GOKUL COLONY,Jankipuram Garden,jankipuram 2,Lucknow,Uttar Pradesh 226021,India",0.0,punchIn,Idle,2020-01-03 10:58:29
+3492138,1244,26.92450282,80.95974738,2020-01-03 10:58:28,0.0,0.0,12.864,gps,"647 B/C -003 A,GOKUL COLONY,Jankipuram Garden,jankipuram 2,Lucknow,Uttar Pradesh 226021,India",0.0,movement,Idle,2020-01-03 10:58:30
+3492189,1244,26.92450282,80.95974738,2020-01-03 11:13:29,1.69,32.8,12.864,gps,"647 B/C -003 A,GOKUL COLONY,Jankipuram Garden,jankipuram 2,Lucknow,Uttar Pradesh 226021,India",0.0,movement,Idle,2020-01-03 11:13:32
+3492918,1244,0.0,0.0,2020-01-03 11:28:28,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:36
+3492919,1244,0.0,0.0,2020-01-03 11:43:28,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:37
+3492920,1244,0.0,0.0,2020-01-03 11:58:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:37
+3492921,1244,0.0,0.0,2020-01-03 12:13:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:38
+3492922,1244,0.0,0.0,2020-01-03 12:28:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:39
+3492923,1244,0.0,0.0,2020-01-03 12:43:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:39
+3492924,1244,0.0,0.0,2020-01-03 12:58:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:40
+3492925,1244,0.0,0.0,2020-01-03 13:13:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:41
+3492926,1244,0.0,0.0,2020-01-03 13:28:30,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:41
+3492927,1244,0.0,0.0,2020-01-03 13:43:30,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:42
+3492928,1244,0.0,0.0,2020-01-03 13:58:30,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:42
+3492929,1244,0.0,0.0,2020-01-03 14:13:31,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:43
+3492930,1244,0.0,0.0,2020-01-03 14:43:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:43:44
+3493025,1244,0.0,0.0,2020-01-03 15:13:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:13:37
+3493145,1244,0.0,0.0,2020-01-03 15:43:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:43:36
+3493258,1244,0.0,0.0,2020-01-03 16:13:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:13:36
+3493363,1244,0.0,0.0,2020-01-03 16:43:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:43:37
+3493462,1244,0.0,0.0,2020-01-03 17:13:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:13:36
+3493546,1244,0.0,0.0,2020-01-03 17:43:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:43:38
+3493633,1244,0.0,0.0,2020-01-03 18:13:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:13:36
+3493721,1244,0.0,0.0,2020-01-03 18:43:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:43:36
+3493759,1244,0.0,0.0,2020-01-03 19:02:57,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:03:00
+3493824,1244,0.0,0.0,2020-01-03 19:18:01,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:18:05
+3493876,1244,0.0,0.0,2020-01-03 19:33:04,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:33:09
+3493940,1244,0.0,0.0,2020-01-03 19:48:07,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:48:12
+3494031,1244,0.0,0.0,2020-01-03 20:18:07,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:18:10
+3494118,1244,0.0,0.0,2020-01-03 20:48:07,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:48:10
+3494164,1244,0.0,0.0,2020-01-03 21:18:07,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:18:10
+3494253,1244,0.0,0.0,2020-01-03 22:11:47,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:11:49
+3494307,1244,0.0,0.0,2020-01-03 22:26:50,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:55

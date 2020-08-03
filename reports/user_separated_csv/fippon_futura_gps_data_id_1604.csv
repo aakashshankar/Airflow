@@ -1,0 +1,7 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492747,1604,10.76928653,76.01520347,2020-01-03 13:56:05,11.41,178.4,6.432,gps,"Thrissur - Kunnamkulam Rd,Vattamkulam,Kerala 679585,India",0.0,punchIn,Idle,2020-01-03 13:56:07
+3492748,1604,10.76928653,76.01520347,2020-01-03 13:56:08,11.41,178.4,6.432,gps,"Thrissur - Kunnamkulam Rd,Vattamkulam,Kerala 679585,India",0.0,movement,Idle,2020-01-03 13:56:08
+3494167,1604,10.773664854268908,76.01277082765107,2020-01-03 21:22:47,0.0,245.822,88.0884,gps,"Naduvattam Bus Stop,Koorkaparamb,Kaippuram,Kerala 679576,India",0.633,movement,Idle,2020-01-03 21:22:49
+3494168,1604,10.773664854268908,76.01277082765107,2020-01-03 21:23:13,0.0,0.0,0.0,gps,"Naduvattam Bus Stop,Koorkaparamb,Kaippuram,Kerala 679576,India",0.0,activity,Idle,2020-01-03 21:23:17
+3494170,1604,10.773664854268908,76.01277082765107,2020-01-03 21:23:33,0.0,0.0,0.0,gps,"Naduvattam Bus Stop,Koorkaparamb,Kaippuram,Kerala 679576,India",0.0,activity,Idle,2020-01-03 21:23:37
+3494172,1604,10.773664854268908,76.01277082765107,2020-01-03 21:23:53,0.0,0.0,5.36,gps,"Naduvattam Bus Stop,Koorkaparamb,Kaippuram,Kerala 679576,India",0.0,punchOut,Idle,2020-01-03 21:23:54

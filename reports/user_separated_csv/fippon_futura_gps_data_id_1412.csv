@@ -1,0 +1,7 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492143,1412,29.59860387265625,76.9806219822544,2020-01-02 13:28:14,15.1095,6.49582,8.0,gps,"Atta - Bilaspur Rd,Gharunda,Kutail,Haryana 132114,India",2.177,movement,,2020-01-03 10:59:32
+3492144,1412,29.605172462202386,76.98140859929026,2020-01-02 13:29:44,20.1521,6.43889,6.0,gps,"Atta - Bilaspur Rd,Gharunda,Maduban,Haryana 132114,India",0.7345729999999999,movement,,2020-01-03 10:59:41
+3492145,1412,29.688963702428225,77.00555054432485,2020-01-02 13:44:44,16.8865,6.09081,6.0,gps,"SH 8,Sector 13,Karnal,Haryana 132001,India",10.380999999999998,movement,,2020-01-03 10:59:48
+3492146,1412,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 11:00:00
+3492150,1412,29.4169017,76.96489890000002,2020-01-03 11:01:03,0.0,0.0,20.0,network,"Unnamed Road,Sector - 6,HUDA,Panipat,Haryana 132103,India",0.0,punchIn,Idle,2020-01-03 11:01:09
+3492152,1412,29.4169017,76.96489890000002,2020-01-03 11:01:12,0.221479,0.0,20.0,gps,"Unnamed Road,Sector - 6,HUDA,Panipat,Haryana 132103,India",0.0,movement,Idle,2020-01-03 11:01:17

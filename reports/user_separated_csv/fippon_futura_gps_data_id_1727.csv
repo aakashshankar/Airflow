@@ -1,0 +1,53 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492261,1727,15.35546272,75.10543466,2020-01-03 11:41:01,0.0,0.0,19.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,punchIn,Idle,2020-01-03 11:41:05
+3492262,1727,15.35546272,75.10543466,2020-01-03 11:41:07,0.0,0.0,19.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 11:41:09
+3492318,1727,15.35105091,75.11966426,2020-01-03 11:56:21,9.75,85.2,4.0,gps,"Industrial,Industrial Estate,Hubli,Karnataka 580021,India",1.994,movement,,2020-01-03 11:57:34
+3492387,1727,15.35599498,75.14998737,2020-01-03 12:11:22,0.0,0.0,10.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",4.013,movement,Idle,2020-01-03 12:11:39
+3492440,1727,15.35599498,75.14998737,2020-01-03 12:26:10,0.0,0.0,10.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 12:26:18
+3492495,1727,15.35599498,75.14998737,2020-01-03 12:41:15,0.0,0.0,10.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 12:41:19
+3492543,1727,15.34737176,75.14247801,2020-01-03 12:56:17,0.0,0.0,12.0,gps,"Opp Padma Talkies,Koppikar Road,Matosri,New Hubli,Hubli,Karnataka 580020,India",1.765,movement,,2020-01-03 12:56:23
+3492586,1727,15.34733892,75.14250631,2020-01-03 13:11:22,0.0,0.0,43.0,gps,"P.B.NO.10 ,First Floor,UMACHAGI Building,Koppikar Rd,New Hubli,Hubli,Karnataka 580020,India",0.0,movement,,2020-01-03 13:11:40
+3492650,1727,15.35452642,75.14608769,2020-01-03 13:26:24,7.0,203.9,4.0,gps,"#201 first floor,pavapuri enclave,Conventschool,near total appartment,Keshwapur,Hubli,Karnataka 580023,India",1.153,movement,,2020-01-03 13:26:37
+3492698,1727,15.34688579,75.14458466,2020-01-03 13:41:17,0.0,0.0,76.0,gps,"2nd stage,Shop No. 110,Laxmi Balkrishna Square,Harsha Complex,Station Road,New Hubli,Hubli,Karnataka 580020,India",1.106,movement,Idle,2020-01-03 13:41:21
+3492750,1727,15.34688579,75.14458466,2020-01-03 13:56:22,0.0,0.0,76.0,gps,"2nd stage,Shop No. 110,Laxmi Balkrishna Square,Harsha Complex,Station Road,New Hubli,Hubli,Karnataka 580020,India",0.0,movement,Idle,2020-01-03 13:56:24
+3492803,1727,15.34688579,75.14458466,2020-01-03 14:11:22,0.0,0.0,76.0,gps,"2nd stage,Shop No. 110,Laxmi Balkrishna Square,Harsha Complex,Station Road,New Hubli,Hubli,Karnataka 580020,India",0.0,movement,Idle,2020-01-03 14:11:25
+3492842,1727,15.34556805,75.14557673,2020-01-03 14:26:17,0.0,0.0,4.0,gps,"Station Road,Durgad Bail,New Hubli,Hubli,Karnataka 580028,India",0.241,movement,,2020-01-03 14:26:21
+3492913,1727,15.34677161,75.14472449,2020-01-03 14:41:19,0.0,0.0,10.0,gps,"Harsha Complex,New Hubli,Hubli,Karnataka 580028,India",0.229,movement,Idle,2020-01-03 14:41:22
+3492971,1727,15.34677161,75.14472449,2020-01-03 14:56:22,0.0,0.0,10.0,gps,"Harsha Complex,New Hubli,Hubli,Karnataka 580028,India",0.0,movement,Idle,2020-01-03 14:56:26
+3493014,1727,15.34677161,75.14472449,2020-01-03 15:11:23,0.0,0.0,10.0,gps,"Harsha Complex,New Hubli,Hubli,Karnataka 580028,India",0.0,movement,Idle,2020-01-03 15:11:28
+3493085,1727,15.35129467,75.10417158,2020-01-03 15:26:25,15.25,277.8,3.0,gps,"Basaveshwar Nagar Cross Bus Stop,Central Excise Colony,Basaveshvar Nagar,Hubali-Dharwad,Karnataka 580030,India",5.211,movement,,2020-01-03 15:26:29
+3493139,1727,15.35212546,75.1002165,2020-01-03 15:41:28,0.0,0.0,15.0,gps,"Ganapati Plaza,Plot No.33,R.S. No.610/D,Nehru Nagar,Unkal Village,16,Gokul Rd,Central Excise Colony,Gandhi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.591,movement,,2020-01-03 15:41:33
+3493197,1727,15.35136763,75.10307408,2020-01-03 15:56:29,0.0,0.0,248.0,gps,"Sri Lalitha Sowbhagya Kalyan Mantap,Gokul Rd,Manjunath Nagar,Hubli,Karnataka 580030,India",0.382,movement,,2020-01-03 15:56:33
+3493248,1727,15.35545657,75.10547559,2020-01-03 16:11:30,0.0,0.0,17.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.956,movement,Idle,2020-01-03 16:11:33
+3493310,1727,15.35545657,75.10547559,2020-01-03 16:26:36,0.0,0.0,17.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 16:26:39
+3493351,1727,15.35545657,75.10547559,2020-01-03 16:41:28,0.0,0.0,17.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 16:41:31
+3493402,1727,15.35545657,75.10547559,2020-01-03 16:56:26,0.0,0.0,17.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 16:56:29
+3493455,1727,15.35545657,75.10547559,2020-01-03 17:11:27,0.0,0.0,17.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 17:11:30
+3493490,1727,15.35551136,75.10546047,2020-01-03 17:26:34,0.75,173.0,16.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,,2020-01-03 17:26:37
+3493540,1727,15.35551154,75.10553328,2020-01-03 17:41:29,1.0,65.9,21.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 17:41:33
+3493581,1727,15.35551154,75.10553328,2020-01-03 17:56:27,1.0,65.9,21.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 17:56:30
+3493619,1727,15.35551154,75.10553328,2020-01-03 18:11:27,1.0,65.9,21.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 18:11:30
+3493674,1727,15.35551154,75.10553328,2020-01-03 18:26:28,1.0,65.9,21.0,gps,"Unnamed Road,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580030,India",0.0,movement,Idle,2020-01-03 18:26:32
+3493715,1727,15.35550295,75.10537901,2020-01-03 18:41:30,0.25,78.7,10.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,,2020-01-03 18:41:33
+3493750,1727,15.35147474,75.14188324,2020-01-03 18:56:36,13.5,55.5,6.0,gps,"Shri Siddappa Kambli Bus Stop,Hubli Karwar Road (NH-63),Deshpande Nagar,Hubli,Karnataka 580020,India",4.936,movement,,2020-01-03 18:57:02
+3493808,1727,15.35596621,75.15001275,2020-01-03 19:11:46,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",1.212,movement,Idle,2020-01-03 19:12:15
+3493926,1727,15.35596621,75.15001275,2020-01-03 19:26:37,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 19:41:44
+3493927,1727,15.35596621,75.15001275,2020-01-03 19:41:34,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 19:42:11
+3494004,1727,15.35596621,75.15001275,2020-01-03 19:57:16,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 20:11:56
+3494006,1727,15.35596621,75.15001275,2020-01-03 20:11:44,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 20:12:05
+3494058,1727,15.35596621,75.15001275,2020-01-03 20:26:36,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 20:26:40
+3494101,1727,15.35596621,75.15001275,2020-01-03 20:41:39,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 20:41:50
+3494136,1727,15.35596621,75.15001275,2020-01-03 20:56:50,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 20:56:57
+3494150,1727,15.35596621,75.15001275,2020-01-03 21:12:00,0.0,0.0,9.0,gps,"2nd Cross,Ram Nagar,Bhavani Nagar,Hubli,Karnataka 580023,India",0.0,movement,Idle,2020-01-03 21:12:15
+3494173,1727,15.35223566,75.14599593,2020-01-03 21:27:05,0.0,0.0,3.0,gps,"Sri Renuka Bar & Restaurant,Station Road,New Hubli,Hubli,Karnataka 580020,India",0.846,movement,Idle,2020-01-03 21:27:19
+3494233,1727,15.35223566,75.14599593,2020-01-03 21:41:59,0.0,0.0,3.0,gps,"Sri Renuka Bar & Restaurant,Station Road,New Hubli,Hubli,Karnataka 580020,India",0.0,movement,Idle,2020-01-03 21:57:36
+3494234,1727,15.35223566,75.14599593,2020-01-03 21:56:59,0.0,0.0,3.0,gps,"Sri Renuka Bar & Restaurant,Station Road,New Hubli,Hubli,Karnataka 580020,India",0.0,movement,Idle,2020-01-03 21:57:44
+3494254,1727,15.35545721,75.10538901,2020-01-03 22:11:56,0.0,0.0,4.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",5.169,movement,Idle,2020-01-03 22:12:01
+3494306,1727,15.35545721,75.10538901,2020-01-03 22:26:50,0.0,0.0,4.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,Idle,2020-01-03 22:26:54
+3494332,1727,15.35545721,75.10538901,2020-01-03 22:41:47,0.0,0.0,4.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,Idle,2020-01-03 22:41:50
+3494362,1727,15.35545721,75.10538901,2020-01-03 22:56:49,0.0,0.0,4.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,Idle,2020-01-03 22:56:52
+3494386,1727,15.35545721,75.10538901,2020-01-03 23:11:51,0.0,0.0,4.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,Idle,2020-01-03 23:11:56
+3494400,1727,15.35545721,75.10538901,2020-01-03 23:26:53,0.0,0.0,4.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,Idle,2020-01-03 23:26:58
+3494409,1727,15.35545721,75.10538901,2020-01-03 23:41:53,0.0,0.0,4.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,Idle,2020-01-03 23:41:59
+3494419,1727,15.35545721,75.10538901,2020-01-03 23:56:54,0.0,0.0,4.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,movement,Idle,2020-01-03 23:56:58
+3494424,1727,15.35545885,75.10541035,2020-01-03 23:59:00,0.0,0.0,38.0,gps,"Near Lingaraj Nagar,Bus Stop,Vidya Nagar,Ravi Nagar,Basaveshvar Nagar,Hubli,Karnataka 580021,India",0.0,punchOut,Idle,2020-01-03 23:59:20

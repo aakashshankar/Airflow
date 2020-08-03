@@ -1,0 +1,57 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492149,1295,23.16467888,79.96294246,2020-01-02 23:59:00,0.58,251.7,4.288,gps,"SAVITRI,597-3/2,Gcf Road,,Govindh Bhavan Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,punchOut,Idle,2020-01-03 11:00:56
+3492151,1295,23.16464038,79.95292859999998,2020-01-03 11:01:02,1.78,56.3,11.792,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,punchIn,Idle,2020-01-03 11:01:10
+3492153,1295,23.16464038,79.95292859999998,2020-01-03 11:01:14,1.78,56.3,11.792,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,movement,Idle,2020-01-03 11:01:22
+3492199,1295,23.16464038,79.95292859999998,2020-01-03 11:16:17,1.78,56.3,11.792,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,movement,Idle,2020-01-03 11:17:07
+3492240,1295,23.16464038,79.95292859999998,2020-01-03 11:31:15,1.78,56.3,11.792,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,movement,Idle,2020-01-03 11:31:56
+3492336,1295,23.16464038,79.95292859999998,2020-01-03 11:46:15,1.78,56.3,11.792,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,movement,Idle,2020-01-03 12:02:01
+3492410,1295,23.16464038,79.95292859999998,2020-01-03 12:14:16,0.0,0.0,0.0,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,activity,Idle,2020-01-03 12:15:11
+3492415,1295,23.16464038,79.95292859999998,2020-01-03 12:16:14,1.78,56.3,11.792,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,movement,Idle,2020-01-03 12:16:50
+3492461,1295,23.16464038,79.95292859999998,2020-01-03 12:31:22,1.78,56.3,11.792,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,movement,Idle,2020-01-03 12:32:03
+3492507,1295,23.16464038,79.95292859999998,2020-01-03 12:43:05,1.78,56.3,11.792,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,movement,Idle,2020-01-03 12:43:47
+3492508,1295,23.16464038,79.95292859999998,2020-01-03 12:43:15,0.0,0.0,0.0,gps,"Railway Parking,Platform No- 01 Jabalpur Junction,Tagore Railway Colony,South Civil Lines,Jabalpur,Madhya Pradesh 482001,India",0.0,activity,Idle,2020-01-03 12:44:09
+3492551,1295,0.0,0.0,2020-01-03 12:57:58,0.0,0.0,0.0,na,Unknown Location,0.0,movement,,2020-01-03 12:58:34
+3492608,1295,23.83969312,80.39695908,2020-01-03 13:13:38,0.0,0.0,8.576,gps,"Unnamed Road,Nai Basti,Nayi Basti,Katni,Madhya Pradesh 483501,India",106.35,movement,Idle,2020-01-03 13:15:55
+3492609,1295,23.83969312,80.39695908,2020-01-03 13:14:47,0.0,0.0,8.576,gps,"Unnamed Road,Nai Basti,Nayi Basti,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 13:15:56
+3492611,1295,23.83969312,80.39695908,2020-01-03 13:15:05,0.0,0.0,0.0,gps,"Unnamed Road,Nai Basti,Nayi Basti,Katni,Madhya Pradesh 483501,India",0.0,activity,Idle,2020-01-03 13:16:14
+3492671,1295,23.837829100000004,80.39721001,2020-01-03 13:29:55,1.05,351.1,42.88,gps,"Ghantaghar pathak gali,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.238,movement,Idle,2020-01-03 13:30:37
+3492721,1295,23.837829100000004,80.39721001,2020-01-03 13:44:53,1.05,351.1,42.88,gps,"Ghantaghar pathak gali,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 13:48:49
+3492817,1295,23.84122175,80.39640474,2020-01-03 14:00:22,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.472,movement,Idle,2020-01-03 14:15:56
+3492818,1295,23.84122175,80.39640474,2020-01-03 14:14:48,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 14:15:57
+3492857,1295,23.84122175,80.39640474,2020-01-03 14:29:48,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 14:30:24
+3492940,1295,23.84122175,80.39640474,2020-01-03 14:44:49,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 14:45:25
+3492983,1295,23.84122175,80.39640474,2020-01-03 14:59:51,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 14:59:53
+3493030,1295,23.84122175,80.39640474,2020-01-03 15:14:51,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 15:14:54
+3493101,1295,23.84122175,80.39640474,2020-01-03 15:29:52,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 15:29:54
+3493148,1295,23.84122175,80.39640474,2020-01-03 15:44:52,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 15:44:55
+3493217,1295,23.84122175,80.39640474,2020-01-03 15:59:53,1.02,280.1,4.288,gps,"Sondhiya Gali,Gandhi Ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 15:59:56
+3493471,1295,23.83711744,80.39541328,2020-01-03 16:31:08,0.0,0.0,15.008,gps,"96-b,Hanuman ganj,Katni,Madhya Pradesh 483501,India",0.488,movement,Idle,2020-01-03 17:18:23
+3493472,1295,23.83711744,80.39541328,2020-01-03 16:45:00,0.0,0.0,15.008,gps,"96-b,Hanuman ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 17:18:24
+3493474,1295,23.83711744,80.39541328,2020-01-03 16:59:56,0.0,0.0,15.008,gps,"96-b,Hanuman ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 17:18:25
+3493475,1295,23.83711744,80.39541328,2020-01-03 17:14:57,0.0,0.0,15.008,gps,"96-b,Hanuman ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 17:18:26
+3493499,1295,23.83711744,80.39541328,2020-01-03 17:29:57,0.0,0.0,15.008,gps,"96-b,Hanuman ganj,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 17:29:59
+3493972,1295,23.83329773,80.40077299,2020-01-03 17:45:39,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",1.17,movement,Idle,2020-01-03 20:00:38
+3493973,1295,23.83329773,80.40077299,2020-01-03 18:00:03,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:39
+3493974,1295,23.83329773,80.40077299,2020-01-03 18:15:06,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:40
+3493975,1295,23.83329773,80.40077299,2020-01-03 18:30:08,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:41
+3493976,1295,23.83329773,80.40077299,2020-01-03 18:44:57,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:42
+3493977,1295,23.83329773,80.40077299,2020-01-03 19:00:08,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:43
+3493979,1295,23.83329773,80.40077299,2020-01-03 19:15:07,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:45
+3493980,1295,23.83329773,80.40077299,2020-01-03 19:30:07,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:46
+3493981,1295,23.83329773,80.40077299,2020-01-03 19:45:05,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:46
+3493982,1295,23.83329773,80.40077299,2020-01-03 20:00:03,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:00:48
+3494018,1295,23.83329773,80.40077299,2020-01-03 20:15:04,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:15:05
+3494067,1295,23.83329773,80.40077299,2020-01-03 20:30:01,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:30:03
+3494112,1295,23.83329773,80.40077299,2020-01-03 20:45:05,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 20:45:08
+3494140,1295,23.83329773,80.40077299,2020-01-03 21:00:05,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 21:00:07
+3494153,1295,23.83329773,80.40077299,2020-01-03 21:15:05,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 21:15:07
+3494187,1295,23.83329773,80.40077299,2020-01-03 21:30:06,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 21:30:07
+3494218,1295,23.83329773,80.40077299,2020-01-03 21:45:06,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 21:45:08
+3494238,1295,23.83329773,80.40077299,2020-01-03 22:00:07,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 22:00:09
+3494261,1295,23.83329773,80.40077299,2020-01-03 22:15:07,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 22:15:08
+3494312,1295,23.83329773,80.40077299,2020-01-03 22:30:08,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 22:30:09
+3494347,1295,23.83329773,80.40077299,2020-01-03 22:45:10,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 22:45:12
+3494366,1295,23.83329773,80.40077299,2020-01-03 23:00:05,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 23:00:07
+3494391,1295,23.83329773,80.40077299,2020-01-03 23:15:09,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 23:15:11
+3494402,1295,23.83329773,80.40077299,2020-01-03 23:30:09,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 23:30:11
+3494411,1295,23.83329773,80.40077299,2020-01-03 23:45:07,0.0,0.0,17.152,gps,"Katni Junction,Gole Bazar,Katni,Madhya Pradesh 483501,India",0.0,movement,Idle,2020-01-03 23:45:09

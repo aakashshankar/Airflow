@@ -1,0 +1,11 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491809,1704,22.366871614940468,87.55157106555998,2020-01-02 20:20:04,10.58,236.4,18.5,gps,"Egra- Pataspur- Temathani- Balichak- Debra Rd,Balichak,West Bengal 721124,India",23.05,movement,,2020-01-03 01:26:00
+3491810,1704,22.36006068997085,87.56438112817705,2020-01-02 23:26:11,0.29,0.0,27.5,gps,"Balichak Radhamohanpur Rd,Balichak,West Bengal 721160,India",1.881,movement,Idle,2020-01-03 01:26:03
+3491811,1704,22.360093169845637,87.5644611753523,2020-01-02 23:59:00,0.56,186.9,29.5,gps,"Balichak Radhamohanpur Rd,Balichak,West Bengal 721160,India",0.0,punchOut,Idle,2020-01-03 01:26:06
+3493523,1704,22.358149825595326,87.55489683710039,2020-01-03 17:38:10,0.0,0.0,4.0,gps,"Lock Gate Rd,Balichak,West Bengal 721124,India",0.0,punchIn,Idle,2020-01-03 17:38:14
+3493524,1704,22.358149825595326,87.55489683710039,2020-01-03 17:38:13,0.0,0.0,4.0,gps,"Lock Gate Rd,Balichak,West Bengal 721124,India",0.0,movement,Idle,2020-01-03 17:38:15
+3493525,1704,22.35814664047211,87.55488233640791,2020-01-03 17:38:24,0.0,0.0,0.0,gps,"Lock Gate Rd,Balichak,West Bengal 721124,India",0.0,activity,Idle,2020-01-03 17:38:31
+3493526,1704,22.35814282670617,87.55487730726601,2020-01-03 17:38:39,0.0,0.0,0.0,gps,"1,Lock Gate Rd,Balichak,West Bengal 721124,India",0.0,activity,Idle,2020-01-03 17:38:46
+3493527,1704,22.35814282670617,87.55487730726601,2020-01-03 17:38:58,0.0,0.0,0.0,gps,"1,Lock Gate Rd,Balichak,West Bengal 721124,India",0.0,activity,Idle,2020-01-03 17:39:04
+3493529,1704,22.358149909414355,87.55487755872309,2020-01-03 17:39:12,0.0,0.0,0.0,gps,"1,Lock Gate Rd,Balichak,West Bengal 721124,India",0.0,activity,Idle,2020-01-03 17:39:19
+3493531,1704,22.35815208870918,87.55487143993378,2020-01-03 17:39:22,0.72,286.9,2.5,gps,"1,Lock Gate Rd,Balichak,West Bengal 721124,India",0.0,punchOut,Idle,2020-01-03 17:39:27

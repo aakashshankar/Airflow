@@ -1,0 +1,39 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492159,1643,13.149001666666667,77.11739166666666,2020-01-02 21:26:41,0.0,90.34,2.3,gps,"Unnamed Road,Tavarekere,Karnataka 572120,India",0.0,punchOut,Idle,2020-01-03 11:04:25
+3492163,1643,13.319438333333334,77.13479833333334,2020-01-03 11:05:14,0.0,265.9,5.2,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,punchIn,Idle,2020-01-03 11:05:15
+3492164,1643,13.319438333333334,77.13479833333334,2020-01-03 11:05:16,0.0,265.9,5.2,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 11:05:17
+3492212,1643,13.319438333333334,77.13479833333334,2020-01-03 11:22:39,0.0,12.5,5.2,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 11:22:40
+3492253,1643,13.328506666666666,77.13082833333333,2020-01-03 11:38:32,0.0,307.8,1.3,gps,"Sadara Sanga Complex,Service Rd,APMC Yard,Vidyanagar,Tumakuru,Karnataka 572103,India",1.487,movement,,2020-01-03 11:38:33
+3492294,1643,13.3325,77.12743833333334,2020-01-03 11:48:21,0.0,0.0,0.0,gps,"Bengaluru - Honnavar Rd,Vidyanagar,Tumakuru,Karnataka 572103,India",0.61,activity,,2020-01-03 11:48:30
+3492308,1643,13.33331,77.12547500000002,2020-01-03 11:53:32,0.0,180.12,2.1,gps,"Bengaluru - Honnavar Rd,Vidyanagar,Tumakuru,Karnataka 572103,India",1.476,movement,,2020-01-03 11:53:37
+3492361,1643,13.370798333333335,77.11390333333334,2020-01-03 12:08:34,8.95462,308.37,2.6,gps,"NH 48,Shanti Nagar,Tumakuru,Karnataka 572106,India",4.8660000000000005,movement,,2020-01-03 12:08:39
+3492429,1643,13.376628333333334,77.09735500000002,2020-01-03 12:23:34,0.0,259.37,3.8,gps,"Sira Rd,Antharasanahalli,Tumakuru,Karnataka 572106,India",2.212,movement,Idle,2020-01-03 12:23:39
+3492481,1643,13.376633333333332,77.09737333333334,2020-01-03 12:35:39,0.0,0.0,0.0,gps,"Sira Rd,Antharasanahalli,Tumakuru,Karnataka 572106,India",0.0,activity,Idle,2020-01-03 12:37:03
+3492487,1643,13.376628333333334,77.09735500000002,2020-01-03 12:38:35,0.0,259.37,3.8,gps,"Sira Rd,Antharasanahalli,Tumakuru,Karnataka 572106,India",0.0,movement,Idle,2020-01-03 12:38:36
+3492537,1643,13.376628333333334,77.09735500000002,2020-01-03 12:53:34,0.0,259.37,3.8,gps,"Sira Rd,Antharasanahalli,Tumakuru,Karnataka 572106,India",0.0,movement,Idle,2020-01-03 12:53:36
+3492577,1643,13.376633333333332,77.09737333333334,2020-01-03 13:06:44,0.0,0.0,0.0,gps,"Sira Rd,Antharasanahalli,Tumakuru,Karnataka 572106,India",0.0,activity,Idle,2020-01-03 13:06:53
+3492581,1643,13.376628333333334,77.09735500000002,2020-01-03 13:08:34,0.0,259.37,3.8,gps,"Sira Rd,Antharasanahalli,Tumakuru,Karnataka 572106,India",0.0,movement,Idle,2020-01-03 13:08:36
+3492634,1643,13.376628333333334,77.09735500000002,2020-01-03 13:23:58,0.0,259.37,3.8,gps,"Sira Rd,Antharasanahalli,Tumakuru,Karnataka 572106,India",0.0,movement,Idle,2020-01-03 13:24:00
+3492695,1643,13.376628333333334,77.09735500000002,2020-01-03 13:38:44,0.0,259.37,3.8,gps,"Sira Rd,Antharasanahalli,Tumakuru,Karnataka 572106,India",0.0,movement,Idle,2020-01-03 13:38:47
+3492736,1643,13.364923333333335,77.10338666666667,2020-01-03 13:53:39,11.2678,178.51,3.9,gps,"Sira Rd,Shanti Nagar,Tumakuru,Karnataka 572106,India",1.591,movement,,2020-01-03 13:53:44
+3492792,1643,13.329356666666667,77.12190000000002,2020-01-03 14:08:41,0.0,217.5,3.1,gps,"12th Cross Rd,Sri Krishna Nagar,Siddalingaiahna Palya,Tumakuru,Karnataka 572103,India",5.647,movement,,2020-01-03 14:08:42
+3492839,1643,13.339218333333333,77.111655,2020-01-03 14:24:02,10.8102,275.1,2.4,gps,"K.N.S Towers,Bengaluru - Honnavar Rd,Ward No. 18,Tumkur,Tumakuru,Karnataka 572101,India",2.854,movement,,2020-01-03 14:24:05
+3492896,1643,13.340908333333335,77.09504,2020-01-03 14:39:08,3.37606,314.37,3.6,gps,"Bengaluru - Honnavar Rd,PH Colony,Mandipet,Tumakuru,Karnataka 572101,India",3.204,movement,,2020-01-03 14:39:10
+3492967,1643,13.343871666666667,77.06026,2020-01-03 14:54:09,0.0,284.96,5.3,gps,"Dr H M Gangadharaiah Bus Stop,Bengaluru - Honnavar Rd,Heggere,Karnataka 572107,India",4.162,movement,Idle,2020-01-03 14:54:11
+3493003,1643,13.343871666666667,77.06026,2020-01-03 15:09:08,0.0,79.99,5.3,gps,"Dr H M Gangadharaiah Bus Stop,Bengaluru - Honnavar Rd,Heggere,Karnataka 572107,India",0.0,movement,Idle,2020-01-03 15:09:12
+3493070,1643,13.345328333333335,77.05960666666667,2020-01-03 15:24:09,0.0,27.23,3.9,gps,"Agalakote,B.H.Road,Heggere,Karnataka 572107,India",0.35100000000000003,movement,,2020-01-03 15:24:12
+3493134,1643,13.344710000000001,77.05940166666666,2020-01-03 15:39:08,0.0,27.23,5.3,gps,"Agalakote,Bengaluru - Honnavar Rd,Heggere,Karnataka 572107,India",0.0,movement,Idle,2020-01-03 15:39:10
+3493180,1643,13.344573333333335,77.05913000000002,2020-01-03 15:52:07,0.0,0.0,0.0,gps,"Agalakote,Bengaluru - Honnavar Rd,Heggere,Karnataka 572107,India",0.0,activity,Idle,2020-01-03 15:52:19
+3493186,1643,13.343798333333332,77.05916833333335,2020-01-03 15:54:08,0.0,154.25,4.8,gps,"Dr H M Gangadharaiah Bus Stop,Bengaluru - Honnavar Rd,Heggere,Karnataka 572107,India",0.104502,movement,,2020-01-03 15:54:11
+3493243,1643,13.339086666666667,77.11279499999998,2020-01-03 16:09:36,7.002280000000002,106.65,3.6,gps,"Kalidas Hostel Building,Bengaluru - Honnavar Rd,Siddaganga Extension,S.S.Puram,Tumakuru,Karnataka 572102,India",6.346,movement,,2020-01-03 16:09:37
+3493300,1643,13.329708333333334,77.12970833333334,2020-01-03 16:25:07,0.0,104.55,3.6,gps,"Nandi Arcade,Bengaluru Honnavar Rd,Karnataka,Valmiki Nagar,Vidyanagar,Tumakuru,Karnataka 572103,India",2.136,movement,,2020-01-03 16:25:09
+3493354,1643,13.319555,77.13503833333333,2020-01-03 16:41:49,0.0,285.19,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",2.173,movement,Idle,2020-01-03 16:41:53
+3493406,1643,13.319555,77.13503833333333,2020-01-03 16:57:01,0.0,50.31,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 16:57:03
+3493460,1643,13.319555,77.13503833333333,2020-01-03 17:12:13,0.0,50.31,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 17:12:14
+3493497,1643,13.319555,77.13503833333333,2020-01-03 17:28:28,0.0,220.93,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 17:28:30
+3493545,1643,13.319555,77.13503833333333,2020-01-03 17:43:28,0.0,220.93,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 17:43:30
+3493589,1643,13.319555,77.13503833333333,2020-01-03 17:58:28,0.0,220.93,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 17:58:29
+3493632,1643,13.319555,77.13503833333333,2020-01-03 18:13:29,0.0,220.93,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 18:13:31
+3493668,1643,13.319555,77.13503833333333,2020-01-03 18:25:12,0.0,220.93,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 18:25:13
+3493692,1643,13.319555,77.13503833333333,2020-01-03 18:32:00,0.0,220.93,2.7,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,movement,Idle,2020-01-03 18:32:09
+3493693,1643,13.319611666666667,77.13494166666666,2020-01-03 18:32:13,0.0,220.93,5.0,gps,"5th Cross Road,Garike Rd,Gokula Extension,Tumakuru,Karnataka 572103,India",0.0,punchOut,Idle,2020-01-03 18:32:20

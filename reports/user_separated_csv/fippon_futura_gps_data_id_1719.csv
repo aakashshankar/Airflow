@@ -1,0 +1,57 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491845,1719,10.40720141,76.27516719,2020-01-03 08:21:32,0.0,0.0,7.504,gps,"Salem-Ernakulam Highway,Pudhukkad Post,Nandikkara,Thrissur,Nandikkara,Kerala 680301,India",0.0,punchIn,Idle,2020-01-03 08:21:35
+3491846,1719,10.40720141,76.27516719,2020-01-03 08:21:35,0.0,0.0,7.504,gps,"Salem-Ernakulam Highway,Pudhukkad Post,Nandikkara,Thrissur,Nandikkara,Kerala 680301,India",0.0,movement,Idle,2020-01-03 08:21:37
+3491851,1719,10.37321968,76.30242846,2020-01-03 08:36:37,10.03,149.7,9.648,gps,"Shanthi Hospital Bus Stop,Kodakara,Kerala 680684,India",4.978,movement,,2020-01-03 08:36:40
+3491857,1719,10.30834416,76.33324563,2020-01-03 08:51:37,8.87,145.5,9.648,gps,"Mini civil station,Service Rd,Chalakudy,Kerala 680307,India",8.612,movement,,2020-01-03 08:51:40
+3491869,1719,10.27156002,76.34782913,2020-01-03 09:06:38,12.1,159.8,10.72,gps,"NH544,Koratty,Kerala 680309,India",4.739,movement,,2020-01-03 09:06:40
+3491886,1719,10.21786409,76.37767406,2020-01-03 09:21:41,11.98,159.5,9.648,gps,"Service Rd,Karayamparambu,Karukutty,Kerala 683572,India",7.247000000000001,movement,,2020-01-03 09:21:43
+3491907,1719,10.1578666,76.35675097,2020-01-03 09:36:43,11.16,237.5,9.648,gps,"Aluva-Angamaly,Angamaly,Kerala 683585,India",8.548,movement,,2020-01-03 09:36:46
+3491925,1719,10.09907536,76.34741792,2020-01-03 09:51:41,10.1,216.7,12.864,gps,"NH-47 Bus Stop,Salem Ernakulam Highway (NH-47),Kunnathery Thikavu,Aluva,Kerala 683101,India",8.095,movement,,2020-01-03 09:51:43
+3491955,1719,10.0310262,76.31182392,2020-01-03 10:06:54,4.02,205.8,10.72,gps,"33/8,AKG Rd,Edappally Toll,Unnichira,Koonamthai,Edappally,Kochi,Kerala 682024,India",8.675,movement,,2020-01-03 10:07:01
+3491999,1719,9.98330321,76.29927949,2020-01-03 10:21:43,9.53,263.6,31.088,gps,"Thammanam - Pullepady Rd,Kathrikadavu,Kaloor,Ernakulam,Kerala 682017,India",6.684,movement,,2020-01-03 10:21:46
+3492053,1719,9.97373701,76.29799320000002,2020-01-03 10:36:43,9.51,168.4,7.504,gps,"37,Kaloor - Kadavanthara Rd,Jawahar Nagar,Elamkulam,Ernakulam,Kerala 682020,India",1.483,movement,,2020-01-03 10:36:46
+3492123,1719,9.966974,76.29481779,2020-01-03 10:51:44,0.82,323.1,36.448,gps,"Karithala Road,Manorama Junction,Kochi,Kerala 682016,India",2.014,movement,Idle,2020-01-03 10:51:47
+3492169,1719,9.966974,76.29481779,2020-01-03 11:06:44,0.82,323.1,36.448,gps,"Karithala Road,Manorama Junction,Kochi,Kerala 682016,India",0.0,movement,Idle,2020-01-03 11:06:46
+3492188,1719,9.966974,76.29481779,2020-01-03 11:13:25,0.82,323.1,36.448,gps,"Karithala Road,Manorama Junction,Kochi,Kerala 682016,India",0.0,movement,Idle,2020-01-03 11:13:28
+3492191,1719,9.96737929,76.2948827,2020-01-03 11:14:03,0.0,0.0,0.0,gps,"Karithala Rd,Ernakulam,Kerala 682016,India",0.0,activity,Idle,2020-01-03 11:14:13
+3492230,1719,9.97256581,76.2980863,2020-01-03 11:28:26,4.7,350.8,17.152,gps,"Polkadots Preschool,Kaloor-Kadavanthra Road,Kadavanthra,.,Gandhi Nagar,Elamkulam,Kochi,Kerala 682020,India",1.311,movement,Idle,2020-01-03 11:28:28
+3492278,1719,9.97256581,76.2980863,2020-01-03 11:43:25,4.7,350.8,17.152,gps,"Polkadots Preschool,Kaloor-Kadavanthra Road,Kadavanthra,.,Gandhi Nagar,Elamkulam,Kochi,Kerala 682020,India",0.0,movement,Idle,2020-01-03 11:43:27
+3492323,1719,9.97256581,76.2980863,2020-01-03 11:58:25,4.7,350.8,17.152,gps,"Polkadots Preschool,Kaloor-Kadavanthra Road,Kadavanthra,.,Gandhi Nagar,Elamkulam,Kochi,Kerala 682020,India",0.0,movement,Idle,2020-01-03 11:58:28
+3492396,1719,10.10734804,76.26170509,2020-01-03 12:13:26,8.97,341.4,16.08,gps,"Kaavil Nada Bus Stop,Edapally - Panvel Hwy,Kavilnada,Koonammavu,Kerala 683518,India",17.722,movement,,2020-01-03 12:13:29
+3492448,1719,10.1457776,76.22618214,2020-01-03 12:28:28,0.87,263.1,23.584,gps,"Mannamthara Complex,Edapally - Panvel Hwy,North Paravur,Kerala 683513,India",6.893,movement,Idle,2020-01-03 12:28:35
+3492505,1719,10.1457776,76.22618214,2020-01-03 12:43:26,0.87,263.1,23.584,gps,"Mannamthara Complex,Edapally - Panvel Hwy,North Paravur,Kerala 683513,India",0.0,movement,Idle,2020-01-03 12:43:29
+3492550,1719,10.1457776,76.22618214,2020-01-03 12:58:26,0.87,263.1,23.584,gps,"Mannamthara Complex,Edapally - Panvel Hwy,North Paravur,Kerala 683513,India",0.0,movement,Idle,2020-01-03 12:58:28
+3492559,1719,10.1457776,76.22618214,2020-01-03 13:02:45,0.0,0.0,0.0,na,"Mannamthara Complex,Edapally - Panvel Hwy,North Paravur,Kerala 683513,India",0.0,activity,Idle,2020-01-03 13:02:54
+3492593,1719,10.20727078,76.20219244,2020-01-03 13:13:27,0.0,0.0,25.728,gps,"Old NH-17,Kottapuram,Kodungallur,Kerala 680669,India",8.755,movement,Idle,2020-01-03 13:13:29
+3492658,1719,10.20727078,76.20219244,2020-01-03 13:28:26,0.0,0.0,25.728,gps,"Old NH-17,Kottapuram,Kodungallur,Kerala 680669,India",0.0,movement,Idle,2020-01-03 13:28:28
+3492705,1719,10.30061612,76.21817111,2020-01-03 13:43:27,9.78,7.1,26.8,gps,"Kodungallur - Shornur Rd,Vellangallur,Kerala 680662,India",13.345,movement,,2020-01-03 13:43:30
+3492760,1719,10.34518413,76.23359599,2020-01-03 13:58:27,1.57,89.2,25.728,gps,"SH61,Pullur,Kerala 680121,India",7.042000000000002,movement,Idle,2020-01-03 13:58:30
+3492808,1719,10.34518413,76.23359599,2020-01-03 14:13:27,1.57,89.2,25.728,gps,"SH61,Pullur,Kerala 680121,India",0.0,movement,Idle,2020-01-03 14:13:29
+3492829,1719,10.34518413,76.23359599,2020-01-03 14:20:28,1.57,89.2,25.728,gps,"SH61,Pullur,Kerala 680121,India",0.0,movement,Idle,2020-01-03 14:20:30
+3492835,1719,10.34518413,76.23359599,2020-01-03 14:21:17,0.0,0.0,0.0,gps,"SH61,Pullur,Kerala 680121,India",0.0,activity,Idle,2020-01-03 14:21:24
+3492883,1719,10.34518413,76.23359599,2020-01-03 14:35:28,1.57,89.2,25.728,gps,"SH61,Pullur,Kerala 680121,India",0.0,movement,Idle,2020-01-03 14:35:31
+3492957,1719,10.34518413,76.23359599,2020-01-03 14:50:30,1.57,89.2,25.728,gps,"SH61,Pullur,Kerala 680121,India",0.0,movement,Idle,2020-01-03 14:50:32
+3492993,1719,10.34518413,76.23359599,2020-01-03 15:05:30,1.57,89.2,25.728,gps,"SH61,Pullur,Kerala 680121,India",0.0,movement,Idle,2020-01-03 15:05:33
+3493009,1719,10.44226937,76.20995495,2020-01-03 15:10:09,0.0,0.0,0.0,gps,"Cherpu Bus Stop,Cherpu Thriprayar Rd,Cherpu,Thrissur,Kerala 680561,India",13.628,activity,Idle,2020-01-03 15:10:17
+3493057,1719,10.44226104,76.21006211,2020-01-03 15:20:32,0.0,0.0,30.016,gps,"Cherpu Bus Stop,Cherpu Thriprayar Rd,Cherpu,Thrissur,Kerala 680561,India",13.624,movement,Idle,2020-01-03 15:20:34
+3493129,1719,10.44226104,76.21006211,2020-01-03 15:35:31,0.0,0.0,30.016,gps,"Cherpu Bus Stop,Cherpu Thriprayar Rd,Cherpu,Thrissur,Kerala 680561,India",0.0,movement,Idle,2020-01-03 15:35:33
+3493164,1719,10.44226045,76.21005244,2020-01-03 15:50:04,0.0,0.0,0.0,gps,"Cherpu Bus Stop,Cherpu Thriprayar Rd,Cherpu,Thrissur,Kerala 680561,India",0.0,activity,Idle,2020-01-03 15:50:10
+3493165,1719,10.44226104,76.21006211,2020-01-03 15:50:31,0.0,0.0,30.016,gps,"Cherpu Bus Stop,Cherpu Thriprayar Rd,Cherpu,Thrissur,Kerala 680561,India",0.0,movement,Idle,2020-01-03 15:50:33
+3493286,1719,10.50202743,76.21131681,2020-01-03 16:05:48,0.0,0.0,13.936,gps,"Margin free super market,Kodungallur - Shornur Rd,Koorkenchery,Thrissur,Kerala 680007,India",7.138,movement,Idle,2020-01-03 16:20:35
+3493287,1719,10.50202743,76.21131681,2020-01-03 16:20:32,0.0,0.0,13.936,gps,"Margin free super market,Kodungallur - Shornur Rd,Koorkenchery,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 16:20:36
+3493338,1719,10.50917879,76.21119016,2020-01-03 16:35:32,4.37,7.5,4.288,gps,"Thankamani Junction,Koorkenchery,Thrissur,Kerala 680007,India",0.862,movement,,2020-01-03 16:35:35
+3493387,1719,10.51441857,76.17557240000002,2020-01-03 16:50:33,9.67,212.0,12.864,gps,"Decent Ln,Nedupurha,Thrissur,Kerala 680012,India",5.82,movement,Idle,2020-01-03 16:50:35
+3493432,1719,10.51441857,76.17557240000002,2020-01-03 17:05:32,9.67,212.0,12.864,gps,"Decent Ln,Nedupurha,Thrissur,Kerala 680012,India",0.0,movement,Idle,2020-01-03 17:05:34
+3493477,1719,10.51441857,76.17557240000002,2020-01-03 17:20:32,9.67,212.0,12.864,gps,"Decent Ln,Nedupurha,Thrissur,Kerala 680012,India",0.0,movement,Idle,2020-01-03 17:20:34
+3493518,1719,10.50978518,76.170461,2020-01-03 17:35:34,3.39,161.1,17.152,gps,"11a,SH75,Near,Gandhi Nagar,Chettupuzha,Thrissur,Kerala 680012,India",0.862,movement,,2020-01-03 17:35:36
+3493566,1719,10.51808107,76.18649426,2020-01-03 17:50:34,7.9,72.8,4.288,gps,"SH75,Thrissur,Kerala 680003,India",2.195,movement,,2020-01-03 17:50:36
+3493607,1719,10.50655741,76.21638025,2020-01-03 18:05:39,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",5.34,movement,Idle,2020-01-03 18:05:42
+3493661,1719,10.50655741,76.21638025,2020-01-03 18:20:39,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 18:20:41
+3493700,1719,10.50655741,76.21638025,2020-01-03 18:35:39,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 18:35:40
+3493771,1719,10.50655741,76.21638025,2020-01-03 18:54:34,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 19:05:41
+3493772,1719,10.50655741,76.21638025,2020-01-03 19:05:39,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 19:05:42
+3493836,1719,10.50655741,76.21638025,2020-01-03 19:20:45,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 19:20:47
+3493887,1719,10.50655741,76.21638025,2020-01-03 19:35:40,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 19:35:43
+3493944,1719,10.50655741,76.21638025,2020-01-03 19:50:40,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 19:50:42
+3493990,1719,10.50655741,76.21638025,2020-01-03 20:05:40,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,movement,Idle,2020-01-03 20:05:43
+3494011,1719,10.50655741,76.21638025,2020-01-03 20:11:21,8.81,189.5,3.216,gps,"Kannankulangara Ln,Kannamkulangara,Thrissur,Kerala 680007,India",0.0,punchOut,Idle,2020-01-03 20:13:33

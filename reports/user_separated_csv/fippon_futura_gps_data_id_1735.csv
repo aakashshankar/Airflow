@@ -1,0 +1,16 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492061,1735,19.4219695,72.8225193,2020-01-02 17:48:54,0.0,0.0,1295.0,network,"1st Floor,B/15,Topaz shopping centre,opposite Janta Bazar,Tulinj Rd,Nilemore,Nalasopara East,Nala Sopara,Maharashtra 401209,India",0.0,punchOut,Idle,2020-01-03 10:41:25
+3492064,1735,0.0,0.0,2020-01-03 10:41:39,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchIn,,2020-01-03 10:41:48
+3492616,1735,19.28372833333333,72.87503833333334,2020-01-03 13:20:07,2.45934,127.59,5.6,gps,"Wing-C,Gaurav Enclave Rd,Hatkesh Udhog Nagar,Mira Road,Mira Bhayandar,Maharashtra 401107,India",0.0,movement,Idle,2020-01-03 13:20:14
+3492618,1735,19.28372833333333,72.87503833333334,2020-01-03 13:20:22,0.0,0.0,0.0,gps,"Wing-C,Gaurav Enclave Rd,Hatkesh Udhog Nagar,Mira Road,Mira Bhayandar,Maharashtra 401107,India",0.0,activity,Idle,2020-01-03 13:20:31
+3492790,1735,19.28372833333333,72.87503833333334,2020-01-03 14:07:57,2.45934,127.59,5.6,gps,"Wing-C,Gaurav Enclave Rd,Hatkesh Udhog Nagar,Mira Road,Mira Bhayandar,Maharashtra 401107,India",0.0,movement,Idle,2020-01-03 14:08:04
+3492793,1735,19.28372833333333,72.87503833333334,2020-01-03 14:08:35,0.0,0.0,0.0,gps,"Wing-C,Gaurav Enclave Rd,Hatkesh Udhog Nagar,Mira Road,Mira Bhayandar,Maharashtra 401107,India",0.0,activity,Idle,2020-01-03 14:08:45
+3492841,1735,19.295746666666666,72.85818666666667,2020-01-03 14:26:12,0.0,102.1,4.0,gps,"Mira Bhayandar Rd,Sonam Sagar,Indira Nagar,Bhayandar East,Mira Bhayandar,Maharashtra 401105,India",2.986,movement,Idle,2020-01-03 14:26:19
+3492844,1735,19.295746666666666,72.85818666666667,2020-01-03 14:26:25,0.0,0.0,0.0,gps,"Mira Bhayandar Rd,Sonam Sagar,Indira Nagar,Bhayandar East,Mira Bhayandar,Maharashtra 401105,India",0.0,activity,Idle,2020-01-03 14:26:36
+3492956,1735,19.285104999999998,72.85782999999998,2020-01-03 14:50:24,0.0,344.11,8.1,gps,"Shop No. 8,Milap Apartment,Near Narendra Park,Naya Nagar,Mira Road,Mira Bhayandar,Maharashtra 401107,India",1.595,movement,Idle,2020-01-03 14:50:31
+3492960,1735,19.285104999999998,72.85782999999998,2020-01-03 14:50:40,0.0,0.0,0.0,gps,"Shop No. 8,Milap Apartment,Near Narendra Park,Naya Nagar,Mira Road,Mira Bhayandar,Maharashtra 401107,India",0.0,activity,Idle,2020-01-03 14:50:49
+3493702,1735,19.2854,72.85799,2020-01-03 18:35:52,3.09708,59.68,3.5,gps,"Shop No.17,Poonam Plaza,Narendra Park,Naya Nagar,Mira Road,Mira Bhayandar,Maharashtra 401107,India",0.0,movement,Idle,2020-01-03 18:35:58
+3493704,1735,19.2854,72.85799,2020-01-03 18:36:09,0.0,0.0,0.0,gps,"Shop No.17,Poonam Plaza,Narendra Park,Naya Nagar,Mira Road,Mira Bhayandar,Maharashtra 401107,India",0.0,activity,Idle,2020-01-03 18:36:19
+3493748,1735,19.3038482,72.8509957,2020-01-03 18:56:24,0.0,0.0,16.0,fused,"Shop No.8,Rani Satidham Building,Devchand Nagar,Sripal Nagar,Bhayandar West,Mira Bhayandar,Maharashtra 401101,India",3.42,movement,Idle,2020-01-03 18:56:32
+3493751,1735,19.3038482,72.8509957,2020-01-03 18:56:54,0.0,0.0,0.0,network,"Shop No.8,Rani Satidham Building,Devchand Nagar,Sripal Nagar,Bhayandar West,Mira Bhayandar,Maharashtra 401101,India",0.0,activity,Idle,2020-01-03 18:57:05
+3493983,1735,0.0,0.0,2020-01-03 20:01:30,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 20:01:32

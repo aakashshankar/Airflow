@@ -1,0 +1,40 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491895,1726,15.82539475,74.50124101,2020-01-03 09:28:24,0.0,0.0,9.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,punchIn,Idle,2020-01-03 09:28:25
+3491896,1726,15.82539475,74.50124101,2020-01-03 09:28:26,0.0,0.0,9.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 09:28:27
+3491917,1726,15.82539475,74.50124101,2020-01-03 09:43:26,0.0,0.0,9.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 09:43:27
+3491935,1726,15.82539475,74.50124101,2020-01-03 09:58:26,0.0,0.0,9.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 09:58:28
+3491980,1726,15.82539475,74.50124101,2020-01-03 10:13:26,0.0,0.0,9.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 10:13:29
+3492026,1726,15.82556055,74.50115769,2020-01-03 10:28:32,0.0,0.0,61.0,gps,"127,4th Cross,Chidambar Nagar,Bhagya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,,2020-01-03 10:28:32
+3492066,1726,15.82536024,74.50130369,2020-01-03 10:43:32,0.0,0.0,43.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,,2020-01-03 10:43:32
+3492139,1726,15.8265322,74.50135086,2020-01-03 10:58:31,0.0,0.0,29.0,gps,"R/o Sathvik building. H.no 787. CTS no 2472/2,Chidambar Nagar,Bhagya Nagar,Angol,Belgaum,Karnataka 590006,India",0.18600000000000005,movement,Idle,2020-01-03 10:58:32
+3492190,1726,15.8265322,74.50135086,2020-01-03 11:13:32,0.0,0.0,29.0,gps,"R/o Sathvik building. H.no 787. CTS no 2472/2,Chidambar Nagar,Bhagya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 11:13:32
+3492231,1726,15.82701309,74.50133272,2020-01-03 11:28:32,0.69,96.2,17.0,gps,"16/2,Chidambar Nagar,Bhagya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 11:28:32
+3492279,1726,15.82701309,74.50133272,2020-01-03 11:43:33,0.65,16.2,17.0,gps,"16/2,Chidambar Nagar,Bhagya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 11:43:34
+3492325,1726,15.82701309,74.50133272,2020-01-03 11:58:32,0.0,0.0,17.0,gps,"16/2,Chidambar Nagar,Bhagya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 11:58:32
+3492397,1726,15.83000415,74.50295207,2020-01-03 12:13:30,0.0,0.0,47.0,gps,"782,Angol Main Rd,Bhagya Nagar,Angol,Belgaum,Karnataka 590006,India",1.543,movement,,2020-01-03 12:13:33
+3492447,1726,15.83416842,74.50895218,2020-01-03 12:28:33,0.0,0.0,11.0,gps,"590011,Ranade Colony,Hindwadi,Belgaum,Karnataka 590011,India",1.072,movement,,2020-01-03 12:28:35
+3492506,1726,15.85638513,74.51044553,2020-01-03 12:43:32,0.0,0.0,45.0,gps,"#1334,Dharmaratna Building,Ramling Khind Rd,Raviwar Peth,Belgaum,Karnataka 590001,India",3.759,movement,,2020-01-03 12:43:33
+3492659,1726,15.85956323,74.50934407,2020-01-03 13:02:32,0.87,151.3,26.0,gps,"H.No.1806/15,Near Neclus Mall,Kelkar Bagh Rd,Kelkar Bagh,Raviwar Peth,Belgaum,Karnataka 590001,India",0.62,movement,Idle,2020-01-03 13:28:33
+3492660,1726,15.85956323,74.50934407,2020-01-03 13:13:56,0.87,151.3,26.0,gps,"H.No.1806/15,Near Neclus Mall,Kelkar Bagh Rd,Kelkar Bagh,Raviwar Peth,Belgaum,Karnataka 590001,India",0.0,movement,Idle,2020-01-03 13:28:35
+3492661,1726,15.8757609,74.50967735,2020-01-03 13:28:32,0.0,0.0,18.0,gps,"1st Cross Rd,Nehru Nagar,Belgaum,Karnataka 590019,India",2.449,movement,Idle,2020-01-03 13:28:36
+3492707,1726,15.8757609,74.50967735,2020-01-03 13:43:32,0.0,0.0,18.0,gps,"1st Cross Rd,Nehru Nagar,Belgaum,Karnataka 590019,India",0.0,movement,Idle,2020-01-03 13:43:36
+3492751,1726,15.8757609,74.50967735,2020-01-03 13:56:25,0.0,0.0,18.0,gps,"1st Cross Rd,Nehru Nagar,Belgaum,Karnataka 590019,India",0.0,movement,Idle,2020-01-03 13:56:26
+3492804,1726,15.87560654,74.50969552,2020-01-03 14:11:26,1.19,181.2,10.0,gps,"1st Main Rd,Sadashiv Nagar,Belgaum,Karnataka 590019,India",0.0,movement,Idle,2020-01-03 14:11:26
+3492843,1726,15.86200647,74.51292648,2020-01-03 14:26:26,0.0,0.0,17.0,gps,"Khanjar Galli,Shanivar Khoot,Khade Bazar,Raviwar Peth,Belgaum,Karnataka 590001,India",1.949,movement,,2020-01-03 14:26:28
+3492914,1726,15.85731017,74.51389323,2020-01-03 14:41:27,0.3,232.9,9.0,gps,"Ananathshayan,Ghee Galli,opp. lakkappa canteen,Raviwar Peth,Belgaum,Karnataka 590001,India",0.613,movement,,2020-01-03 14:41:28
+3493084,1726,15.85642926,74.51049011,2020-01-03 14:56:26,0.0,0.0,13.0,gps,"#1334,Dharmaratna Building,Ramling Khind Rd,Raviwar Peth,Belgaum,Karnataka 590001,India",1.396,movement,,2020-01-03 15:26:29
+3493086,1726,15.8252619,74.50112674,2020-01-03 15:11:27,0.0,0.0,21.0,gps,"Sant Rajaram Marg,Angol,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",5.097,movement,Idle,2020-01-03 15:26:31
+3493087,1726,15.82531653,74.50119104,2020-01-03 15:26:27,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 15:26:34
+3493138,1726,15.82531653,74.50119104,2020-01-03 15:41:28,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 15:41:29
+3493195,1726,15.82531653,74.50119104,2020-01-03 15:56:27,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 15:56:28
+3493247,1726,15.82531653,74.50119104,2020-01-03 16:11:27,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 16:11:28
+3493308,1726,15.82531653,74.50119104,2020-01-03 16:26:30,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 16:26:33
+3493352,1726,15.82531653,74.50119104,2020-01-03 16:41:30,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 16:41:31
+3493401,1726,15.82531653,74.50119104,2020-01-03 16:56:28,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 16:56:29
+3493454,1726,15.82531653,74.50119104,2020-01-03 17:11:27,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 17:11:28
+3493538,1726,15.82531653,74.50119104,2020-01-03 17:26:27,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 17:41:28
+3493539,1726,15.82531653,74.50119104,2020-01-03 17:41:27,0.0,0.0,249.0,gps,"215,5th Cross,Chidambar Nagar,Vidhya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 17:41:29
+3493582,1726,15.830102300000002,74.50452424,2020-01-03 17:56:30,0.0,0.0,16.0,gps,"Sukruti plot no424/A second cross,Bhagya Nagar,Tilakwadi,Belgaum,Karnataka 590006,India",1.499,movement,,2020-01-03 17:56:32
+3493617,1726,15.83005591,74.50444538,2020-01-03 18:11:27,0.0,0.0,27.0,gps,"Bhagya Nagar,Angol Road,Bhagya Nagar,Angol,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 18:11:29
+3494048,1726,15.83028179,74.50439308,2020-01-03 20:24:49,0.38,320.0,5.0,gps,"Sukruti plot no424/A second cross,Bhagya Nagar,Tilakwadi,Belgaum,Karnataka 590006,India",0.0,movement,Idle,2020-01-03 20:24:50
+3494050,1726,15.83028179,74.50439308,2020-01-03 20:24:53,0.38,320.0,5.0,gps,"Sukruti plot no424/A second cross,Bhagya Nagar,Tilakwadi,Belgaum,Karnataka 590006,India",0.0,punchOut,Idle,2020-01-03 20:24:59

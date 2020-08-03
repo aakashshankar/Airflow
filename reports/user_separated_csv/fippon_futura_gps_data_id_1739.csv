@@ -1,0 +1,9 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492354,1739,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 12:06:29
+3492355,1739,26.45261523,80.30229118,2020-01-03 12:06:36,0.0,0.0,4.551,gps,"DBS Rd,A Block,Govind Nagar,Kanpur,Uttar Pradesh 208006,India",0.0,punchIn,Idle,2020-01-03 12:06:50
+3492356,1739,26.45261523,80.30229118,2020-01-03 12:07:06,0.0,0.0,4.551,gps,"DBS Rd,A Block,Govind Nagar,Kanpur,Uttar Pradesh 208006,India",0.0,movement,Idle,2020-01-03 12:07:15
+3492357,1739,26.45259634,80.30231748,2020-01-03 12:07:16,0.0,0.0,0.0,gps,"DBS Rd,A Block,Govind Nagar,Kanpur,Uttar Pradesh 208006,India",0.0,activity,Idle,2020-01-03 12:07:26
+3493202,1739,26.47852802354981,80.30718114726602,2020-01-03 15:56:38,1.0,0.359274,44.0346,gps,"NH34,Raja Purva,Sarvodaya Nagar,Kanpur,Uttar Pradesh 208005,India",5.061,movement,,2020-01-03 15:57:37
+3493212,1739,26.46360934,80.24344236,2020-01-03 15:59:08,0.0,0.0,0.0,gps,"94 E,Near Panki Police Station,Gangaganj Colony,Panki,Panki Power House,Panki,Kanpur,Uttar Pradesh 208020,India",8.826,activity,,2020-01-03 15:59:20
+3493408,1739,26.50035595,80.25356031,2020-01-03 16:56:52,2.08,31.5,13.653,gps,"240,Kalyanpur Crossing,Hora Bangar,Kanpur,Uttar Pradesh 208017,India",6.074,movement,,2020-01-03 16:57:31
+3493412,1739,26.50039523,80.25675197,2020-01-03 16:58:02,0.0,0.0,0.0,gps,"17-C,New Azad Nagar,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",0.486,activity,Idle,2020-01-03 16:58:13

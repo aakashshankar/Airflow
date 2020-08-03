@@ -1,0 +1,34 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492335,1681,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,,Unknown Location,0.0,punchOut,,2020-01-03 12:01:59
+3492337,1681,30.29248727951199,78.01276342011988,2020-01-03 12:02:19,1.39,3.8,40.5,gps,"104,Uttam Colony,Brahmanwala,Dehradun,Uttarakhand 248001,India",0.0,punchIn,Idle,2020-01-03 12:02:25
+3492338,1681,30.29248727951199,78.01276342011988,2020-01-03 12:02:26,0.0,0.0,40.5,gps,"104,Uttam Colony,Brahmanwala,Dehradun,Uttarakhand 248001,India",0.0,movement,Idle,2020-01-03 12:02:29
+3492416,1681,30.29274003580213,78.01284095272422,2020-01-03 12:17:27,1.31,0.0,33.0,gps,"Rajeev Juyal Rd,Uttam Colony,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.0,movement,,2020-01-03 12:17:29
+3492479,1681,30.30553844757378,78.00187172368169,2020-01-03 12:36:47,0.28,0.0,11.5,gps,"1525,Sai Lok Colony,Sailok,Kanwali,Dehradun,Uttarakhand 248001,India",3.468,movement,Idle,2020-01-03 12:36:52
+3492497,1681,30.305569837801162,78.00186744891107,2020-01-03 12:41:23,0.0,0.0,0.0,gps,"1525,Sai Lok Colony,Sailok,Kanwali,Dehradun,Uttarakhand 248001,India",0.0,activity,Idle,2020-01-03 12:41:33
+3492532,1681,30.30553844757378,78.00187172368169,2020-01-03 12:51:54,0.0,0.0,11.5,gps,"1525,Sai Lok Colony,Sailok,Kanwali,Dehradun,Uttarakhand 248001,India",0.0,movement,Idle,2020-01-03 12:51:57
+3492576,1681,30.31684496439993,78.02405929192899,2020-01-03 13:06:48,1.67,287.8,15.0,gps,"30,Mahant Rd,Laxman Chowk,Dehradun,Uttarakhand 248001,India",3.468,movement,Idle,2020-01-03 13:06:52
+3492589,1681,30.31721213366837,78.02411628887056,2020-01-03 13:11:53,0.0,0.0,0.0,gps,"525,chhabeel bagh,Khurbura Mohalla,Dehradun,Uttarakhand 248001,India",0.0,activity,Idle,2020-01-03 13:12:00
+3492627,1681,30.31721213366837,78.02411628887056,2020-01-03 13:21:47,0.0,0.0,4.0,gps,"525,chhabeel bagh,Khurbura Mohalla,Dehradun,Uttarakhand 248001,India",0.0,movement,Idle,2020-01-03 13:21:50
+3492693,1681,30.33760467544198,78.01344168372452,2020-01-03 13:36:46,2.37,8.3,46.5,gps,"73/57,CANALROAD,Ballupur,Dehradun,Uttarakhand 248001,India",4.255,movement,,2020-01-03 13:36:52
+3492730,1681,30.33725049812347,78.01314756274223,2020-01-03 13:51:46,0.0,0.0,103.0,gps,"63,Canal Rd,Ram Vihar,Ballupur,Dehradun,Uttarakhand 248001,India",0.0,movement,,2020-01-03 13:51:49
+3492788,1681,30.33744185697288,78.01502611488105,2020-01-03 14:06:45,6.11,0.0,48.5,gps,"113,Ram Vihar,Ballupur,Dehradun,Uttarakhand 248001,India",0.38,movement,Idle,2020-01-03 14:06:49
+3492797,1681,30.33744185697288,78.01502611488105,2020-01-03 14:09:24,0.0,0.0,0.0,gps,"113,Ram Vihar,Ballupur,Dehradun,Uttarakhand 248001,India",0.0,activity,Idle,2020-01-03 14:09:31
+3492837,1681,30.33793362323195,78.01369749940932,2020-01-03 14:21:46,0.79,0.0,19.5,gps,"40,Shaheed Kashmir Singh Road,Uddiwala,Dehradun,Uttarakhand 248001,India",1.541,movement,Idle,2020-01-03 14:21:50
+3492888,1681,30.33793362323195,78.01369749940932,2020-01-03 14:36:44,0.79,0.0,19.5,gps,"40,Shaheed Kashmir Singh Road,Uddiwala,Dehradun,Uttarakhand 248001,India",0.0,movement,Idle,2020-01-03 14:36:46
+3492963,1681,30.33793362323195,78.01369749940932,2020-01-03 14:51:44,0.79,0.0,19.5,gps,"40,Shaheed Kashmir Singh Road,Uddiwala,Dehradun,Uttarakhand 248001,India",0.0,movement,Idle,2020-01-03 14:51:47
+3493062,1681,30.2934995200485,78.01263559609652,2020-01-03 15:21:47,0.0,0.0,31.0,gps,"Rajeev Juyal Rd,Niranjanpur,Dehradun,Uttarakhand 248171,India",5.974,movement,Idle,2020-01-03 15:21:51
+3493133,1681,30.292668705806136,78.01274632103741,2020-01-03 15:36:47,3.59,356.0,14.5,gps,"Rajeev Juyal Rd,Uttam Colony,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.0,movement,Idle,2020-01-03 15:36:49
+3493170,1681,30.292668705806136,78.01274632103741,2020-01-03 15:51:47,4.78,306.3,14.5,gps,"Rajeev Juyal Rd,Uttam Colony,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.0,movement,Idle,2020-01-03 15:51:49
+3493236,1681,30.292668705806136,78.01274632103741,2020-01-03 16:06:47,0.37,0.0,14.5,gps,"Rajeev Juyal Rd,Uttam Colony,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.0,movement,Idle,2020-01-03 16:06:49
+3493341,1681,30.29098779894412,78.01260005682705,2020-01-03 16:36:46,4.1,219.4,45.5,gps,"77/1,Brahmanwala,Dehradun,Uttarakhand 248001,India",0.223,movement,,2020-01-03 16:36:50
+3493442,1681,30.292605883441862,78.01283148117363,2020-01-03 17:06:47,0.98,231.7,35.0,gps,"Rajeev Juyal Rd,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.223,movement,,2020-01-03 17:06:49
+3493521,1681,30.28904282022268,78.00821204669774,2020-01-03 17:36:49,0.19,0.0,27.0,gps,"ISBT Masjid,brahmanwaka chowk,Haridwar Bypass,Morowala,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.762,movement,,2020-01-03 17:36:53
+3493705,1681,30.316840563900772,78.03836552426219,2020-01-03 18:12:25,0.34,39.9,38.0,gps,"4-B PLS Plaza SHOP No. CS-3 & CS-4,Raja Rd,Dhamawala Mohalla,Paltan Bazaar,Dehradun,Uttarakhand 248001,India",5.938,movement,,2020-01-03 18:36:51
+3493706,1681,30.312976003624506,78.03617055527866,2020-01-03 18:36:46,0.14,0.0,11.0,gps,"12,Tyagi Rd,Govind Nagar,Race Course,Dehradun,Uttarakhand 248001,India",0.967,movement,,2020-01-03 18:36:53
+3493778,1681,30.31755721662193,78.02844621241094,2020-01-03 19:06:48,0.19,0.0,8.0,gps,"43,Saharanpur Chowk,National HIghway 72A,Saharanpur Rd,Khadri Mohalla,Jhanda Bazar,Arhat Bazaar,Lakkhi Bagh,Dehradun,Uttarakhand 248001,India",2.168,movement,,2020-01-03 19:06:51
+3494246,1681,30.278246132656932,78.00245032645762,2020-01-03 21:06:54,3.02,0.0,39.0,gps,"281,Turner Rd,Subhash Nagar,Dehradun,Uttarakhand 248002,India",6.009,movement,,2020-01-03 22:03:23
+3494247,1681,30.292629981413484,78.01270633935928,2020-01-03 22:03:19,0.55,0.0,14.0,gps,"Rajeev Juyal Rd,Uttam Colony,Niranjanpur,Dehradun,Uttarakhand 248171,India",2.65,movement,Idle,2020-01-03 22:03:24
+3494341,1681,30.29267717152834,78.01310573704541,2020-01-03 22:18:16,0.36,0.0,16.5,gps,"Rajeev Juyal Rd,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.0,movement,Idle,2020-01-03 22:43:28
+3494342,1681,30.29267717152834,78.01310573704541,2020-01-03 22:43:23,1.69,32.2,16.5,gps,"Rajeev Juyal Rd,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.0,movement,Idle,2020-01-03 22:43:30
+3494364,1681,30.292502283118658,78.01293147727847,2020-01-03 22:58:24,0.33,68.9,20.0,gps,"104,Uttam Colony,Brahmanwala,Dehradun,Uttarakhand 248001,India",0.0,movement,Idle,2020-01-03 22:58:27
+3494381,1681,30.293044927529987,78.01349893212318,2020-01-03 23:08:00,4.7,98.3,43.0,gps,"Rajeev Juyal Rd,Niranjanpur,Dehradun,Uttarakhand 248171,India",0.0,punchOut,Idle,2020-01-03 23:08:09

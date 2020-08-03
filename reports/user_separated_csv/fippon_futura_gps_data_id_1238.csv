@@ -1,0 +1,36 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491912,1238,26.93612756,75.83317650000002,2020-01-03 09:41:29,0.0,0.0,8.576,gps,"374,Amer Rd,Govind Nagar West,Rokar Nagar,Jaipur,Rajasthan 302002,India",0.0,punchIn,Idle,2020-01-03 09:41:33
+3491914,1238,26.93598583,75.83310105,2020-01-03 09:41:32,0.0,0.0,8.576,gps,"Opp. N.I.A. ,,Amer Road,,Govind Nagar West,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,movement,Idle,2020-01-03 09:41:33
+3491915,1238,26.93608085,75.83327152,2020-01-03 09:41:53,0.0,0.0,0.0,gps,"Brahampuri Road,BrahmPuri Road,Opposite Madhav Vilas Hospital,Amer Road,Govind Nagar West,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,activity,Idle,2020-01-03 09:42:09
+3491928,1238,26.92823615,75.81961868,2020-01-03 09:56:33,0.0,0.0,12.864,gps,"5,Gangori Bazar Rd,Gangori Bazaar,J.D.A. Market,Kanwar Nagar,Jaipur,Rajasthan 302002,India",2.236,movement,,2020-01-03 09:56:36
+3491973,1238,26.91599083,75.81720035,2020-01-03 10:11:34,1.87,191.9,9.648,gps,"shop no 14 kamla nehru market,Ajmeri Gate,Ashok Nagar,Jaipur,Rajasthan 302001,India",1.509,movement,,2020-01-03 10:11:42
+3492018,1238,26.91528992,75.81697838,2020-01-03 10:26:59,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 10:27:04
+3492063,1238,26.91528992,75.81697838,2020-01-03 10:41:37,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 10:41:38
+3492135,1238,26.91528992,75.81697838,2020-01-03 10:56:51,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 10:56:53
+3492186,1238,26.91528992,75.81697838,2020-01-03 11:12:28,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 11:12:29
+3492223,1238,26.91528992,75.81697838,2020-01-03 11:26:39,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 11:26:43
+3492266,1238,26.91528992,75.81697838,2020-01-03 11:41:40,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 11:41:41
+3492315,1238,26.91528992,75.81697838,2020-01-03 11:56:54,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 11:56:57
+3492388,1238,26.91528992,75.81697838,2020-01-03 12:11:40,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 12:11:42
+3492499,1238,26.91528992,75.81697838,2020-01-03 12:26:40,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 12:41:50
+3492501,1238,26.91528992,75.81697838,2020-01-03 12:41:48,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 12:41:55
+3492544,1238,26.91528992,75.81697838,2020-01-03 12:56:40,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 12:56:42
+3492590,1238,26.91528992,75.81697838,2020-01-03 13:11:40,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 13:12:07
+3492653,1238,26.91528992,75.81697838,2020-01-03 13:26:42,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 13:26:44
+3492700,1238,26.91528992,75.81697838,2020-01-03 13:41:42,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 13:41:44
+3492752,1238,26.91528992,75.81697838,2020-01-03 13:56:42,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 13:56:44
+3492805,1238,26.91528992,75.81697838,2020-01-03 14:11:42,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 14:11:44
+3492846,1238,26.91528992,75.81697838,2020-01-03 14:26:43,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 14:26:45
+3492974,1238,26.91528992,75.81697838,2020-01-03 14:56:44,0.0,0.0,7.504,gps,"Ladda building,Mirza Road,Panch Batti,Ashok Nagar,Jaipur,Rajasthan 302001,India",0.0,movement,Idle,2020-01-03 14:56:57
+3493017,1238,26.93977182,75.83243508,2020-01-03 15:11:46,0.0,0.0,10.72,gps,"80,Choudary Colony,Krishna Nagar,Brahampuri,Jaipur,Rajasthan 302002,India",4.4460000000000015,movement,Idle,2020-01-03 15:11:50
+3493088,1238,26.93977182,75.83243508,2020-01-03 15:26:44,0.0,0.0,10.72,gps,"80,Choudary Colony,Krishna Nagar,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,movement,Idle,2020-01-03 15:26:48
+3493142,1238,26.93977182,75.83243508,2020-01-03 15:41:45,0.0,0.0,10.72,gps,"80,Choudary Colony,Krishna Nagar,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,movement,Idle,2020-01-03 15:41:47
+3493201,1238,26.93977182,75.83243508,2020-01-03 15:56:45,0.0,0.0,10.72,gps,"80,Choudary Colony,Krishna Nagar,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,movement,Idle,2020-01-03 15:57:21
+3493251,1238,26.93977182,75.83243508,2020-01-03 16:11:45,0.0,0.0,10.72,gps,"80,Choudary Colony,Krishna Nagar,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,movement,Idle,2020-01-03 16:11:53
+3493311,1238,26.93977182,75.83243508,2020-01-03 16:26:46,0.0,0.0,10.72,gps,"80,Choudary Colony,Krishna Nagar,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,movement,Idle,2020-01-03 16:26:47
+3493355,1238,26.92600742,75.82780056,2020-01-03 16:41:48,0.53,184.8,9.648,gps,"Shop No. 19,Hawa Mahal Bazar,Opp. Sirehdori Gate,Badi Chaupar,Jaipur,Rajasthan 302002,India",2.104,movement,,2020-01-03 16:41:53
+3493407,1238,26.90550283,75.82148859,2020-01-03 16:56:46,0.0,0.0,12.864,gps,"24,Gangawal Park,Adarsh Nagar,Jaipur,Rajasthan 302004,India",2.528,movement,,2020-01-03 16:57:07
+3493493,1238,26.91144144,75.82420118,2020-01-03 17:11:50,5.45,16.5,10.72,gps,"1097-1073,Moti Doongri Rd,Kailash Puri,Adarsh Nagar,Jaipur,Rajasthan 302004,India",0.7809999999999999,movement,,2020-01-03 17:26:52
+3493494,1238,26.93615922,75.83341016,2020-01-03 17:26:48,0.82,254.8,49.312,gps,"9,Govind Nagar West,Brahampuri,Jaipur,Rajasthan 302002,India",3.307,movement,Idle,2020-01-03 17:26:54
+3493516,1238,26.93615922,75.83341016,2020-01-03 17:35:22,0.82,254.8,49.312,gps,"9,Govind Nagar West,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,movement,Idle,2020-01-03 17:35:23
+3493517,1238,26.93615922,75.83341016,2020-01-03 17:35:25,0.82,254.8,49.312,gps,"9,Govind Nagar West,Brahampuri,Jaipur,Rajasthan 302002,India",0.0,punchOut,Idle,2020-01-03 17:35:33

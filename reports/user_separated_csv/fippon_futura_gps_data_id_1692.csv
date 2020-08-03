@@ -1,0 +1,27 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492324,1692,23.24412143,72.50177023,2020-01-03 11:58:29,0.0,0.0,66.464,gps,"Station Rd,Navjivan Bazaar,Memon Market,Kalol,Gujarat 382721,India",0.0,punchIn,Idle,2020-01-03 11:58:32
+3492326,1692,23.24412143,72.50177023,2020-01-03 11:58:33,0.0,0.0,66.464,gps,"Station Rd,Navjivan Bazaar,Memon Market,Kalol,Gujarat 382721,India",0.0,movement,Idle,2020-01-03 11:58:34
+3492502,1692,23.48786967,72.89746084,2020-01-03 12:42:36,0.0,0.0,33.232,gps,"Near SK Bank,Salal,Gujarat 383120,India",66.939,movement,Idle,2020-01-03 12:42:39
+3492503,1692,23.48786967,72.89746084,2020-01-03 12:42:39,0.0,0.0,33.232,gps,"Near SK Bank,Salal,Gujarat 383120,India",0.0,movement,Idle,2020-01-03 12:42:41
+3492517,1692,23.48786967,72.89746084,2020-01-03 12:45:06,0.0,0.0,0.0,gps,"Near SK Bank,Salal,Gujarat 383120,India",0.0,activity,Idle,2020-01-03 12:45:12
+3492531,1692,23.59286329,72.95984404,2020-01-03 12:51:44,0.0,0.0,0.0,gps,"Unnamed Road,Raykanagar,Ganotri Society,Himatnagar,Gujarat 383001,India",14.965,activity,Idle,2020-01-03 12:51:57
+3492548,1692,23.592742681503296,72.95966327190398,2020-01-03 12:58:12,0.0,0.0,67.0,gps,"Unnamed Road,Raykanagar,Ganotri Society,Himatnagar,Gujarat 383001,India",14.962,movement,Idle,2020-01-03 12:58:15
+3492555,1692,23.59310316,72.95931596,2020-01-03 13:00:18,0.0,0.0,0.0,gps,"Shivam complex,near bus station,railway station road,Arogya Nagar,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,,2020-01-03 13:00:24
+3492915,1692,23.592742681503296,72.95966327190398,2020-01-03 14:41:29,0.8,151.5,67.0,gps,"Unnamed Road,Raykanagar,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,,2020-01-03 14:41:31
+3492943,1692,23.59255454,72.95782244,2020-01-03 14:47:22,0.0,0.0,0.0,gps,"L 25,Mulki Bhavan,opp. Bus Stand,Ganotri Society,Himatnagar,Gujarat 383001,India",0.264,activity,,2020-01-03 14:47:31
+3492973,1692,23.58994407,72.95730036,2020-01-03 14:56:51,1.02,179.1,9.648,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.562,movement,Idle,2020-01-03 14:56:54
+3492978,1692,23.589813709259033,72.95721173286437,2020-01-03 14:58:18,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,Idle,2020-01-03 14:58:26
+3493015,1692,23.58947575092316,72.95720636844634,2020-01-03 15:11:17,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,,2020-01-03 15:11:29
+3493018,1692,23.58994407,72.95730036,2020-01-03 15:11:50,0.0,0.0,9.648,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,,2020-01-03 15:11:52
+3493048,1692,23.58947575092316,72.95720636844634,2020-01-03 15:17:22,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,,2020-01-03 15:17:29
+3493189,1692,23.589975,72.95665508,2020-01-03 15:54:40,0.0,0.0,46.096,gps,"Unnamed Road,Vidhya Nagari,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 15:54:44
+3493200,1692,23.590226769447327,72.95681476593019,2020-01-03 15:57:06,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,Idle,2020-01-03 15:57:13
+3493293,1692,23.59029802,72.95676007,2020-01-03 16:22:00,0.0,0.0,20.368,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 16:22:03
+3493376,1692,23.59029802,72.95676007,2020-01-03 16:45:52,0.0,0.0,20.368,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 16:45:54
+3493377,1692,23.59029802,72.95676007,2020-01-03 16:45:56,0.0,0.0,20.368,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 16:45:58
+3493380,1692,23.589829802513126,72.9572331905365,2020-01-03 16:47:23,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,Idle,2020-01-03 16:47:30
+3493426,1692,23.59029802,72.95676007,2020-01-03 17:04:53,0.0,0.0,20.368,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 17:04:55
+3493434,1692,23.590591549873352,72.95680940151216,2020-01-03 17:06:12,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,,2020-01-03 17:06:20
+3493763,1692,23.59029802,72.95676007,2020-01-03 19:04:51,0.0,0.0,20.368,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 19:04:53
+3494002,1692,23.59029802,72.95676007,2020-01-03 20:11:31,0.0,0.0,20.368,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 20:11:33
+3494003,1692,23.59029802,72.95676007,2020-01-03 20:11:37,1.1,344.7,7.504,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,punchOut,Idle,2020-01-03 20:11:41

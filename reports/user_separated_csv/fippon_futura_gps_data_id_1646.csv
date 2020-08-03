@@ -1,0 +1,10 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491898,1646,25.46192049980164,85.98818778991699,2020-01-03 09:32:42,0.0,0.0,9985.88,network,"Barauni Junction,Barauni,Bihar 851118,India",0.0,punchIn,,2020-01-03 09:32:50
+3491899,1646,0.0,0.0,2020-01-03 09:32:54,3.28,343.2,11.0,gps,Unknown Location,0.0,movement,,2020-01-03 09:32:59
+3493502,1646,0.0,0.0,2020-01-03 09:47:49,0.0,0.0,10.0,gps,Unknown Location,0.0,movement,,2020-01-03 17:30:33
+3493503,1646,25.60620113,85.13932291,2020-01-03 10:02:49,1.48,166.2,103.0,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",86.6952,movement,Idle,2020-01-03 17:30:36
+3493504,1646,25.60620113,85.13932291,2020-01-03 10:17:49,0.47,139.2,103.0,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 17:30:39
+3493505,1646,25.60620113,85.13932291,2020-01-03 10:34:02,0.47,139.2,103.0,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 17:30:40
+3493506,1646,25.60620113,85.13932291,2020-01-03 10:47:54,0.47,139.2,103.0,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 17:30:41
+3493507,1646,25.60620113,85.13932291,2020-01-03 17:30:19,0.47,139.2,103.0,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 17:30:42
+3493510,1646,25.58829275,85.14806597,2020-01-03 17:32:11,0.0,0.0,19.0,gps,"Patna,Ashok Nagar,Lohia Nagar,Patna,Bihar 800020,India",3.401,punchOut,,2020-01-03 17:32:16

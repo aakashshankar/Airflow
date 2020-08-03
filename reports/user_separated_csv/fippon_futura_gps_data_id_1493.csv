@@ -1,0 +1,48 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491996,1493,9.962632199999998,76.3002228,2020-01-03 10:21:15,0.0,0.0,800.0,network,"55/1650,Giringar Housing Colony,Giri Nagar,Kadavanthra,Kochi,Kerala 682020,India",0.0,punchIn,,2020-01-03 10:21:17
+3491998,1493,9.96061042,76.29780681,2020-01-03 10:21:33,0.0,0.0,26.8,gps,"MIG-437,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.836,movement,Idle,2020-01-03 10:21:35
+3492052,1493,9.96061042,76.29780681,2020-01-03 10:36:18,0.0,0.0,26.8,gps,"MIG-437,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 10:36:19
+3492121,1493,9.96324297,76.30000939,2020-01-03 10:51:19,0.0,0.0,28.944000000000006,gps,"The Muthoot Finance Ltd.,Giringar Housing Colony,Giri Nagar,Kadavanthra,Ernakulam,Kerala 682020,India",1.235,movement,,2020-01-03 10:51:21
+3492209,1493,9.95992585,76.29700581,2020-01-03 11:06:18,5.0,356.1,17.152,gps,"Plot No. G-274,1st Floor,11th Cross Road,Panampilly Nagar,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",1.263,movement,,2020-01-03 11:21:26
+3492210,1493,9.97165617,76.29943211,2020-01-03 11:21:23,0.0,0.0,60.032,gps,"JNRWA-249,Jawahar Nagar,Elamkulam,Kochi,Kerala 682020,India",2.252,movement,Idle,2020-01-03 11:21:27
+3492249,1493,9.97211174,76.29910155,2020-01-03 11:36:24,0.0,0.0,46.096,gps,"EJNRWA-225,Jawahar Nagar,Elamkulam,Kochi,Kerala 682019,India",0.0,movement,Idle,2020-01-03 11:36:28
+3492304,1493,9.97211174,76.29910155,2020-01-03 11:51:23,0.0,0.0,46.096,gps,"EJNRWA-225,Jawahar Nagar,Elamkulam,Kochi,Kerala 682019,India",0.0,movement,Idle,2020-01-03 11:51:24
+3492353,1493,9.97281033,76.29941646,2020-01-03 12:06:24,0.88,14.9,54.672,gps,"37/286-D,Jawahar Nagar,Elamkulam,Kochi,Kerala 682019,India",0.0,movement,,2020-01-03 12:06:26
+3492425,1493,9.97253826,76.29962155,2020-01-03 12:21:24,1.83,39.8,48.24,gps,"54/1091,Jawahar Nagar,Elamkulam,Kochi,Kerala 682019,India",0.0,movement,,2020-01-03 12:21:26
+3492478,1493,9.96245024,76.29800845,2020-01-03 12:36:24,2.89,189.4,24.656,gps,"Mammooty Paalam - Bridge,8th Cross Rd,Giri Nagar Housing Society,Giri Nagar,Kadavanthra,Ernakulam,Kerala 682036,India",1.5930000000000002,movement,,2020-01-03 12:36:25
+3492530,1493,9.98366602,76.30148536,2020-01-03 12:51:25,0.0,0.0,23.584,gps,"Thammanam - Pullepady Rd,DD Village,Thammanam,Ernakulam,Kerala 682017,India",3.801,movement,,2020-01-03 12:51:27
+3492573,1493,10.02516797,76.33879238,2020-01-03 13:06:33,2.46,183.9,20.368,gps,"7/619N2,Seaport Airport Road,Near Sunrise Hospital,Thrikkakara,Kochi,Kerala 682021,India",8.285,movement,Idle,2020-01-03 13:06:36
+3492625,1493,10.02516797,76.33879238,2020-01-03 13:21:25,2.46,183.9,20.368,gps,"7/619N2,Seaport Airport Road,Near Sunrise Hospital,Thrikkakara,Kochi,Kerala 682021,India",0.0,movement,Idle,2020-01-03 13:21:27
+3492654,1493,10.02550701,76.33921483,2020-01-03 13:27:51,0.0,0.0,71.824,gps,"Sunrise Hospital Rd,Thrikkakara,Ernakulam,Kerala 682021,India",0.0,movement,,2020-01-03 13:27:52
+3492665,1493,10.02531024,76.33927159,2020-01-03 13:29:08,0.0,0.0,0.0,gps,"Sunrise Hospital Rd,Thrikkakara,Ernakulam,Kerala 682021,India",0.0,activity,,2020-01-03 13:29:34
+3492715,1493,10.0251509,76.3382492,2020-01-03 13:44:22,0.0,0.0,30.0,network,"Sunrise Hospital Bus Stop,Seaport - Airport Rd,Thrikkakara,Kakkanad,Kerala 682021,India",0.112941,movement,,2020-01-03 13:44:24
+3492765,1493,10.0252035,76.33889190000002,2020-01-03 14:00:10,0.0,0.0,22.996,network,"Sunrise Hospital Rd,Thrikkakara,Ernakulam,Kerala 682021,India",0.0,movement,,2020-01-03 14:00:12
+3492933,1493,9.9974019,76.3081247,2020-01-03 14:17:16,0.0,0.0,23.256,network,"PRRA-01A,Pipeline Rd,Kaloor,Kochi,Kerala 682025,India",5.774,movement,,2020-01-03 14:44:26
+3492934,1493,9.9796945,76.2963082,2020-01-03 14:33:49,0.0,0.0,68.4,network,"43,Kaloor - Kadavanthara Rd,Gandhi Nagar,Elamkulam,Ernakulam,Kerala 682017,India",3.341,movement,,2020-01-03 14:44:28
+3492935,1493,9.9700189,76.29865009999997,2020-01-03 14:44:23,0.0,0.0,23.763,network,"Kamadhenu Apartment,Kaloor - Kadavanthara Rd,Kadavanthra Junction,Kadavanthra,Ernakulam,Kerala 682020,India",1.143,movement,,2020-01-03 14:44:29
+3492979,1493,9.9718722,76.29709790000003,2020-01-03 14:59:22,0.0,0.0,984.0,network,"ARA-48B,Gandhi Nagar Rd,Gandhi Nagar,Elamkulam,Kochi,Kerala 682020,India",0.337,movement,,2020-01-03 14:59:25
+3493027,1493,9.9722171,76.2989828,2020-01-03 15:14:23,0.0,0.0,989.0,network,"EJNRWA-225,Jawahar Nagar,Elamkulam,Kochi,Kerala 682019,India",0.355,movement,,2020-01-03 15:14:26
+3493104,1493,9.9690701,76.2982587,2020-01-03 15:30:15,0.0,0.0,42.5,network,"37/120,Kadavanthra,Ernakulam,Kerala 682020,India",0.487,movement,Idle,2020-01-03 15:30:18
+3493321,1493,9.9690701,76.2982587,2020-01-03 15:48:14,0.0,0.0,42.5,network,"37/120,Kadavanthra,Ernakulam,Kerala 682020,India",0.0,movement,Idle,2020-01-03 16:30:57
+3493322,1493,9.968512400000002,76.2986968,2020-01-03 16:04:26,0.0,0.0,24.883000000000006,network,"5,Subash Cross Rd,Kadavanthra Junction,Kadavanthra,Ernakulam,Kerala 682020,India",0.0,movement,Idle,2020-01-03 16:30:59
+3493323,1493,9.968512400000002,76.2986968,2020-01-03 16:17:14,0.0,0.0,24.883000000000006,network,"5,Subash Cross Rd,Kadavanthra Junction,Kadavanthra,Ernakulam,Kerala 682020,India",0.0,movement,Idle,2020-01-03 16:31:01
+3493324,1493,9.968512400000002,76.2986968,2020-01-03 16:30:54,0.0,0.0,24.883000000000006,network,"5,Subash Cross Rd,Kadavanthra Junction,Kadavanthra,Ernakulam,Kerala 682020,India",0.0,movement,Idle,2020-01-03 16:31:02
+3493374,1493,9.9633174,76.2974153,2020-01-03 16:45:20,0.0,0.0,52.4,network,"KVG-185,KV Nagar,Panampilly Nagar,Kochi,Kerala 682036,India",0.807,movement,,2020-01-03 16:45:25
+3493596,1493,9.9587599,76.2973272,2020-01-03 16:59:26,0.0,0.0,200.0,network,"g-390,Ground foor,LIG Housing Society,Panampilly Nagar,Ernakulam,Kerala 682036,India",0.69,movement,Idle,2020-01-03 18:02:34
+3493597,1493,9.9593754,76.29680450000002,2020-01-03 17:17:00,0.0,0.0,68.4,network,"LG-781,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 18:02:37
+3493598,1493,9.9595391,76.29742590000002,2020-01-03 17:47:04,0.0,0.0,82.5,network,"565,LIG Housing Society,Panampilly Nagar,Ernakulam,Kerala 682036,India",0.0,movement,Idle,2020-01-03 18:02:39
+3493599,1493,9.9600801,76.29733900000002,2020-01-03 18:02:30,0.0,0.0,23.802,network,"482,MIG 3rd Cross Rd,Opp: Silver Park,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 18:02:41
+3493636,1493,9.9606184,76.29772320000002,2020-01-03 18:14:29,0.0,0.0,23.384,network,"MIG-437,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 18:14:30
+3493699,1493,9.9606184,76.29772320000002,2020-01-03 18:35:37,0.0,0.0,23.384,network,"MIG-437,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 18:35:39
+3493725,1493,9.9606184,76.29772320000002,2020-01-03 18:45:26,0.0,0.0,23.384,network,"MIG-437,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 18:45:27
+3493756,1493,9.9593735,76.29682559999998,2020-01-03 18:59:30,0.0,0.0,23.419,network,"LG-781,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.241,movement,Idle,2020-01-03 18:59:34
+3493823,1493,9.9593735,76.29682559999998,2020-01-03 19:16:39,0.0,0.0,23.419,network,"LG-781,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 19:16:42
+3493877,1493,9.9593735,76.29682559999998,2020-01-03 19:33:05,0.0,0.0,23.419,network,"LG-781,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 19:33:09
+3494021,1493,9.9593735,76.29682559999998,2020-01-03 19:47:45,0.0,0.0,23.419,network,"LG-781,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 20:16:46
+3494022,1493,9.9587599,76.2973272,2020-01-03 20:02:02,0.0,0.0,200.0,network,"g-390,Ground foor,LIG Housing Society,Panampilly Nagar,Ernakulam,Kerala 682036,India",0.0,movement,Idle,2020-01-03 20:16:48
+3494023,1493,9.9593097,76.2967766,2020-01-03 20:16:44,0.0,0.0,50.917,network,"LG-781,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 20:16:50
+3494128,1493,9.9594478,76.2966553,2020-01-03 20:33:55,0.0,0.0,39.6,network,"G278,Panampilly Nagar Ave,MIG Housing Society,Panampilly Nagar,Ernakulam,Kerala 682036,India",0.0,movement,Idle,2020-01-03 20:54:44
+3494129,1493,9.9593326,76.296591,2020-01-03 20:47:36,0.0,0.0,64.1,network,"G-773,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 20:54:45
+3494130,1493,9.95955826,76.29728376,2020-01-03 20:54:41,0.0,0.0,23.584,gps,"565,LIG Housing Society,Panampilly Nagar,Ernakulam,Kerala 682036,India",0.0,movement,,2020-01-03 20:54:46
+3494131,1493,9.95939955,76.29716177,2020-01-03 20:55:08,0.0,0.0,3.216,gps,"LG-803,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,movement,Idle,2020-01-03 20:55:10
+3494132,1493,9.95939932,76.29716184,2020-01-03 20:55:12,0.0,0.0,3.216,gps,"LG-803,MIG Housing Society,Panampilly Nagar,Kochi,Kerala 682036,India",0.0,punchOut,Idle,2020-01-03 20:55:16

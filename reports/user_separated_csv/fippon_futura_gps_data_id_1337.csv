@@ -1,0 +1,24 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492293,1337,21.2277884,81.60196450000002,2020-01-03 11:48:26,0.0,0.0,1900.0,network,"B-31,Changurabhata,Raipur,Chhattisgarh 492001,India",0.0,punchIn,Idle,2020-01-03 11:48:29
+3492297,1337,21.2277884,81.60196450000002,2020-01-03 11:50:00,0.0,0.0,1900.0,network,"B-31,Changurabhata,Raipur,Chhattisgarh 492001,India",0.0,movement,Idle,2020-01-03 11:50:02
+3492547,1337,21.2277884,81.60196450000002,2020-01-03 12:57:39,0.0,0.0,0.0,network,"B-31,Changurabhata,Raipur,Chhattisgarh 492001,India",0.0,activity,Idle,2020-01-03 12:58:03
+3492847,1337,21.23022955,81.61170333,2020-01-03 14:26:54,4.21,352.2,19.0,gps,"368,Lakhe Nagar,Raipur,Chhattisgarh 492001,India",2.033,movement,Idle,2020-01-03 14:26:57
+3492877,1337,21.23022955,81.61170333,2020-01-03 14:33:19,0.0,0.0,0.0,gps,"368,Lakhe Nagar,Raipur,Chhattisgarh 492001,India",0.0,activity,Idle,2020-01-03 14:33:43
+3492917,1337,21.23022955,81.61170333,2020-01-03 14:41:53,4.21,352.2,19.0,gps,"368,Lakhe Nagar,Raipur,Chhattisgarh 492001,India",0.0,movement,Idle,2020-01-03 14:41:55
+3493348,1337,21.23022955,81.61170333,2020-01-03 16:40:38,4.21,352.2,19.0,gps,"368,Lakhe Nagar,Raipur,Chhattisgarh 492001,India",0.0,movement,Idle,2020-01-03 16:40:40
+3493360,1337,21.23022955,81.61170333,2020-01-03 16:42:37,0.0,0.0,0.0,gps,"368,Lakhe Nagar,Raipur,Chhattisgarh 492001,India",0.0,activity,Idle,2020-01-03 16:43:17
+3493395,1337,21.23022955,81.61170333,2020-01-03 16:55:40,4.21,352.2,19.0,gps,"368,Lakhe Nagar,Raipur,Chhattisgarh 492001,India",0.0,movement,Idle,2020-01-03 16:55:43
+3493449,1337,21.23022955,81.61170333,2020-01-03 17:10:38,4.21,352.2,19.0,gps,"368,Lakhe Nagar,Raipur,Chhattisgarh 492001,India",0.0,movement,Idle,2020-01-03 17:10:41
+3493485,1337,21.19144505,81.72329075,2020-01-03 17:25:40,0.0,0.0,11.0,gps,"Dhamatari Rd,Mana Camp,Barauda,Chhattisgarh 492015,India",16.419,movement,Idle,2020-01-03 17:25:42
+3493501,1337,21.19133924,81.72347746,2020-01-03 17:30:19,0.0,0.0,0.0,gps,"Dhamatari Rd,Mana Camp,Barauda,Chhattisgarh 492015,India",0.0,activity,Idle,2020-01-03 17:30:30
+3493508,1337,21.19133919,81.72347811,2020-01-03 17:31:23,0.0,0.0,0.0,gps,"Dhamatari Rd,Mana Camp,Barauda,Chhattisgarh 492015,India",0.0,activity,Idle,2020-01-03 17:31:33
+3493677,1337,21.19725382,81.67047605,2020-01-03 18:27:37,0.0,0.0,194.0,gps,"Unnamed Road,Dunda,Chhattisgarh 492015,India",6.104,movement,,2020-01-03 18:27:40
+3493686,1337,21.17373666,81.66151186,2020-01-03 18:28:28,0.0,0.0,0.0,gps,"Old Dhamtari Rd,Kandul,Chhattisgarh 492015,India",2.77611,activity,,2020-01-03 18:28:43
+3493712,1337,21.18638211,81.65707031,2020-01-03 18:40:37,0.0,0.0,0.0,gps,"Swathi Complex,Old Dhamtari Rd,Chhattisgarh 492015,India",3.375,activity,Idle,2020-01-03 18:40:52
+3493718,1337,21.18638534,81.65706633,2020-01-03 18:42:36,0.0,0.0,107.0,gps,"Swathi Complex,Old Dhamtari Rd,Chhattisgarh 492015,India",3.375,movement,Idle,2020-01-03 18:42:38
+3493753,1337,21.22516314,81.61391962,2020-01-03 18:57:38,11.81,319.2,122.0,gps,"Mumbai - Kolkata Hwy,Patel Para,Raipur,Chhattisgarh 492013,India",9.341,movement,,2020-01-03 18:57:42
+3494161,1337,21.23376402,81.59502705,2020-01-03 19:12:44,0.0,0.0,57.0,gps,"Unnamed Road,Rohnipuram,DDU Nagar,Amanaka,Raipur,Chhattisgarh 492001,India",5.13,movement,,2020-01-03 21:16:50
+3494162,1337,21.24128755,81.61966248,2020-01-03 21:16:48,0.0,0.0,48.0,gps,"Near Vivekanand Ashram,Great Eastern Rd,Aminpara,Raipur,Chhattisgarh 492001,India",3.398,movement,,2020-01-03 21:16:52
+3494215,1337,21.22602011,81.60308796,2020-01-03 21:31:45,0.0,0.0,207.0,gps,"1-3159,Changurabhata,Raipur,Chhattisgarh 492001,India",3.5,movement,Idle,2020-01-03 21:41:22
+3494225,1337,21.22613429,81.60293748,2020-01-03 21:46:46,0.0,0.0,119.0,gps,"1-3149,Changurabhata,Raipur,Chhattisgarh 492001,India",0.0,movement,Idle,2020-01-03 21:46:49
+3494227,1337,21.22613429,81.60293748,2020-01-03 21:47:42,0.0,0.0,119.0,gps,"1-3149,Changurabhata,Raipur,Chhattisgarh 492001,India",0.0,punchOut,Idle,2020-01-03 21:47:47

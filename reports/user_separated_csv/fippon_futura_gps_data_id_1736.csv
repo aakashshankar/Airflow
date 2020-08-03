@@ -1,0 +1,49 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491921,1736,18.41845174,79.12835385,2020-01-03 09:48:58,0.0,0.0,4.288,gps,"Gidde Perumandla Temple Ground,Beside Gidde Perumandla Temple,Hanumanager,Karimnagar,Telangana 505001,India",0.0,punchIn,Idle,2020-01-03 09:48:59
+3491922,1736,18.41845174,79.12835385,2020-01-03 09:49:01,0.0,0.0,4.288,gps,"Gidde Perumandla Temple Ground,Beside Gidde Perumandla Temple,Hanumanager,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 09:49:01
+3491954,1736,18.41845174,79.12835385,2020-01-03 10:06:34,0.0,0.0,4.288,gps,"Gidde Perumandla Temple Ground,Beside Gidde Perumandla Temple,Hanumanager,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 10:06:34
+3492232,1736,18.41845174,79.12835385,2020-01-03 10:21:33,0.0,0.0,4.288,gps,"Gidde Perumandla Temple Ground,Beside Gidde Perumandla Temple,Hanumanager,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 11:28:45
+3492233,1736,18.41845174,79.12835385,2020-01-03 11:28:44,0.0,0.0,4.288,gps,"Gidde Perumandla Temple Ground,Beside Gidde Perumandla Temple,Hanumanager,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 11:28:45
+3492234,1736,18.41845174,79.12835385,2020-01-03 11:29:11,0.0,0.0,0.0,network,"Gidde Perumandla Temple Ground,Beside Gidde Perumandla Temple,Hanumanager,Karimnagar,Telangana 505001,India",0.0,activity,Idle,2020-01-03 11:29:16
+3492242,1736,18.44152032,79.12994313,2020-01-03 11:32:49,0.0,0.0,0.0,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",3.5410000000000004,activity,Idle,2020-01-03 11:32:54
+3492859,1736,18.441539,79.12992595,2020-01-03 11:43:44,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",3.543,movement,Idle,2020-01-03 14:31:16
+3492860,1736,18.441539,79.12992595,2020-01-03 12:00:34,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:19
+3492861,1736,18.441539,79.12992595,2020-01-03 12:15:34,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:23
+3492862,1736,18.441539,79.12992595,2020-01-03 12:32:43,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:25
+3492863,1736,18.441539,79.12992595,2020-01-03 12:48:11,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:28
+3492864,1736,18.441539,79.12992595,2020-01-03 13:04:06,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:30
+3492865,1736,18.441539,79.12992595,2020-01-03 13:20:41,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:34
+3492866,1736,18.441539,79.12992595,2020-01-03 13:36:01,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:36
+3492867,1736,18.441539,79.12992595,2020-01-03 13:54:35,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:37
+3492868,1736,18.441539,79.12992595,2020-01-03 14:10:14,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:38
+3492869,1736,18.441539,79.12992595,2020-01-03 14:25:20,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:39
+3492870,1736,18.441539,79.12992595,2020-01-03 14:30:28,0.72,326.9,4.288,gps,"193,Savaran St,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 14:31:39
+3492871,1736,18.44291227,79.129288,2020-01-03 14:31:10,0.0,0.0,0.0,gps,"3-1-301,Prashanth Nagar Rd,Christian Colony,Karimnagar,Telangana 505002,India",0.263,activity,Idle,2020-01-03 14:31:44
+3492895,1736,18.44291227,79.129288,2020-01-03 14:38:58,0.0,0.0,0.0,na,"3-1-301,Prashanth Nagar Rd,Christian Colony,Karimnagar,Telangana 505002,India",0.263,activity,Idle,2020-01-03 14:39:02
+3492947,1736,18.443035483360287,79.1287064552307,2020-01-03 14:48:26,0.0,0.0,50.0,gps,"Christian Colony,Karimnagar,Telangana 505001,India",0.328,movement,Idle,2020-01-03 14:48:26
+3492985,1736,18.44033512,79.12767268,2020-01-03 15:00:06,0.0,0.0,0.0,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.398,activity,Idle,2020-01-03 15:00:10
+3493252,1736,18.440294775909347,79.12771437568496,2020-01-03 15:05:16,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.397,movement,Idle,2020-01-03 16:12:57
+3493253,1736,18.440294775909347,79.12771437568496,2020-01-03 15:21:21,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 16:13:00
+3493254,1736,18.440294775909347,79.12771437568496,2020-01-03 15:37:44,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 16:13:01
+3493255,1736,18.440294775909347,79.12771437568496,2020-01-03 15:53:53,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 16:13:03
+3493256,1736,18.440294775909347,79.12771437568496,2020-01-03 16:12:55,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 16:13:05
+3493313,1736,18.440294775909347,79.12771437568496,2020-01-03 16:28:39,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 16:28:39
+3493375,1736,18.440294775909347,79.12771437568496,2020-01-03 16:45:33,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 16:45:33
+3493417,1736,18.440294775909347,79.12771437568496,2020-01-03 17:00:55,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 17:00:56
+3493468,1736,18.440294775909347,79.12771437568496,2020-01-03 17:16:03,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 17:16:02
+3493512,1736,18.440294775909347,79.12771437568496,2020-01-03 17:35:00,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 17:35:00
+3493572,1736,18.440294775909347,79.12771437568496,2020-01-03 17:53:28,0.0,343.206,26.3108,gps,"NH563,Christian Colony,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 17:53:28
+3493610,1736,18.44639897346497,79.12909805774689,2020-01-03 18:09:18,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.823,movement,Idle,2020-01-03 18:09:18
+3493827,1736,18.44639897346497,79.12909805774689,2020-01-03 18:29:14,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 19:19:23
+3493828,1736,18.44639897346497,79.12909805774689,2020-01-03 18:46:28,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 19:19:24
+3493829,1736,18.44639897346497,79.12909805774689,2020-01-03 19:03:44,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 19:19:27
+3493830,1736,18.44639897346497,79.12909805774689,2020-01-03 19:19:23,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 19:19:28
+3493890,1736,18.44639897346497,79.12909805774689,2020-01-03 19:36:32,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 19:36:33
+3493950,1736,18.44639897346497,79.12909805774689,2020-01-03 19:54:32,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 19:54:32
+3494000,1736,18.44639897346497,79.12909805774689,2020-01-03 20:09:47,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 20:09:47
+3494133,1736,18.44639897346497,79.12909805774689,2020-01-03 20:25:33,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 20:56:48
+3494134,1736,18.44639897346497,79.12909805774689,2020-01-03 20:41:39,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 20:56:49
+3494135,1736,18.44639897346497,79.12909805774689,2020-01-03 20:56:46,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 20:56:49
+3494177,1736,18.44639897346497,79.12909805774689,2020-01-03 21:13:55,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 21:29:09
+3494178,1736,18.44639897346497,79.12909805774689,2020-01-03 21:29:08,0.0,0.0,39.0,gps,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,movement,Idle,2020-01-03 21:29:11
+3494180,1736,18.44639897346497,79.12909805774689,2020-01-03 21:29:17,0.0,0.0,20.0,network,"H.no 3-7-114,Vavilalapally,Karimnagar,Telangana 505001,India",0.0,punchOut,Idle,2020-01-03 21:29:22

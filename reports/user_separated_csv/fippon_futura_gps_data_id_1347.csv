@@ -1,0 +1,20 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492178,1347,21.224391666666666,81.59590333333334,2020-01-03 11:11:09,0.131769,324.65,3.3,gps,"Satyam Vihar Colony,Changurabhata,Raipur,Chhattisgarh 492013,India",0.0,punchIn,Idle,2020-01-03 11:11:11
+3492180,1347,21.224391666666666,81.59590333333334,2020-01-03 11:11:12,0.523472,261.38,3.3,gps,"Satyam Vihar Colony,Changurabhata,Raipur,Chhattisgarh 492013,India",0.0,movement,Idle,2020-01-03 11:11:15
+3492221,1347,21.224391666666666,81.59590333333334,2020-01-03 11:26:33,0.199198,98.12,3.3,gps,"Satyam Vihar Colony,Changurabhata,Raipur,Chhattisgarh 492013,India",0.0,movement,Idle,2020-01-03 11:26:34
+3492567,1347,21.224391666666666,81.59590333333334,2020-01-03 13:05:36,0.199198,98.12,3.3,gps,"Satyam Vihar Colony,Changurabhata,Raipur,Chhattisgarh 492013,India",0.0,movement,Idle,2020-01-03 13:05:38
+3492570,1347,21.224391666666666,81.59590333333334,2020-01-03 13:05:49,0.0,0.0,0.0,gps,"Satyam Vihar Colony,Changurabhata,Raipur,Chhattisgarh 492013,India",0.0,activity,Idle,2020-01-03 13:06:00
+3492574,1347,0.0,0.0,2020-01-03 13:06:35,0.0,0.0,0.0,na,Unknown Location,0.0,movement,,2020-01-03 13:06:37
+3492605,1347,21.24676833333333,81.63936666666667,2020-01-03 13:15:33,0.0,344.59,4.4,gps,"Unnamed Road,Pandit Jawahar Lal Nehru Memorial Medical College,Moudhapara,Raipur,Chhattisgarh 492001,India",5.745,movement,Idle,2020-01-03 13:15:36
+3492614,1347,21.24676833333333,81.63936666666667,2020-01-03 13:20:06,0.0,344.59,4.4,gps,"Unnamed Road,Pandit Jawahar Lal Nehru Memorial Medical College,Moudhapara,Raipur,Chhattisgarh 492001,India",0.0,movement,Idle,2020-01-03 13:20:08
+3492708,1347,21.24676833333333,81.63936666666667,2020-01-03 13:43:52,0.0,344.59,4.4,gps,"Unnamed Road,Pandit Jawahar Lal Nehru Memorial Medical College,Moudhapara,Raipur,Chhattisgarh 492001,India",0.0,movement,Idle,2020-01-03 13:43:54
+3492713,1347,21.247178333333334,81.63797166666667,2020-01-03 13:44:02,0.0,0.0,0.0,gps,"Shaurya Arcade,Moudhapara,Raipur,Chhattisgarh 492001,India",0.274,activity,Idle,2020-01-03 13:44:23
+3493110,1347,21.247180000000004,81.63793833333334,2020-01-03 15:30:40,0.599651,310.72,2.1,gps,"Next to Mishra hospital,Moudhapara,Raipur,Chhattisgarh 492002,India",0.274,movement,Idle,2020-01-03 15:30:42
+3493205,1347,21.247180000000004,81.63793833333334,2020-01-03 15:58:40,0.599651,310.72,2.1,gps,"Next to Mishra hospital,Moudhapara,Raipur,Chhattisgarh 492002,India",0.0,movement,Idle,2020-01-03 15:58:44
+3493259,1347,21.247180000000004,81.63793833333334,2020-01-03 16:13:39,0.599651,310.72,2.1,gps,"Next to Mishra hospital,Moudhapara,Raipur,Chhattisgarh 492002,India",0.0,movement,Idle,2020-01-03 16:13:42
+3493594,1347,21.247180000000004,81.63793833333334,2020-01-03 18:00:51,0.599651,310.72,2.1,gps,"Next to Mishra hospital,Moudhapara,Raipur,Chhattisgarh 492002,India",0.0,movement,Idle,2020-01-03 18:00:53
+3493595,1347,21.247180000000004,81.63793833333334,2020-01-03 18:01:23,0.0,0.0,0.0,gps,"Next to Mishra hospital,Moudhapara,Raipur,Chhattisgarh 492002,India",0.0,activity,Idle,2020-01-03 18:02:00
+3493781,1347,21.246548333333333,81.6393,2020-01-03 19:09:31,0.0,0.0,6.8,gps,"1st Floor,Medical Complex,Rajbandha,CG,Moudhapara,Raipur,Chhattisgarh 492002,India",0.254,movement,Idle,2020-01-03 19:09:34
+3493783,1347,21.246548333333333,81.6393,2020-01-03 19:09:49,0.0,0.0,0.0,gps,"1st Floor,Medical Complex,Rajbandha,CG,Moudhapara,Raipur,Chhattisgarh 492002,India",0.0,activity,Idle,2020-01-03 19:10:09
+3494126,1347,21.241481666666665,81.61955833333333,2020-01-03 20:53:06,0.0,0.0,5.5,gps,"Near Vivekananda Ashram,Great Eastern Rd,Samta Colony,Raipur,Chhattisgarh 492001,India",2.569,movement,Idle,2020-01-03 20:53:09
+3494127,1347,21.241481666666665,81.61955833333333,2020-01-03 20:53:11,0.0,0.0,5.5,gps,"Near Vivekananda Ashram,Great Eastern Rd,Samta Colony,Raipur,Chhattisgarh 492001,India",0.0,punchOut,Idle,2020-01-03 20:53:18

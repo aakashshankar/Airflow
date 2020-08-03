@@ -1,0 +1,36 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3493103,1560,26.272696760915945,73.07307925681663,2020-01-03 15:30:13,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,punchIn,Idle,2020-01-03 15:30:18
+3493105,1560,26.272696760915945,73.07307925681663,2020-01-03 15:30:17,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 15:30:20
+3493107,1560,26.272696760915945,73.07307925681663,2020-01-03 15:30:29,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 15:30:33
+3493150,1560,26.272696760915945,73.07307925681663,2020-01-03 15:45:37,0.0,329.205,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 15:45:40
+3493223,1560,26.272696760915945,73.07307925681663,2020-01-03 16:00:35,0.0,225.891,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 16:00:43
+3493244,1560,26.272696760915945,73.07307925681663,2020-01-03 16:10:09,2.4090700000000003,236.752,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 16:10:12
+3493302,1560,26.272696760915945,73.07307925681663,2020-01-03 16:25:19,0.0,232.357,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 16:25:22
+3493488,1560,26.272696760915945,73.07307925681663,2020-01-03 17:11:57,0.08857469999999999,68.046,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 17:26:35
+3493489,1560,26.272696760915945,73.07307925681663,2020-01-03 17:26:32,0.216322,168.9,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 17:26:36
+3493541,1560,26.272696760915945,73.07307925681663,2020-01-03 17:41:37,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 17:41:39
+3493583,1560,26.272696760915945,73.07307925681663,2020-01-03 17:56:34,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 17:56:36
+3493621,1560,26.272696760915945,73.07307925681663,2020-01-03 18:11:31,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 18:11:34
+3493675,1560,26.272696760915945,73.07307925681663,2020-01-03 18:26:32,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 18:26:35
+3493716,1560,26.272696760915945,73.07307925681663,2020-01-03 18:41:34,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 18:41:36
+3493749,1560,26.272696760915945,73.07307925681663,2020-01-03 18:56:33,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 18:56:35
+3493805,1560,26.272696760915945,73.07307925681663,2020-01-03 19:11:33,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 19:11:36
+3493851,1560,26.272696760915945,73.07307925681663,2020-01-03 19:26:34,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 19:26:39
+3493924,1560,26.272696760915945,73.07307925681663,2020-01-03 19:41:34,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 19:41:36
+3493955,1560,26.272696760915945,73.07307925681663,2020-01-03 19:56:33,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 19:56:36
+3494005,1560,26.272696760915945,73.07307925681663,2020-01-03 20:11:57,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 20:12:00
+3494057,1560,26.272696760915945,73.07307925681663,2020-01-03 20:26:34,0.0,0.0,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 20:26:37
+3494100,1560,26.272772100053462,73.07297807959878,2020-01-03 20:41:36,0.0,131.003,16.0,gps,"??????? ???,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 20:41:39
+3494141,1560,26.272566069849358,73.07295352745717,2020-01-03 21:00:36,0.0,51.8203,24.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 21:00:38
+3494154,1560,26.272566069849358,73.07295352745717,2020-01-03 21:15:23,0.0,180.556,24.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 21:15:25
+3494189,1560,26.274956136319126,73.07241812111529,2020-01-03 21:30:22,2.86044,338.59,48.0,gps,"73FC+HM Jodhpur,Rajasthan plot 32,Tirupati Vihar,Shikargarh Enclave,Cantt Area,Jodhpur,Rajasthan 342006,India",0.342,movement,,2020-01-03 21:30:24
+3494219,1560,26.272726901195327,73.07308081264597,2020-01-03 21:45:19,0.0,281.839,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.318,movement,Idle,2020-01-03 21:45:21
+3494239,1560,26.272726901195327,73.07308081264597,2020-01-03 22:00:21,0.0,292.137,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 22:00:23
+3494263,1560,26.272726901195327,73.07308081264597,2020-01-03 22:15:19,0.0,292.137,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 22:15:21
+3494313,1560,26.272726901195327,73.07308081264597,2020-01-03 22:30:16,0.0,35.0572,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 22:30:18
+3494349,1560,26.272726901195327,73.07308081264597,2020-01-03 22:45:16,0.0,62.6839,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 22:45:18
+3494367,1560,26.272726901195327,73.07308081264597,2020-01-03 23:00:19,0.0,26.0203,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 23:00:22
+3494392,1560,26.272726901195327,73.07308081264597,2020-01-03 23:15:19,0.0,97.2241,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 23:15:21
+3494403,1560,26.272726901195327,73.07308081264597,2020-01-03 23:30:19,0.0,52.4515,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 23:30:21
+3494412,1560,26.272726901195327,73.07308081264597,2020-01-03 23:45:19,0.0,255.423,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,movement,Idle,2020-01-03 23:45:21
+3494423,1560,26.27262971507627,73.07300486206744,2020-01-03 23:59:00,0.0,75.7935,16.0,gps,"Unnamed Road,Shikargarh Enclave,Sirodi,Jodhpur,Rajasthan 342006,India",0.0,punchOut,Idle,2020-01-03 23:59:17

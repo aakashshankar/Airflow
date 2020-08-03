@@ -1,0 +1,8 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492038,1593,26.19219114,78.13632941,2019-12-31 19:22:19,0.0,0.0,17.0,gps,"C-81,Samadhiya Colony,Kala Saiyad,Gwalior,Madhya Pradesh 474001,India",0.0,punchOut,Idle,2020-01-03 10:29:50
+3492040,1593,26.19230037,78.13652811,2020-01-03 10:29:56,0.0,0.0,14.0,gps,"C-81,Samadhiya Colony,Kala Saiyad,Gwalior,Madhya Pradesh 474001,India",0.0,punchIn,Idle,2020-01-03 10:30:01
+3492041,1593,26.19230037,78.13652811,2020-01-03 10:29:59,0.0,0.0,14.0,gps,"C-81,Samadhiya Colony,Kala Saiyad,Gwalior,Madhya Pradesh 474001,India",0.0,movement,Idle,2020-01-03 10:30:04
+3492047,1593,26.19230037,78.13652811,2020-01-03 10:32:29,0.0,0.0,14.0,gps,"C-81,Samadhiya Colony,Kala Saiyad,Gwalior,Madhya Pradesh 474001,India",0.0,movement,Idle,2020-01-03 10:32:31
+3492476,1593,26.19230037,78.13652811,2020-01-03 12:35:34,1.15599,122.555,14.0,fused,"C-81,Samadhiya Colony,Kala Saiyad,Gwalior,Madhya Pradesh 474001,India",0.0,movement,Idle,2020-01-03 12:35:35
+3492810,1593,26.192531,78.136515,2020-01-03 14:14:18,0.0,0.0,98.4,fused,"Samadhiya Colony Rd,Samadhiya Colony,Kala Saiyad,Gwalior,Madhya Pradesh 474001,India",0.0,movement,,2020-01-03 14:14:20
+3492812,1593,26.19225137,78.13655358,2020-01-03 14:14:22,0.0,0.0,20.0,gps,"C-81,Samadhiya Colony,Kala Saiyad,Gwalior,Madhya Pradesh 474001,India",0.0,punchOut,,2020-01-03 14:14:28

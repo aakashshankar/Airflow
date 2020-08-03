@@ -1,0 +1,8 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492171,1592,23.2694277,77.4034434,2020-01-03 11:08:50,0.0,0.0,32.1,network,"Unnamed Road,Shanti Nagar,Ibrahimganj,Bhopal,Madhya Pradesh 462001,India",0.0,punchIn,Idle,2020-01-03 11:08:53
+3492172,1592,23.2694277,77.4034434,2020-01-03 11:08:54,0.0,0.0,32.1,fused,"Unnamed Road,Shanti Nagar,Ibrahimganj,Bhopal,Madhya Pradesh 462001,India",0.0,movement,Idle,2020-01-03 11:08:55
+3492849,1592,23.198528600000003,77.4265715,2020-01-03 14:28:34,0.0,0.0,0.0,network,"A/498 Near Manisha Market,Sector A,Shahpura,Bhopal,Madhya Pradesh 462039,India",10.915,activity,Idle,2020-01-03 14:28:43
+3492856,1592,23.19851179,77.42669161,2020-01-03 14:30:05,0.0,0.0,0.0,gps,"A-203,Varun Nagar,Sector A,Shahpura,Bhopal,Madhya Pradesh 462016,India",10.918,activity,Idle,2020-01-03 14:30:11
+3493925,1592,23.23416441,77.43119884,2020-01-03 19:41:31,0.0,0.0,0.0,gps,"3rd Floor,243 - B Krishna Palace,MP Nagar Zone 1,Near Surendra Vilas,Above Gossip Zone-1,Zone-I,Maharana Pratap Nagar,Bhopal,Madhya Pradesh 462023,India",6.83,activity,Idle,2020-01-03 19:41:42
+3493928,1592,23.23416441,77.43119884,2020-01-03 19:41:53,0.0,0.0,0.0,gps,"3rd Floor,243 - B Krishna Palace,MP Nagar Zone 1,Near Surendra Vilas,Above Gossip Zone-1,Zone-I,Maharana Pratap Nagar,Bhopal,Madhya Pradesh 462023,India",6.83,activity,Idle,2020-01-03 19:42:15
+3493930,1592,23.23416441,77.43119884,2020-01-03 19:42:25,0.0,0.0,19.296,gps,"3rd Floor,243 - B Krishna Palace,MP Nagar Zone 1,Near Surendra Vilas,Above Gossip Zone-1,Zone-I,Maharana Pratap Nagar,Bhopal,Madhya Pradesh 462023,India",6.83,punchOut,Idle,2020-01-03 19:42:29

@@ -1,0 +1,71 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491826,1251,26.11686602,85.29660472,2020-01-02 23:15:45,1.33,287.2,78.884,gps,"Unnamed Road,Mansurpur Chamarua,Bihar 843113,India",0.0,movement,Idle,2020-01-03 07:30:33
+3491827,1251,26.11686602,85.29660472,2020-01-02 23:22:09,0.0,0.0,78.884,gps,"Unnamed Road,Mansurpur Chamarua,Bihar 843113,India",0.0,movement,Idle,2020-01-03 07:30:35
+3491828,1251,26.11686602,85.29660472,2020-01-02 23:23:07,0.77,352.5,78.884,gps,"Unnamed Road,Mansurpur Chamarua,Bihar 843113,India",0.0,movement,Idle,2020-01-03 07:30:36
+3491829,1251,26.1171994,85.29618886,2020-01-02 23:23:38,0.0,0.0,0.0,gps,"Unnamed Road,Mansurpur Chamarua,Bihar 843113,India",0.0,activity,,2020-01-03 07:30:45
+3491830,1251,26.11686602,85.29660472,2020-01-02 23:40:14,0.0,0.0,78.884,gps,"Unnamed Road,Mansurpur Chamarua,Bihar 843113,India",0.0,movement,Idle,2020-01-03 07:30:46
+3491831,1251,26.11686602,85.29660472,2020-01-02 23:53:21,0.0,0.0,78.884,gps,"Unnamed Road,Mansurpur Chamarua,Bihar 843113,India",0.0,movement,Idle,2020-01-03 07:30:48
+3491832,1251,26.11694107,85.29627553,2020-01-02 23:59:00,0.0,0.0,33.374,gps,"Unnamed Road,Mansurpur Chamarua,Bihar 843113,India",0.0,punchOut,,2020-01-03 07:30:54
+3491833,1251,26.11647002,85.29858057,2020-01-03 07:31:29,1.44,135.3,13.653,gps,"Unnamed Road,Madhuban,Bihar 843113,India",0.0,punchIn,Idle,2020-01-03 07:31:33
+3491834,1251,26.11647002,85.29858057,2020-01-03 07:31:32,1.44,112.9,13.653,gps,"Unnamed Road,Madhuban,Bihar 843113,India",0.0,movement,Idle,2020-01-03 07:31:35
+3491841,1251,26.12124549,85.35444654,2020-01-03 07:46:31,6.02,76.6,12.136,gps,"Chhapra - Rewa - Muzaffarpur Rd,Alkapuri Colony,Swami Shajanand Colony,Muzaffarpur,Bihar 843165,India",5.812,movement,Idle,2020-01-03 08:01:35
+3491842,1251,26.12124549,85.35444654,2020-01-03 08:01:32,6.02,76.6,12.136,gps,"Chhapra - Rewa - Muzaffarpur Rd,Alkapuri Colony,Swami Shajanand Colony,Muzaffarpur,Bihar 843165,India",0.0,movement,Idle,2020-01-03 08:01:37
+3491849,1251,26.10884939,85.35858956,2020-01-03 08:16:38,6.74,189.3,30.34,gps,"Patna - Sitamarhi Rd,Gobarsahi,Muzaffarpur,Bihar 843165,India",2.109,movement,,2020-01-03 08:31:43
+3491850,1251,26.04149755,85.34668389,2020-01-03 08:31:39,17.65,212.1,18.204,gps,"NH22,Turki,Bihar 843165,India",9.712,movement,Idle,2020-01-03 08:31:45
+3491854,1251,26.04149755,85.34668389,2020-01-03 08:46:38,17.65,212.1,18.204,gps,"NH22,Turki,Bihar 843165,India",0.0,movement,Idle,2020-01-03 08:46:41
+3491865,1251,26.04149755,85.34668389,2020-01-03 09:01:41,17.65,212.1,18.204,gps,"NH22,Turki,Bihar 843165,India",0.0,movement,Idle,2020-01-03 09:01:44
+3491881,1251,25.69038343,85.23034374,2020-01-03 09:16:36,14.74,145.5,24.272,gps,"Chaurasia Chowk Bus Stop,NH 19,Hajipur,Bihar 844101,India",45.389,movement,Idle,2020-01-03 09:16:41
+3491919,1251,25.69038343,85.23034374,2020-01-03 09:31:36,14.74,145.5,24.272,gps,"Chaurasia Chowk Bus Stop,NH 19,Hajipur,Bihar 844101,India",0.0,movement,Idle,2020-01-03 09:46:42
+3491920,1251,25.69038343,85.23034374,2020-01-03 09:46:38,14.74,145.5,24.272,gps,"Chaurasia Chowk Bus Stop,NH 19,Hajipur,Bihar 844101,India",0.0,movement,Idle,2020-01-03 09:46:45
+3491937,1251,25.600415288512842,85.18629770390099,2020-01-03 10:01:38,14.0,4.647869999999998,16.4776,gps,"373/218,Sandalpur Rd,Sardar Patel Colony,Patna,Bihar 800004,India",12.547,movement,,2020-01-03 10:01:41
+3492098,1251,25.606543452938126,85.13927304618514,2020-01-03 10:16:38,5.0,0.163645,28.9749,gps,"Next To Hotel Kuna International,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",5.255,movement,Idle,2020-01-03 10:46:43
+3492099,1251,25.606543452938126,85.13927304618514,2020-01-03 10:31:38,5.0,0.163645,28.9749,gps,"Next To Hotel Kuna International,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 10:46:46
+3492101,1251,25.606543452938126,85.13927304618514,2020-01-03 10:46:38,5.0,0.163645,28.9749,gps,"Next To Hotel Kuna International,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 10:46:48
+3492197,1251,25.606543452938126,85.13927304618514,2020-01-03 11:01:39,5.0,0.163645,28.9749,gps,"Next To Hotel Kuna International,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 11:16:43
+3492198,1251,25.606543452938126,85.13927304618514,2020-01-03 11:16:39,5.0,0.163645,28.9749,gps,"Next To Hotel Kuna International,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 11:16:45
+3492238,1251,25.606543452938126,85.13927304618514,2020-01-03 11:31:41,5.0,0.163645,28.9749,gps,"Next To Hotel Kuna International,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 11:31:44
+3492239,1251,25.606543452938126,85.13927304618514,2020-01-03 11:31:42,5.0,0.163645,28.9749,gps,"Next To Hotel Kuna International,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 11:31:49
+3492300,1251,25.6041935,85.13655084,2020-01-03 11:46:49,0.0,0.0,6.068,gps,"rajiv nagar,computer hub,Fraser Road Area,Patna,Bihar 800001,India",1.012,movement,Idle,2020-01-03 11:50:34
+3492458,1251,25.6041935,85.13655084,2020-01-03 12:01:40,0.0,0.0,6.068,gps,"rajiv nagar,computer hub,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 12:31:45
+3492459,1251,25.606566706590986,85.13929457411177,2020-01-03 12:16:41,5.0,0.6754600000000001,5.54933,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.731,movement,Idle,2020-01-03 12:31:48
+3492460,1251,25.606566706590986,85.13929457411177,2020-01-03 12:31:43,5.0,0.6754600000000001,5.54933,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 12:31:50
+3492819,1251,25.606566706590986,85.13929457411177,2020-01-03 12:46:42,5.0,0.6754600000000001,5.54933,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 14:16:55
+3492820,1251,25.606566706590986,85.13929457411177,2020-01-03 13:01:43,5.0,0.6754600000000001,5.54933,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 14:17:08
+3492821,1251,25.606566706590986,85.13929457411177,2020-01-03 13:16:44,5.0,0.6754600000000001,5.54933,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 14:17:09
+3492822,1251,25.606566706590986,85.13929457411177,2020-01-03 13:31:44,5.0,0.6754600000000001,5.54933,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 14:17:24
+3492872,1251,25.606566706590986,85.13929457411177,2020-01-03 13:46:45,5.0,0.6754600000000001,5.54933,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 14:31:51
+3492873,1251,25.606566706590986,85.13929457411177,2020-01-03 14:01:45,5.0,0.6754600000000001,5.54933,gps,"Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 14:31:55
+3492874,1251,25.60948159,85.14012518,2020-01-03 14:16:47,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.35200000000000004,movement,Idle,2020-01-03 14:31:58
+3492875,1251,25.60948159,85.14012518,2020-01-03 14:31:45,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 14:32:00
+3493267,1251,25.60948159,85.14012518,2020-01-03 14:46:45,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 16:16:54
+3493268,1251,25.60948159,85.14012518,2020-01-03 15:01:45,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 16:17:06
+3493269,1251,25.60948159,85.14012518,2020-01-03 15:16:45,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 16:17:08
+3493270,1251,25.60948159,85.14012518,2020-01-03 15:31:46,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 16:17:09
+3493271,1251,25.60948159,85.14012518,2020-01-03 15:46:47,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 16:17:11
+3493272,1251,25.60948159,85.14012518,2020-01-03 16:01:48,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 16:17:13
+3493274,1251,25.60948159,85.14012518,2020-01-03 16:16:49,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 16:17:14
+3493328,1251,25.60948159,85.14012518,2020-01-03 16:31:49,1.08,248.9,7.585,gps,"Shambhu Nath Plaza,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",0.0,movement,Idle,2020-01-03 16:31:54
+3493421,1251,25.60272176,85.14301357,2020-01-03 16:46:49,2.32,64.3,19.721,gps,"Patna - Parsa - Siwan Hwy,Ghrounda,Patna,Bihar 800003,India",1.374,movement,,2020-01-03 17:02:01
+3493422,1251,25.60186077,85.16720321,2020-01-03 17:01:53,3.35,110.5,22.755,gps,"Bahadurpur Gumti ,Kankerbagh main road ,(In front of petrol pump) Patna - 20,Rajendra Nagar,Patna,Bihar 800020,India",2.452,movement,,2020-01-03 17:02:04
+3493469,1251,25.60945253,85.20029611,2020-01-03 17:16:52,0.0,0.0,4.551,gps,"Chapra-Patna Hwy,Muhammadpur,Patna,Bihar 800007,India",4.435,movement,,2020-01-03 17:16:57
+3493555,1251,25.60959882,85.2004077,2020-01-03 17:31:50,0.0,0.0,13.653,gps,"Gaighat Bus Stand,Muhammadpur,Patna,Bihar 800016,India",0.0,movement,Idle,2020-01-03 17:46:56
+3493556,1251,25.60959882,85.2004077,2020-01-03 17:46:53,0.0,0.0,13.653,gps,"Gaighat Bus Stand,Muhammadpur,Patna,Bihar 800016,India",0.0,movement,Idle,2020-01-03 17:46:59
+3493694,1251,25.64050647,85.21701578,2020-01-03 18:01:52,3.85,24.0,6.068,gps,"Chapra-Patna Hwy,Terasiya,Bihar 844101,India",3.822,movement,Idle,2020-01-03 18:32:25
+3493695,1251,25.64050647,85.21701578,2020-01-03 18:16:53,3.85,24.0,6.068,gps,"Chapra-Patna Hwy,Terasiya,Bihar 844101,India",0.0,movement,Idle,2020-01-03 18:32:27
+3493696,1251,25.64050647,85.21701578,2020-01-03 18:32:21,3.85,24.0,6.068,gps,"Chapra-Patna Hwy,Terasiya,Bihar 844101,India",0.0,movement,Idle,2020-01-03 18:32:29
+3493728,1251,25.77069175,85.26711529,2020-01-03 18:46:57,15.25,17.4,15.17,gps,"Mansurpur,Sarai Vaishali,NH-77,Mansurapur,Bihar 844125,India",17.067999999999998,movement,Idle,2020-01-03 18:47:00
+3494024,1251,25.77069175,85.26711529,2020-01-03 19:01:54,15.25,17.4,15.17,gps,"Mansurpur,Sarai Vaishali,NH-77,Mansurapur,Bihar 844125,India",0.0,movement,Idle,2020-01-03 20:17:20
+3494026,1251,25.77069175,85.26711529,2020-01-03 19:16:56,15.25,17.4,15.17,gps,"Mansurpur,Sarai Vaishali,NH-77,Mansurapur,Bihar 844125,India",0.0,movement,Idle,2020-01-03 20:17:26
+3494027,1251,25.77069175,85.26711529,2020-01-03 19:31:56,15.25,17.4,15.17,gps,"Mansurpur,Sarai Vaishali,NH-77,Mansurapur,Bihar 844125,India",0.0,movement,Idle,2020-01-03 20:17:46
+3494028,1251,26.1216980492106,85.3565866742103,2020-01-03 19:46:57,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",42.249,movement,Idle,2020-01-03 20:17:50
+3494029,1251,26.1216980492106,85.3565866742103,2020-01-03 20:01:57,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 20:17:52
+3494030,1251,26.1216980492106,85.3565866742103,2020-01-03 20:17:00,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 20:17:54
+3494076,1251,26.1216980492106,85.3565866742103,2020-01-03 20:31:58,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 20:32:01
+3494117,1251,26.1216980492106,85.3565866742103,2020-01-03 20:46:58,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 20:47:01
+3494144,1251,26.1216980492106,85.3565866742103,2020-01-03 21:02:00,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 21:02:03
+3494163,1251,26.1216980492106,85.3565866742103,2020-01-03 21:16:58,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 21:17:00
+3494226,1251,26.1216980492106,85.3565866742103,2020-01-03 21:47:08,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 21:47:10
+3494245,1251,26.1216980492106,85.3565866742103,2020-01-03 22:02:00,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 22:02:02
+3494256,1251,26.1216980492106,85.3565866742103,2020-01-03 22:13:23,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,movement,Idle,2020-01-03 22:13:26
+3494259,1251,26.1216980492106,85.3565866742103,2020-01-03 22:14:23,0.0,0.0,0.0,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,activity,Idle,2020-01-03 22:14:29
+3494260,1251,26.1216980492106,85.3565866742103,2020-01-03 22:14:32,6.0,4.98613,45.9545,gps,"Bhagwanpur near electric office,Alkapuri Colony,Bishundatpur,Muzaffarpur,Bihar 842001,India",0.0,punchOut,Idle,2020-01-03 22:14:38

@@ -1,0 +1,19 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491807,1597,31.2995568,75.55172950000002,2020-01-02 23:59:00,0.0,0.0,19.296,gps,"86/A,Dayal Nagar,Model House,Jalandhar,Punjab 144003,India",0.0,punchOut,Idle,2020-01-03 01:09:31
+3492366,1597,31.29946864,75.55187013,2020-01-03 12:10:02,0.62,52.5,4.288,gps,"86/A,Dayal Nagar,Model House,Jalandhar,Punjab 144003,India",0.0,punchIn,Idle,2020-01-03 12:10:04
+3492367,1597,31.29946864,75.55187013,2020-01-03 12:10:05,0.62,52.5,4.288,gps,"86/A,Dayal Nagar,Model House,Jalandhar,Punjab 144003,India",0.0,movement,Idle,2020-01-03 12:10:07
+3492433,1597,31.29946864,75.55187013,2020-01-03 12:25:06,1.64,35.4,4.288,gps,"86/A,Dayal Nagar,Model House,Jalandhar,Punjab 144003,India",0.0,movement,Idle,2020-01-03 12:25:09
+3492773,1597,31.14443941,75.48834644,2020-01-03 14:03:27,12.29,198.6,8.576,gps,"Moga - Jalandhar Rd,Adarsh Colony,Rasulpur,Punjab 144630,India",19.61,movement,Idle,2020-01-03 14:03:29
+3492789,1597,31.14443941,75.48834644,2020-01-03 14:07:50,12.29,198.6,8.576,gps,"Moga - Jalandhar Rd,Adarsh Colony,Rasulpur,Punjab 144630,India",0.0,movement,Idle,2020-01-03 14:07:52
+3492791,1597,31.14443941,75.48834644,2020-01-03 14:08:05,0.0,0.0,0.0,gps,"Moga - Jalandhar Rd,Adarsh Colony,Rasulpur,Punjab 144630,India",0.0,activity,Idle,2020-01-03 14:08:12
+3492794,1597,31.12785018,75.47644565,2020-01-03 14:08:46,0.0,0.0,0.0,gps,"Malri Rd,Amardas Colony,Nakodar,Punjab 144040,India",2.755,activity,Idle,2020-01-03 14:08:55
+3492796,1597,31.12785478,75.47645098,2020-01-03 14:09:07,0.0,0.0,0.0,gps,"Malri Rd,Amardas Colony,Nakodar,Punjab 144040,India",2.755,activity,Idle,2020-01-03 14:09:18
+3492878,1597,31.131805789916932,75.47552877585638,2020-01-03 14:33:58,25.0,296.694,46.7947,gps,"6509,Guru Teg Bahadur Nagar,Nakodar,Punjab 144040,India",2.256,movement,,2020-01-03 14:34:03
+3492879,1597,31.13372217,75.47508189,2020-01-03 14:34:10,0.0,0.0,0.0,gps,"Malhi Niwas 6509,Guru Teg Bahadur Nagar,Nakodar,Punjab 144040,India",0.262,activity,Idle,2020-01-03 14:34:18
+3492881,1597,31.13373436,75.47506915,2020-01-03 14:34:25,0.0,0.0,9.648,gps,"Malhi Niwas 6509,Guru Teg Bahadur Nagar,Nakodar,Punjab 144040,India",0.263,movement,Idle,2020-01-03 14:34:27
+3493045,1597,31.13373436,75.47506915,2020-01-03 15:17:13,0.72,101.1,9.648,gps,"Malhi Niwas 6509,Guru Teg Bahadur Nagar,Nakodar,Punjab 144040,India",0.0,movement,Idle,2020-01-03 15:17:15
+3493049,1597,31.13332237,75.47574105,2020-01-03 15:17:30,0.0,0.0,0.0,gps,"Malhi Niwas 6509,Guru Teg Bahadur Nagar,Nakodar,Punjab 144040,India",0.0,activity,,2020-01-03 15:17:38
+3493470,1597,31.29947561,75.55189617,2020-01-03 17:17:14,0.22,90.2,4.288,gps,"86/A,Dayal Nagar,Model House,Jalandhar,Punjab 144003,India",21.745,movement,Idle,2020-01-03 17:17:16
+3493509,1597,31.29947561,75.55189617,2020-01-03 17:32:13,0.22,90.2,4.288,gps,"86/A,Dayal Nagar,Model House,Jalandhar,Punjab 144003,India",0.0,movement,Idle,2020-01-03 17:32:15
+3494208,1597,31.33609446,75.58667219,2020-01-03 21:32:15,0.0,0.0,9.648,gps,"Kishanpura Rd,Ajit Nagar,Qaji Mandi,Jalandhar,Punjab 144001,India",7.028,movement,Idle,2020-01-03 21:32:16
+3494368,1597,31.33609446,75.58667219,2020-01-03 23:00:26,0.0,0.0,9.648,gps,"Kishanpura Rd,Ajit Nagar,Qaji Mandi,Jalandhar,Punjab 144001,India",0.0,movement,Idle,2020-01-03 23:00:28

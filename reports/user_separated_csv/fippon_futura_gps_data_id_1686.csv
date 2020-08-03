@@ -1,0 +1,2 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491803,1686,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,,Unknown Location,0.0,punchOut,,2020-01-03 00:07:55

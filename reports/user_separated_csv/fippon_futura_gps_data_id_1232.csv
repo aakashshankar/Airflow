@@ -1,0 +1,8 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491929,1232,28.69902036,77.2568458,2020-01-03 09:57:02,0.0,0.0,15.17,gps,"near central bank,Gamri Rd,opp. SBI ATM,vill,Block B,Bhajanpura,Shahdara,Delhi,110053,India",0.0,punchIn,Idle,2020-01-03 09:57:05
+3491930,1232,28.69902036,77.2568458,2020-01-03 09:57:06,0.0,0.0,15.17,gps,"near central bank,Gamri Rd,opp. SBI ATM,vill,Block B,Bhajanpura,Shahdara,Delhi,110053,India",0.0,movement,Idle,2020-01-03 09:57:07
+3491934,1232,0.0,0.0,2020-01-03 09:58:09,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 09:58:10
+3491938,1232,0.0,0.0,2020-01-03 10:02:39,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:02:42
+3491949,1232,0.0,0.0,2020-01-03 10:05:37,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:05:40
+3493446,1232,0.0,0.0,2020-01-03 17:09:35,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:09:38
+3493447,1232,28.6897391,77.26163758,2020-01-03 17:09:47,0.48,0.0,36.408,gps,"L-37,Street Number 4,Gautam Vihar,Shahdara,Delhi,110053,India",1.82,punchOut,,2020-01-03 17:10:03

@@ -1,0 +1,69 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492029,1728,0.0,0.0,2020-01-02 22:56:20,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:29:20
+3492030,1728,0.0,0.0,2020-01-02 23:11:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:29:21
+3492031,1728,0.0,0.0,2020-01-02 23:26:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:29:21
+3492032,1728,0.0,0.0,2020-01-02 23:41:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:29:21
+3492033,1728,0.0,0.0,2020-01-02 23:56:22,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:29:22
+3492034,1728,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,,Unknown Location,0.0,punchOut,,2020-01-03 10:29:23
+3492035,1728,15.14571853,76.92880629999998,2020-01-03 10:29:26,0.0,0.0,5.36,gps,"opp Old Bus Stand Kolachalam Compound,Satya Narayana Pet,Ballari,Karnataka 583101,India",0.0,punchIn,Idle,2020-01-03 10:29:29
+3492036,1728,15.14571853,76.92880629999998,2020-01-03 10:29:29,0.0,0.0,5.36,gps,"opp Old Bus Stand Kolachalam Compound,Satya Narayana Pet,Ballari,Karnataka 583101,India",0.0,movement,Idle,2020-01-03 10:29:30
+3492042,1728,15.14571853,76.92880629999998,2020-01-03 10:30:22,0.0,0.0,5.36,gps,"opp Old Bus Stand Kolachalam Compound,Satya Narayana Pet,Ballari,Karnataka 583101,India",0.0,movement,Idle,2020-01-03 10:30:24
+3492081,1728,15.14578837,76.92894709999999,2020-01-03 10:45:31,1.69,155.6,18.224,gps,"139/2 ,Kolachalam Compound,Satya Narayana Pet,Ballari,Karnataka 583101,India",0.0,movement,Idle,2020-01-03 10:45:33
+3492147,1728,15.14567815,76.92887068,2020-01-03 11:00:23,1.0,207.7,3.216,gps,"Unnamed Road,Satya Narayana Pet,Ballari,Karnataka 583101,India",0.0,movement,Idle,2020-01-03 11:00:25
+3492284,1728,0.0,0.0,2020-01-03 11:15:23,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:45:28
+3492285,1728,0.0,0.0,2020-01-03 11:30:23,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:45:28
+3492286,1728,15.14582085,76.92907311,2020-01-03 11:45:26,0.0,0.0,24.656,gps,"N.M.G Complex Kolachalam Compund,Opp. Old K.S.R.T.C,Satya Narayana Pet,Ballari,Karnataka 583101,India",0.0,movement,Idle,2020-01-03 11:45:29
+3492332,1728,15.14582085,76.92907311,2020-01-03 12:00:26,0.0,0.0,24.656,gps,"N.M.G Complex Kolachalam Compund,Opp. Old K.S.R.T.C,Satya Narayana Pet,Ballari,Karnataka 583101,India",0.0,movement,Idle,2020-01-03 12:00:28
+3492455,1728,0.0,0.0,2020-01-03 12:15:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:30:27
+3492456,1728,0.0,0.0,2020-01-03 12:30:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:30:28
+3492518,1728,0.0,0.0,2020-01-03 12:45:27,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:45:29
+3492556,1728,0.0,0.0,2020-01-03 13:00:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:00:31
+3492604,1728,0.0,0.0,2020-01-03 13:15:30,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:15:32
+3492670,1728,0.0,0.0,2020-01-03 13:30:31,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:30:33
+3492718,1728,0.0,0.0,2020-01-03 13:45:33,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:45:36
+3492770,1728,15.63351114,76.89373191,2020-01-03 14:00:57,1.94,140.0,48.24,gps,"Unnamed Road,Sadashiv Nagar,Siruguppa,Karnataka 583121,India",56.831,movement,Idle,2020-01-03 14:01:00
+3493076,1728,0.0,0.0,2020-01-03 14:15:35,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:26:05
+3493077,1728,0.0,0.0,2020-01-03 14:30:35,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:26:05
+3493078,1728,0.0,0.0,2020-01-03 14:45:35,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:26:05
+3493079,1728,0.0,0.0,2020-01-03 15:00:35,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:26:06
+3493081,1728,15.63351114,76.89373191,2020-01-03 15:26:03,0.0,0.0,48.24,gps,"Unnamed Road,Sadashiv Nagar,Siruguppa,Karnataka 583121,India",0.0,movement,Idle,2020-01-03 15:26:07
+3493083,1728,15.63331679,76.89474807,2020-01-03 15:26:18,0.0,0.0,0.0,gps,"Unnamed Road,Sadashiv Nagar,Siruguppa,Karnataka 583121,India",0.110972,activity,Idle,2020-01-03 15:26:24
+3493090,1728,15.63329487,76.89456024,2020-01-03 15:26:54,0.0,0.0,0.0,gps,"Unnamed Road,Sadashiv Nagar,Siruguppa,Karnataka 583121,India",0.0,activity,Idle,2020-01-03 15:27:00
+3493091,1728,15.63332568,76.89432994,2020-01-03 15:27:13,0.0,0.0,0.0,gps,"Unnamed Road,Sadashiv Nagar,Siruguppa,Karnataka 583121,India",0.0,activity,,2020-01-03 15:27:20
+3493136,1728,15.63351114,76.89373191,2020-01-03 15:41:04,0.3,87.4,48.24,gps,"Unnamed Road,Sadashiv Nagar,Siruguppa,Karnataka 583121,India",0.0,movement,Idle,2020-01-03 15:41:06
+3493185,1728,15.63351114,76.89373191,2020-01-03 15:53:55,0.0,0.0,48.24,gps,"Unnamed Road,Sadashiv Nagar,Siruguppa,Karnataka 583121,India",0.0,movement,Idle,2020-01-03 15:53:58
+3493187,1728,15.6334631,76.89328481,2020-01-03 15:54:26,0.0,0.0,0.0,gps,"SH 19,Siruguppa,Karnataka 583121,India",0.0,activity,,2020-01-03 15:54:33
+3493193,1728,15.63353983,76.89329473,2020-01-03 15:55:59,0.0,0.0,3.216,gps,"SH 19,Siruguppa,Karnataka 583121,India",0.0,movement,,2020-01-03 15:56:01
+3493305,1728,0.0,0.0,2020-01-03 16:10:58,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:26:02
+3493306,1728,0.0,0.0,2020-01-03 16:25:59,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:26:03
+3493451,1728,0.0,0.0,2020-01-03 16:41:00,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:11:04
+3493452,1728,0.0,0.0,2020-01-03 16:56:00,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:11:04
+3493453,1728,15.28817451,76.91208286,2020-01-03 17:11:02,19.11,182.6,9.648,gps,"SH 19,Kollur,Karnataka 583116,India",39.231,movement,,2020-01-03 17:11:05
+3493745,1728,0.0,0.0,2020-01-03 17:26:01,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:56:12
+3493746,1728,0.0,0.0,2020-01-03 17:41:01,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:56:12
+3493747,1728,0.0,0.0,2020-01-03 17:56:01,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:56:13
+3494286,1728,0.0,0.0,2020-01-03 18:11:02,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:10
+3494287,1728,0.0,0.0,2020-01-03 18:26:02,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:11
+3494288,1728,0.0,0.0,2020-01-03 18:41:02,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:11
+3494290,1728,15.13983054,76.9364556,2020-01-03 18:56:07,0.0,0.0,19.296,gps,"Unnamed Road,Sri Rampura Colony,Bandimot,Ballari,Karnataka 583101,India",18.752,movement,,2020-01-03 22:26:13
+3494292,1728,0.0,0.0,2020-01-03 19:11:03,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:13
+3494293,1728,0.0,0.0,2020-01-03 19:26:03,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:13
+3494294,1728,0.0,0.0,2020-01-03 19:41:03,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:14
+3494295,1728,0.0,0.0,2020-01-03 19:56:03,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:14
+3494296,1728,0.0,0.0,2020-01-03 20:11:04,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:15
+3494297,1728,0.0,0.0,2020-01-03 20:26:04,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:15
+3494298,1728,0.0,0.0,2020-01-03 20:41:05,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:15
+3494299,1728,0.0,0.0,2020-01-03 20:56:05,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:15
+3494300,1728,0.0,0.0,2020-01-03 21:11:06,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:16
+3494301,1728,0.0,0.0,2020-01-03 21:26:06,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:16
+3494302,1728,0.0,0.0,2020-01-03 21:41:07,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:16
+3494303,1728,0.0,0.0,2020-01-03 21:56:07,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:17
+3494304,1728,0.0,0.0,2020-01-03 22:11:08,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:17
+3494305,1728,0.0,0.0,2020-01-03 22:26:08,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:26:18
+3494359,1728,0.0,0.0,2020-01-03 22:41:09,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:56:16
+3494360,1728,0.0,0.0,2020-01-03 22:56:15,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:56:16
+3494384,1728,0.0,0.0,2020-01-03 23:11:15,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:11:16
+3494399,1728,0.0,0.0,2020-01-03 23:26:16,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:26:17
+3494408,1728,0.0,0.0,2020-01-03 23:41:17,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:41:18
+3494418,1728,0.0,0.0,2020-01-03 23:56:17,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:56:18
+3494421,1728,0.0,0.0,2020-01-03 23:59:00,0.0,0.0,0.0,,Unknown Location,0.0,punchOut,,2020-01-03 23:59:14

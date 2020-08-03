@@ -1,0 +1,21 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492393,1738,8.490699399734991,76.93303602132609,2020-01-03 12:12:56,0.0,0.0,166.28099999999995,fused,"525,Kavaradi Rd,Kavarad Junction,Kavaradi,Thiruvananthapuram,Kerala 695024,India",0.0,punchIn,Idle,2020-01-03 12:12:58
+3492394,1738,8.490699399734991,76.93303602132609,2020-01-03 12:12:59,0.0,0.0,166.28099999999995,fused,"525,Kavaradi Rd,Kavarad Junction,Kavaradi,Thiruvananthapuram,Kerala 695024,India",0.0,movement,Idle,2020-01-03 12:13:00
+3492446,1738,8.490699399734991,76.93303602132609,2020-01-03 12:28:13,0.0,0.0,166.28099999999995,fused,"525,Kavaradi Rd,Kavarad Junction,Kavaradi,Thiruvananthapuram,Kerala 695024,India",0.0,movement,Idle,2020-01-03 12:28:13
+3492504,1738,8.490699399734991,76.93303602132609,2020-01-03 12:43:13,0.0,0.0,166.28099999999995,network,"525,Kavaradi Rd,Kavarad Junction,Kavaradi,Thiruvananthapuram,Kerala 695024,India",0.0,movement,Idle,2020-01-03 12:43:14
+3492549,1738,8.4892076253891,76.93801760673524,2020-01-03 12:58:14,6.73,154.336,23.0,gps,"SNSM Building,Kaithamukku Petta Rd,Near Passport Office,Pazhavangadi,Thiruvananthapuram,Kerala 695024,India",0.8079999999999999,movement,,2020-01-03 12:58:16
+3492655,1738,8.49039293,76.93297088,2020-01-03 13:13:18,0.0,0.0,53.0,gps,"Bhageerathi Nilayam,Palkulangara,Thiruvananthapuram,Kerala 695024,India",0.752,movement,,2020-01-03 13:28:17
+3492656,1738,8.49670932,76.93310103,2020-01-03 13:28:16,7.660789999999999,255.4,13.0,gps,"TC 13/96-4,Palayam - Airport Rd,Nallumuku,Pettah,Thiruvananthapuram,Kerala 695024,India",2.44,movement,,2020-01-03 13:28:19
+3492703,1738,0.0,0.0,2020-01-03 13:43:16,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:43:17
+3492759,1738,0.0,0.0,2020-01-03 13:58:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:58:23
+3494212,1738,8.4791995,76.9119118,2020-01-03 21:33:41,0.0,0.0,16.0,fused,"Palayam Airport Rd,Vallakkadavu,Thiruvananthapuram,Kerala 695008,India",6.329,movement,Idle,2020-01-03 21:33:43
+3494214,1738,8.47861567,76.912203,2020-01-03 21:37:03,0.0,0.0,0.0,gps,"695007,Palayam Airport Rd,Near Kerala Women Development Corporation,Vallakkadavu,Thiruvananthapuram,Kerala 695008,India",0.0,activity,Idle,2020-01-03 21:37:10
+3494229,1738,8.47861582,76.912203,2020-01-03 21:48:40,0.0,0.0,3.0,gps,"695007,Palayam Airport Rd,Near Kerala Women Development Corporation,Vallakkadavu,Thiruvananthapuram,Kerala 695008,India",0.0,movement,Idle,2020-01-03 21:48:42
+3494249,1738,8.476997604407874,76.91361831660798,2020-01-03 22:03:44,31.0,2.46404,30.5925,gps,"Palayam Airport Rd,Valiathope,Thiruvananthapuram,Kerala 695008,India",1.692,movement,Idle,2020-01-03 22:03:46
+3494274,1738,8.476997604407874,76.91361831660798,2020-01-03 22:18:47,31.0,2.46404,30.5925,gps,"Palayam Airport Rd,Valiathope,Thiruvananthapuram,Kerala 695008,India",0.0,movement,Idle,2020-01-03 22:18:48
+3494319,1738,8.476997604407874,76.91361831660798,2020-01-03 22:33:47,31.0,2.46404,30.5925,gps,"Palayam Airport Rd,Valiathope,Thiruvananthapuram,Kerala 695008,India",0.0,movement,Idle,2020-01-03 22:33:49
+3494355,1738,8.49056028,76.93283249,2020-01-03 22:49:25,0.0,0.0,68.0,gps,"Bhageerathi Nilayam,Palkulangara,Thiruvananthapuram,Kerala 695024,India",6.3870000000000005,movement,,2020-01-03 22:49:27
+3494377,1738,8.48950759,76.94033744,2020-01-03 23:03:53,0.0,0.0,3.0,gps,"Kaithamukku Petta Rd,Pazhavangadi,Thiruvananthapuram,Kerala 695024,India",1.046,movement,,2020-01-03 23:03:55
+3494396,1738,8.49063737,76.93283593,2020-01-03 23:18:54,0.0,0.0,28.0,gps,"525,Kavaradi Rd,Kavarad Junction,Kavaradi,Thiruvananthapuram,Kerala 695024,India",1.019,movement,Idle,2020-01-03 23:18:55
+3494397,1738,8.49063733,76.93284504,2020-01-03 23:26:00,0.0,0.0,0.0,gps,"Bhageerathi Nilayam,Palkulangara,Thiruvananthapuram,Kerala 695024,India",0.0,activity,Idle,2020-01-03 23:26:04
+3494398,1738,8.49063747,76.93284536,2020-01-03 23:26:09,0.0,0.0,12.0,gps,"Bhageerathi Nilayam,Palkulangara,Thiruvananthapuram,Kerala 695024,India",0.0,punchOut,Idle,2020-01-03 23:26:12

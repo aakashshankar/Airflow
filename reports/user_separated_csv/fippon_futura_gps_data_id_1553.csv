@@ -1,0 +1,17 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492289,1553,22.47330333333333,88.36363333333333,2020-01-02 22:07:34,0.0,165.87,1.9,gps,"235/3/1,Netaji Subhash Chandra Bose Rd,Hati Bagan,Bansdroni,South Kolkata,West Bengal 700047,India",0.838,punchOut,Idle,2020-01-03 11:48:12
+3492290,1553,22.47330333333333,88.36363333333333,2020-01-02 22:07:36,0.0,165.87,1.9,gps,"235/3/1,Netaji Subhash Chandra Bose Rd,Hati Bagan,Bansdroni,South Kolkata,West Bengal 700047,India",0.838,movement,Idle,2020-01-03 11:48:14
+3492291,1553,22.50981833333333,88.38321333333332,2020-01-03 11:48:18,0.0,0.0,10.2,gps,"3,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,punchIn,Idle,2020-01-03 11:48:20
+3492292,1553,22.50981833333333,88.38321333333332,2020-01-03 11:48:22,0.0,0.0,10.2,gps,"3,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,movement,Idle,2020-01-03 11:48:24
+3492463,1553,22.50981833333333,88.38321333333332,2020-01-03 11:50:31,0.0,0.0,10.2,gps,"3,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,movement,Idle,2020-01-03 12:32:22
+3492464,1553,22.50981833333333,88.38321333333332,2020-01-03 12:32:19,0.0,0.0,10.2,gps,"3,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,movement,Idle,2020-01-03 12:32:26
+3492471,1553,22.5096,88.38307333333331,2020-01-03 12:34:30,0.0,0.0,8.4,gps,"2/2,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,movement,Idle,2020-01-03 12:34:32
+3493005,1553,22.5096,88.38307333333331,2020-01-03 15:09:46,0.0,0.0,8.4,gps,"2/2,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,movement,Idle,2020-01-03 15:09:49
+3493006,1553,22.5096,88.38307333333331,2020-01-03 15:09:47,0.0,0.0,0.0,gps,"2/2,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,activity,Idle,2020-01-03 15:10:07
+3493203,1553,22.5096,88.38307333333331,2020-01-03 15:57:49,0.0,0.0,8.4,gps,"2/2,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,movement,Idle,2020-01-03 15:57:51
+3493204,1553,22.5096,88.38307333333331,2020-01-03 15:58:05,0.0,0.0,0.0,gps,"2/2,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,activity,Idle,2020-01-03 15:58:14
+3493273,1553,22.53337,88.37154833333334,2020-01-03 16:17:12,0.0,0.0,5.7,gps,"42/1A,Broad St,Ballygunge Park,Ballygunge,Kolkata,West Bengal 700019,India",3.918,movement,Idle,2020-01-03 16:17:14
+3493275,1553,22.53337,88.37154833333334,2020-01-03 16:17:19,0.0,0.0,0.0,gps,"42/1A,Broad St,Ballygunge Park,Ballygunge,Kolkata,West Bengal 700019,India",0.0,activity,Idle,2020-01-03 16:17:28
+3494262,1553,22.50962,88.38317333333335,2020-01-03 22:15:17,0.0,0.0,7.8,gps,"20/21,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",3.919,movement,,2020-01-03 22:15:20
+3494265,1553,22.50971333333333,88.38230999999998,2020-01-03 22:15:35,0.0,0.0,0.0,gps,"1/6,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,activity,Idle,2020-01-03 22:15:40
+3494267,1553,22.509665,88.38229166666666,2020-01-03 22:15:50,0.473544,245.68,2.3,gps,"1/8,Sucheta Nagar,Haltu,Kolkata,West Bengal 700078,India",0.0,punchOut,Idle,2020-01-03 22:15:54

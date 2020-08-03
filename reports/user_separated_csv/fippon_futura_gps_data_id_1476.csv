@@ -1,0 +1,9 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492512,1476,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 12:44:43
+3492514,1476,10.773612,76.01250970000002,2020-01-03 12:44:45,0.0,0.0,22.655,network,"Naduvattom Bus Stop,Thrissur - Kunnamkulam Rd,Naduvattom,Kerala 679576,India",0.0,punchIn,,2020-01-03 12:44:47
+3492515,1476,0.0,0.0,2020-01-03 12:44:48,45.0,340.532,78.4979,gps,Unknown Location,0.0,movement,,2020-01-03 12:44:49
+3493327,1476,10.768602663741543,76.00001641352141,2020-01-03 16:31:37,0.0,8.891960000000003,3.90603,gps,"Pookkarathara - Kololamba - Ollambakadavu Rd,Pookkarathara,Kerala 679576,India",1.953,movement,,2020-01-03 16:31:39
+3493378,1476,10.77366302,76.01251649,2020-01-03 16:47:01,0.0,0.0,5.36,gps,"Naduvattom Bus Stop,Thrissur - Kunnamkulam Rd,Naduvattom,Kerala 679576,India",1.964,movement,,2020-01-03 16:47:04
+3494166,1476,10.718848128330626,76.07286091123072,2020-01-03 21:22:35,55.0,86.3355,40.2515,gps,"Thrissur Kuttipuram Road,Opp Sree Murukan Temple,Kadavallur,Kerala 680543,India",11.088,movement,Idle,2020-01-03 21:22:37
+3494169,1476,10.718848128330626,76.07286091123072,2020-01-03 21:23:19,0.0,0.0,0.0,gps,"Thrissur Kuttipuram Road,Opp Sree Murukan Temple,Kadavallur,Kerala 680543,India",0.0,activity,Idle,2020-01-03 21:23:23
+3494171,1476,10.718848128330626,76.07286091123072,2020-01-03 21:23:41,0.0,0.0,0.0,gps,"Thrissur Kuttipuram Road,Opp Sree Murukan Temple,Kadavallur,Kerala 680543,India",0.0,activity,Idle,2020-01-03 21:23:43

@@ -1,0 +1,10 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492109,1730,14.4683386,75.9188653,2020-01-03 10:47:14,0.0,0.0,23.315,network,"Davangere,Davangere-Harihar Rd,M B Kere,Jalinagar,Davanagere,Karnataka 577001,India",0.0,punchIn,,2020-01-03 10:47:18
+3492110,1730,0.0,0.0,2020-01-03 10:47:16,0.0,0.0,99.696,gps,Unknown Location,0.0,movement,,2020-01-03 10:47:19
+3492890,1730,14.438363313674927,75.91808080673219,2020-01-03 14:37:07,0.0,0.0,99.696,gps,"Vidyanagar Bus Stop,Vidyanagara Main Rd,Teachers Colony,Vidyanagar,Davanagere,Karnataka 577005,India",4.325,movement,Idle,2020-01-03 14:37:13
+3492892,1730,14.438363313674927,75.91808080673219,2020-01-03 14:37:21,0.0,0.0,0.0,network,"Vidyanagar Bus Stop,Vidyanagara Main Rd,Teachers Colony,Vidyanagar,Davanagere,Karnataka 577005,India",0.0,activity,Idle,2020-01-03 14:37:27
+3492893,1730,14.438363313674927,75.91808080673219,2020-01-03 14:37:33,0.0,0.0,0.0,network,"Vidyanagar Bus Stop,Vidyanagara Main Rd,Teachers Colony,Vidyanagar,Davanagere,Karnataka 577005,India",0.0,activity,Idle,2020-01-03 14:37:38
+3493560,1730,14.438363313674927,75.91808080673219,2020-01-03 17:49:29,0.0,0.0,99.696,gps,"Vidyanagar Bus Stop,Vidyanagara Main Rd,Teachers Colony,Vidyanagar,Davanagere,Karnataka 577005,India",0.0,movement,Idle,2020-01-03 17:49:32
+3493561,1730,14.438363313674927,75.91808080673219,2020-01-03 17:49:39,0.0,0.0,0.0,gps,"Vidyanagar Bus Stop,Vidyanagara Main Rd,Teachers Colony,Vidyanagar,Davanagere,Karnataka 577005,India",0.0,activity,Idle,2020-01-03 17:49:44
+3493562,1730,14.438363313674927,75.91808080673219,2020-01-03 17:49:57,0.0,0.0,0.0,gps,"Vidyanagar Bus Stop,Vidyanagara Main Rd,Teachers Colony,Vidyanagar,Davanagere,Karnataka 577005,India",0.0,activity,Idle,2020-01-03 17:50:03
+3493565,1730,14.438363313674927,75.91808080673219,2020-01-03 17:50:17,0.0,0.0,0.0,gps,"Vidyanagar Bus Stop,Vidyanagara Main Rd,Teachers Colony,Vidyanagar,Davanagere,Karnataka 577005,India",0.0,activity,Idle,2020-01-03 17:50:22

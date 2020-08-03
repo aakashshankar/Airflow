@@ -1,0 +1,23 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491808,1495,23.02486946,72.54729662,2020-01-02 23:59:00,0.0,0.0,12.864,gps,"6/A,Dr Vikram Sarabhai Marg,Panchavati Society,Gulbai Tekra,Ahmedabad,Gujarat 380015,India",0.0,punchOut,Idle,2020-01-03 01:22:38
+3492224,1495,23.06565985,72.54050025,2020-01-03 11:26:41,0.0,0.0,3.216,gps,"334,Shastri Nagar Society,Karmachari Nagar Part-1,Ghatlodiya,Ahmedabad,Gujarat 380061,India",0.0,punchIn,Idle,2020-01-03 11:26:44
+3492225,1495,23.06565985,72.54050025,2020-01-03 11:26:45,0.0,0.0,3.216,gps,"334,Shastri Nagar Society,Karmachari Nagar Part-1,Ghatlodiya,Ahmedabad,Gujarat 380061,India",0.0,movement,Idle,2020-01-03 11:26:47
+3492267,1495,23.06624815,72.54692056,2020-01-03 11:41:44,10.05,125.2,8.576,gps,"3,Rana Pratap Marg,Karmchari Nagar,Ahmedabad,Gujarat 380061,India",1.364,movement,,2020-01-03 11:41:47
+3492702,1495,23.22420679,72.72933232,2020-01-03 13:41:47,9.69,29.4,10.72,gps,"NH 48,Chiloda,Gujarat 382355,India",35.128,movement,,2020-01-03 13:41:49
+3492968,1495,23.59123376,72.95771588,2020-01-03 14:54:34,1.52,185.9,3.216,gps,"Opposite Bus Stand,Vidhya Nagari,Himatnagar,Gujarat 383001,India",49.629,movement,,2020-01-03 14:54:36
+3492970,1495,23.59012295,72.95639603,2020-01-03 14:55:10,0.0,0.0,0.0,gps,"Unnamed Road,Vidhya Nagari,Himatnagar,Gujarat 383001,India",0.241,activity,Idle,2020-01-03 14:55:20
+3493033,1495,23.59012372,72.95639172,2020-01-03 15:15:29,0.0,0.0,9.648,gps,"Unnamed Road,Vidhya Nagari,Himatnagar,Gujarat 383001,India",0.241,movement,Idle,2020-01-03 15:15:30
+3493034,1495,23.59012372,72.95639172,2020-01-03 15:15:35,0.0,0.0,9.648,gps,"Unnamed Road,Vidhya Nagari,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 15:15:37
+3493115,1495,23.59012372,72.95639172,2020-01-03 15:31:16,0.0,0.0,9.648,gps,"Unnamed Road,Vidhya Nagari,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 15:31:18
+3493116,1495,23.59012372,72.95639172,2020-01-03 15:31:17,0.0,0.0,9.648,gps,"Unnamed Road,Vidhya Nagari,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 15:31:20
+3493121,1495,23.59012372,72.95639172,2020-01-03 15:31:40,0.0,0.0,0.0,gps,"Unnamed Road,Vidhya Nagari,Himatnagar,Gujarat 383001,India",0.0,activity,Idle,2020-01-03 15:31:55
+3493218,1495,23.59012372,72.95639172,2020-01-03 15:59:59,0.0,0.0,9.648,gps,"Unnamed Road,Vidhya Nagari,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 16:00:03
+3493224,1495,23.59003044,72.95735961,2020-01-03 16:00:48,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.461,activity,Idle,2020-01-03 16:01:06
+3493234,1495,23.58980131,72.95719756,2020-01-03 16:05:54,0.29,302.8,3.216,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 16:05:56
+3493242,1495,23.58994724,72.95720022,2020-01-03 16:08:47,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,Idle,2020-01-03 16:09:03
+3493361,1495,23.58980131,72.95719756,2020-01-03 16:43:28,0.0,0.0,3.216,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 16:43:33
+3493362,1495,23.58980131,72.95719756,2020-01-03 16:43:29,0.0,0.0,3.216,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 16:43:36
+3493371,1495,23.58936165,72.95720833,2020-01-03 16:44:37,0.0,0.0,0.0,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,activity,,2020-01-03 16:45:07
+3493720,1495,23.58980131,72.95719756,2020-01-03 18:43:29,0.0,0.0,3.216,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 18:43:31
+3494104,1495,23.58980131,72.95719756,2020-01-03 20:43:29,0.0,0.0,3.216,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 20:43:30
+3494343,1495,23.58980131,72.95719756,2020-01-03 22:43:31,0.0,0.0,3.216,gps,"Kavi Shree Umashankar Joshi Bridge,GIDC,Ganotri Society,Himatnagar,Gujarat 383001,India",0.0,movement,Idle,2020-01-03 22:43:33

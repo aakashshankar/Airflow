@@ -1,0 +1,10 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492000,1655,17.67418354,75.91572711,2020-01-03 10:21:59,0.0,0.0,15.17,gps,"324,Budhavar Peth,Solapur,Maharashtra 413002,India",0.0,punchIn,Idle,2020-01-03 10:22:03
+3492001,1655,17.67418354,75.91572711,2020-01-03 10:22:02,0.0,0.0,15.17,gps,"324,Budhavar Peth,Solapur,Maharashtra 413002,India",0.0,movement,Idle,2020-01-03 10:22:05
+3492055,1655,17.67380315,75.91978318,2020-01-03 10:37:01,6.54,98.2,18.204,gps,"Shantinaath Tradors,Jodabasavanna Chowk Rd,Bhadravathi Peth,Solapur,Maharashtra 413005,India",0.438,movement,Idle,2020-01-03 10:37:05
+3492126,1655,17.67380315,75.91978318,2020-01-03 10:52:02,6.54,98.2,18.204,gps,"Shantinaath Tradors,Jodabasavanna Chowk Rd,Bhadravathi Peth,Solapur,Maharashtra 413005,India",0.0,movement,Idle,2020-01-03 10:52:06
+3492170,1655,17.67380315,75.91978318,2020-01-03 11:07:02,6.54,98.2,18.204,gps,"Shantinaath Tradors,Jodabasavanna Chowk Rd,Bhadravathi Peth,Solapur,Maharashtra 413005,India",0.0,movement,Idle,2020-01-03 11:07:06
+3492211,1655,17.67380315,75.91978318,2020-01-03 11:22:08,6.54,98.2,18.204,gps,"Shantinaath Tradors,Jodabasavanna Chowk Rd,Bhadravathi Peth,Solapur,Maharashtra 413005,India",0.0,movement,Idle,2020-01-03 11:22:12
+3492252,1655,17.67380315,75.91978318,2020-01-03 11:37:07,6.54,98.2,18.204,gps,"Shantinaath Tradors,Jodabasavanna Chowk Rd,Bhadravathi Peth,Solapur,Maharashtra 413005,India",0.0,movement,Idle,2020-01-03 11:37:09
+3492305,1655,17.67380315,75.91978318,2020-01-03 11:52:08,6.54,98.2,18.204,gps,"Shantinaath Tradors,Jodabasavanna Chowk Rd,Bhadravathi Peth,Solapur,Maharashtra 413005,India",0.0,movement,Idle,2020-01-03 11:52:10
+3494146,1655,17.6727859,75.91601999999997,2020-01-03 21:06:43,0.0,0.0,1700.0,network,"123,Telangi Pacha Peth,Bhadravathi Peth,Solapur,Maharashtra 413004,India",1.044,punchOut,,2020-01-03 21:06:51

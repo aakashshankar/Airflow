@@ -1,0 +1,5 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491904,1276,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 09:35:31
+3491905,1276,18.443623333333328,73.85558166666667,2020-01-03 09:35:32,0.0,0.0,0.0,0.0,"65/3/16/9,Santosh Nagar,Ambegaon BK,Pune,Maharashtra 411046,India",0.0,punchIn,,2020-01-03 09:35:35
+3491906,1276,18.443623333333328,73.85558166666667,2020-01-03 09:36:05,0.0,0.0,13.4,gps,"65/3/16/9,Santosh Nagar,Ambegaon BK,Pune,Maharashtra 411046,India",0.0,movement,Idle,2020-01-03 09:36:08
+3492068,1276,18.443623333333328,73.85558166666667,2020-01-03 10:44:02,0.0,0.0,13.4,gps,"65/3/16/9,Santosh Nagar,Ambegaon BK,Pune,Maharashtra 411046,India",0.0,movement,Idle,2020-01-03 10:44:06

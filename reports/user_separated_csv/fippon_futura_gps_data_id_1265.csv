@@ -1,0 +1,57 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491806,1265,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,,Unknown Location,0.0,punchOut,,2020-01-03 01:00:03
+3491941,1265,19.84812576323748,75.34974569454789,2020-01-03 10:04:36,13.25,274.1,44.0,gps,"20/21,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,punchIn,Idle,2020-01-03 10:04:44
+3491942,1265,19.84812576323748,75.34974569454789,2020-01-03 10:04:40,13.25,274.1,44.0,gps,"20/21,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,movement,Idle,2020-01-03 10:04:46
+3491989,1265,19.84858957584948,75.35062319599092,2020-01-03 10:19:42,1.89,103.0,44.0,gps,"Unnamed Road,Said Nagar,Deolai,Aurangabad,Maharashtra 431005,India",0.0,movement,,2020-01-03 10:19:48
+3492048,1265,19.848632952198386,75.35029680468142,2020-01-03 10:34:41,4.14,60.3,17.0,gps,"Ayyapa Mandir,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,movement,Idle,2020-01-03 10:34:47
+3492118,1265,19.848632952198386,75.35029680468142,2020-01-03 10:49:42,4.53,135.3,17.0,gps,"Ayyapa Mandir,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,movement,Idle,2020-01-03 10:49:51
+3492168,1265,19.849855243228376,75.34893533214927,2020-01-03 11:06:37,0.66,0.0,18.5,gps,"140/P,Beed Bypass Rd,Darshan Vihar Colony,Mirajgave Nagari,Aurangabad,Maharashtra 431005,India",0.298,movement,,2020-01-03 11:06:40
+3492216,1265,19.858625186607238,75.34938527271152,2020-01-03 11:25:53,7.8,346.9,24.5,gps,"Sut Girni Rd,Laxmi Nagar,Garkheda,Aurangabad,Maharashtra 431009,India",1.696,movement,,2020-01-03 11:25:55
+3492259,1265,19.84957750886679,75.34623837098479,2020-01-03 11:40:53,9.75,269.5,15.0,gps,"NH52,opp Bank of Maharashtra,Beed Bypass Rd,Mirajgave Nagari,Aurangabad,Maharashtra 431005,India",1.957,movement,,2020-01-03 11:40:55
+3492310,1265,19.84886626247317,75.28486096300185,2020-01-03 11:55:52,8.54,191.3,14.0,gps,"Unnamed Road,Kanchanwadi,Aurangabad,Maharashtra 431136,India",8.312000000000001,movement,,2020-01-03 11:55:56
+3492373,1265,0.0,0.0,2020-01-03 12:10:50,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:10:53
+3492490,1265,0.0,0.0,2020-01-03 12:26:00,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:41:02
+3492491,1265,0.0,0.0,2020-01-03 12:41:01,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:41:03
+3492540,1265,0.0,0.0,2020-01-03 12:56:01,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:56:04
+3492584,1265,0.0,0.0,2020-01-03 13:11:02,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:11:04
+3492622,1265,19.70323652029037,75.00980210490525,2020-01-03 13:21:07,0.42,0.0,11.0,gps,"Lasur Rd,Gangapur,Maharashtra 431109,India",37.81800000000001,movement,Idle,2020-01-03 13:21:10
+3492626,1265,19.703249176964164,75.00977855175735,2020-01-03 13:21:30,0.0,0.0,0.0,gps,"Lasur Rd,Gangapur,Maharashtra 431109,India",0.0,activity,Idle,2020-01-03 13:21:41
+3492629,1265,19.703264432027925,75.00981492921709,2020-01-03 13:22:13,0.0,0.0,0.0,gps,"Lasur Rd,Gangapur,Maharashtra 431109,India",0.0,activity,Idle,2020-01-03 13:22:23
+3492690,1265,19.702181364409626,75.00969397835433,2020-01-03 13:36:01,0.65,0.0,12.0,gps,"???,???????,?????????? 431109,India",0.375,movement,Idle,2020-01-03 13:36:03
+3492781,1265,19.702181364409626,75.00969397835433,2020-01-03 13:51:04,0.36,0.0,12.0,gps,"???,???????,?????????? 431109,India",0.0,movement,Idle,2020-01-03 14:05:58
+3492782,1265,19.702181364409626,75.00969397835433,2020-01-03 14:05:54,0.36,0.0,12.0,gps,"???,???????,?????????? 431109,India",0.0,movement,Idle,2020-01-03 14:05:58
+3492833,1265,19.700551461428407,75.01026621088386,2020-01-03 14:20:54,0.0,0.0,60.5,gps,"Maharana Krushi Seva Kendra,Raghunath Patil Colony,Gangapur,Maharashtra 431110,India",0.228,movement,Idle,2020-01-03 14:20:59
+3492884,1265,19.700551461428407,75.01026621088386,2020-01-03 14:35:19,0.0,0.0,0.0,gps,"Maharana Krushi Seva Kendra,Raghunath Patil Colony,Gangapur,Maharashtra 431110,India",0.0,activity,Idle,2020-01-03 14:35:35
+3492887,1265,19.700551461428407,75.01026621088386,2020-01-03 14:35:54,0.0,0.0,60.5,gps,"Maharana Krushi Seva Kendra,Raghunath Patil Colony,Gangapur,Maharashtra 431110,India",0.0,movement,Idle,2020-01-03 14:35:56
+3492894,1265,19.700551461428407,75.01026621088386,2020-01-03 14:37:33,0.0,0.0,0.0,gps,"Maharana Krushi Seva Kendra,Raghunath Patil Colony,Gangapur,Maharashtra 431110,India",0.0,activity,Idle,2020-01-03 14:37:48
+3492941,1265,19.697417174465954,75.0105947814882,2020-01-03 14:46:02,0.0,0.0,0.0,gps,"At Post Agarwadgaon TQ.Gangapur Dust,Gangapur,Maharashtra 431110,India",0.384,activity,Idle,2020-01-03 14:46:14
+3492942,1265,19.697387125343088,75.0105818733573,2020-01-03 14:46:40,0.0,0.0,0.0,gps,"At Post Agarwadgaon TQ.Gangapur Dust,Gangapur,Maharashtra 431110,India",0.384,activity,Idle,2020-01-03 14:46:49
+3492962,1265,0.0,0.0,2020-01-03 14:50:54,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:50:56
+3492997,1265,0.0,0.0,2020-01-03 15:05:53,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:05:55
+3493059,1265,0.0,0.0,2020-01-03 15:20:53,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:20:54
+3493191,1265,0.0,0.0,2020-01-03 15:36:06,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:55:58
+3493192,1265,0.0,0.0,2020-01-03 15:55:53,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:55:59
+3493246,1265,0.0,0.0,2020-01-03 16:10:52,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:11:01
+3493304,1265,0.0,0.0,2020-01-03 16:25:51,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:25:55
+3493349,1265,0.0,0.0,2020-01-03 16:40:51,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:40:55
+3493396,1265,0.0,0.0,2020-01-03 16:55:52,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:55:57
+3493450,1265,0.0,0.0,2020-01-03 17:10:53,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:10:56
+3493486,1265,0.0,0.0,2020-01-03 17:25:54,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:25:58
+3493537,1265,0.0,0.0,2020-01-03 17:40:55,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:40:58
+3493577,1265,0.0,0.0,2020-01-03 17:55:53,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:55:57
+3493613,1265,0.0,0.0,2020-01-03 18:11:03,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:11:22
+3493672,1265,0.0,0.0,2020-01-03 18:26:03,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:26:05
+3493713,1265,0.0,0.0,2020-01-03 18:41:04,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:41:06
+3493743,1265,0.0,0.0,2020-01-03 18:55:56,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:55:58
+3493802,1265,0.0,0.0,2020-01-03 19:10:56,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:10:59
+3493847,1265,0.0,0.0,2020-01-03 19:25:56,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:26:03
+3493922,1265,0.0,0.0,2020-01-03 19:40:57,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:41:02
+3493952,1265,0.0,0.0,2020-01-03 19:55:58,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:56:01
+3494053,1265,0.0,0.0,2020-01-03 20:25:57,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:26:01
+3494174,1265,19.850575600000006,75.34832320000002,2020-01-03 21:27:29,0.0,0.0,1400.0,network,"140/P,Beed Bypass Rd,Darshan Vihar Colony,Mirajgave Nagari,Aurangabad,Maharashtra 431005,India",44.034,movement,,2020-01-03 21:27:32
+3494232,1265,19.84852809458971,75.35050283186138,2020-01-03 21:56:00,0.67,77.8,18.5,gps,"20/21,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.845,movement,,2020-01-03 21:56:03
+3494257,1265,19.84866597689688,75.350147690624,2020-01-03 22:13:23,0.0,0.0,49.5,gps,"Ayyapa Mandir,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,movement,Idle,2020-01-03 22:13:27
+3494310,1265,19.84866597689688,75.350147690624,2020-01-03 22:28:23,0.58,307.5,49.5,gps,"Ayyapa Mandir,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,movement,Idle,2020-01-03 22:28:28
+3494340,1265,19.84866597689688,75.350147690624,2020-01-03 22:43:23,0.0,0.0,49.5,gps,"Ayyapa Mandir,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,movement,Idle,2020-01-03 22:43:25
+3494365,1265,19.84866597689688,75.350147690624,2020-01-03 22:58:23,1.99,197.2,49.5,gps,"Ayyapa Mandir,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,movement,Idle,2020-01-03 22:58:27
+3494375,1265,19.848630521446463,75.35029328428209,2020-01-03 23:03:16,4.88,44.6,45.5,gps,"Ayyapa Mandir,Said Nagar,Satara Deolai Parisar,Aurangabad,Maharashtra 431005,India",0.0,punchOut,Idle,2020-01-03 23:03:31

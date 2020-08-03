@@ -1,0 +1,4 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492009,1243,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 10:24:41
+3492010,1243,27.17692333333333,77.95521666666667,2020-01-03 10:24:59,0.0,287.03,2.3,gps,"520,Shahganj,Agra,Uttar Pradesh 282010,India",0.0,punchIn,Idle,2020-01-03 10:25:01
+3492011,1243,27.17693,77.95521333333333,2020-01-03 10:25:02,0.0,287.03,2.3,gps,"96,Shahganj,Agra,Uttar Pradesh 282010,India",0.0,movement,Idle,2020-01-03 10:25:03

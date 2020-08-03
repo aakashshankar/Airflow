@@ -1,0 +1,8 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492037,1603,26.92001833333334,80.96288833333331,2020-01-03 10:29:45,0.0,0.0,5.7,gps,"3/956,Gudamba Thana,Sector H,Jankipuram,Lucknow,Uttar Pradesh 226021,India",0.0,punchIn,Idle,2020-01-03 10:29:48
+3492039,1603,26.92001833333334,80.96288833333331,2020-01-03 10:29:48,0.0,0.0,5.7,gps,"3/956,Gudamba Thana,Sector H,Jankipuram,Lucknow,Uttar Pradesh 226021,India",0.0,movement,Idle,2020-01-03 10:29:50
+3492080,1603,26.92001833333334,80.96288833333331,2020-01-03 10:45:29,0.0,0.0,5.7,gps,"3/956,Gudamba Thana,Sector H,Jankipuram,Lucknow,Uttar Pradesh 226021,India",0.0,movement,Idle,2020-01-03 10:45:33
+3492148,1603,26.92001833333334,80.96288833333331,2020-01-03 11:00:33,0.0,0.0,5.7,gps,"3/956,Gudamba Thana,Sector H,Jankipuram,Lucknow,Uttar Pradesh 226021,India",0.0,movement,Idle,2020-01-03 11:00:36
+3492196,1603,26.92001833333334,80.96288833333331,2020-01-03 11:15:46,0.0,0.0,5.7,gps,"3/956,Gudamba Thana,Sector H,Jankipuram,Lucknow,Uttar Pradesh 226021,India",0.0,movement,Idle,2020-01-03 11:15:48
+3494230,1603,26.92935,80.97924333333334,2020-01-03 21:54:51,0.363394,0.0,7.1,gps,"Arjun Enclave Near Sport College,Kursi Rd,Guramba,Uttar Pradesh 226026,India",2.607,punchOut,Idle,2020-01-03 21:54:56
+3494231,1603,26.92935,80.97924333333334,2020-01-03 21:54:53,0.363394,0.0,7.1,gps,"Arjun Enclave Near Sport College,Kursi Rd,Guramba,Uttar Pradesh 226026,India",2.607,movement,Idle,2020-01-03 21:54:59

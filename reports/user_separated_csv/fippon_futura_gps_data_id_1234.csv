@@ -1,0 +1,25 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492219,1234,28.5917694,77.37454179999997,2020-01-03 11:26:15,0.0,0.0,23.67,network,"B-2,A Block,Sector 71,Noida,Uttar Pradesh 201307,India",0.0,punchIn,Idle,2020-01-03 11:26:18
+3492220,1234,28.5917694,77.37454179999997,2020-01-03 11:26:21,0.0,0.0,23.67,fused,"B-2,A Block,Sector 71,Noida,Uttar Pradesh 201307,India",0.0,movement,Idle,2020-01-03 11:26:23
+3492283,1234,28.5917694,77.37454179999997,2020-01-03 11:45:18,0.0,0.0,23.67,network,"B-2,A Block,Sector 71,Noida,Uttar Pradesh 201307,India",0.0,movement,Idle,2020-01-03 11:45:19
+3492327,1234,28.59159753,77.37414706,2020-01-03 11:58:56,0.0,0.0,38.0,gps,"Vishwakarma Rd,A Block,Sector 61,Noida,Uttar Pradesh 201307,India",0.0,movement,Idle,2020-01-03 11:58:58
+3492442,1234,28.59159753,77.37414706,2020-01-03 12:08:15,0.0,0.0,38.0,gps,"Vishwakarma Rd,A Block,Sector 61,Noida,Uttar Pradesh 201307,India",0.0,movement,Idle,2020-01-03 12:26:38
+3492443,1234,28.59159753,77.37414706,2020-01-03 12:23:15,0.0,0.0,38.0,gps,"Vishwakarma Rd,A Block,Sector 61,Noida,Uttar Pradesh 201307,India",0.0,movement,Idle,2020-01-03 12:26:43
+3492488,1234,28.59550938,77.37605545,2020-01-03 12:38:55,0.0,0.0,10.0,gps,"1,near Janta Flats,B Block,Sector 71,Noida,Uttar Pradesh 201301,India",0.764,movement,Idle,2020-01-03 12:39:02
+3492538,1234,28.59550938,77.37605545,2020-01-03 12:53:50,0.0,0.0,10.0,gps,"1,near Janta Flats,B Block,Sector 71,Noida,Uttar Pradesh 201301,India",0.0,movement,Idle,2020-01-03 12:53:52
+3492582,1234,28.59157757,77.37416854,2020-01-03 13:08:51,0.0,0.0,11.0,gps,"Vishwakarma Rd,A Block,Sector 61,Noida,Uttar Pradesh 201307,India",0.642,movement,Idle,2020-01-03 13:08:52
+3492633,1234,28.59157757,77.37416854,2020-01-03 13:23:51,0.0,0.0,11.0,gps,"Vishwakarma Rd,A Block,Sector 61,Noida,Uttar Pradesh 201307,India",0.0,movement,Idle,2020-01-03 13:23:52
+3492696,1234,28.59157757,77.37416854,2020-01-03 13:38:57,0.0,0.0,11.0,gps,"Vishwakarma Rd,A Block,Sector 61,Noida,Uttar Pradesh 201307,India",0.0,movement,Idle,2020-01-03 13:38:58
+3492756,1234,28.59157757,77.37416854,2020-01-03 13:58:02,1.27,118.5,11.0,gps,"Vishwakarma Rd,A Block,Sector 61,Noida,Uttar Pradesh 201307,India",0.0,movement,Idle,2020-01-03 13:58:04
+3492823,1234,28.59911117,77.33962251,2020-01-03 14:17:45,0.0,0.0,12.0,gps,"Y-1,Buddh Vihar,Block Y,Sector 12,Noida,Uttar Pradesh 201301,India",4.905,movement,Idle,2020-01-03 14:17:51
+3492891,1234,28.59911117,77.33962251,2020-01-03 14:37:18,0.0,0.0,12.0,gps,"Y-1,Buddh Vihar,Block Y,Sector 12,Noida,Uttar Pradesh 201301,India",0.0,movement,Idle,2020-01-03 14:37:19
+3492975,1234,28.62813664,77.30793845,2020-01-03 14:56:56,0.0,0.0,23.0,gps,"I. P. Extn.,36,I.P.Extension,Mandawli Fazalpur,Delhi,110092,India",7.575,movement,Idle,2020-01-03 14:56:58
+3493001,1234,28.62813664,77.30793845,2020-01-03 15:06:50,0.0,0.0,0.0,gps,"I. P. Extn.,36,I.P.Extension,Mandawli Fazalpur,Delhi,110092,India",0.0,activity,Idle,2020-01-03 15:07:25
+3493044,1234,28.62813664,77.30793845,2020-01-03 15:16:45,0.0,0.0,23.0,gps,"I. P. Extn.,36,I.P.Extension,Mandawli Fazalpur,Delhi,110092,India",0.0,movement,Idle,2020-01-03 15:16:46
+3493132,1234,28.61708898,77.33828995,2020-01-03 15:36:17,1.77,127.2,3.0,gps,"Pkt B-7 Flat no 46 G,Pocket B 7,Mayur Vihar Phase III,Gharoli,Delhi,110096,India",4.987,movement,Idle,2020-01-03 15:36:19
+3493190,1234,28.61708898,77.33828995,2020-01-03 15:55:53,1.77,127.2,3.0,gps,"Pkt B-7 Flat no 46 G,Pocket B 7,Mayur Vihar Phase III,Gharoli,Delhi,110096,India",0.0,movement,Idle,2020-01-03 15:55:55
+3493245,1234,28.61708898,77.33828995,2020-01-03 16:10:45,1.77,127.2,3.0,gps,"Pkt B-7 Flat no 46 G,Pocket B 7,Mayur Vihar Phase III,Gharoli,Delhi,110096,India",0.0,movement,Idle,2020-01-03 16:10:46
+3493303,1234,28.61708898,77.33828995,2020-01-03 16:25:37,1.77,127.2,3.0,gps,"Pkt B-7 Flat no 46 G,Pocket B 7,Mayur Vihar Phase III,Gharoli,Delhi,110096,India",0.0,movement,Idle,2020-01-03 16:25:37
+3493372,1234,28.61708898,77.33828995,2020-01-03 16:45:09,1.77,127.2,3.0,gps,"Pkt B-7 Flat no 46 G,Pocket B 7,Mayur Vihar Phase III,Gharoli,Delhi,110096,India",0.0,movement,Idle,2020-01-03 16:45:10
+3493425,1234,28.61708898,77.33828995,2020-01-03 17:04:18,1.77,127.2,3.0,gps,"Pkt B-7 Flat no 46 G,Pocket B 7,Mayur Vihar Phase III,Gharoli,Delhi,110096,India",0.0,movement,Idle,2020-01-03 17:04:21
+3493428,1234,28.61708898,77.33828995,2020-01-03 17:04:59,1.77,127.2,3.0,gps,"Pkt B-7 Flat no 46 G,Pocket B 7,Mayur Vihar Phase III,Gharoli,Delhi,110096,India",0.0,punchOut,Idle,2020-01-03 17:05:10

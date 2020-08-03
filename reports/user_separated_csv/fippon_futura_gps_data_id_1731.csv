@@ -1,0 +1,21 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491870,1731,13.72668465,75.29455384,2020-01-02 20:03:10,12.47,64.3,6.432,gps,"Solapur - Mangalore Hwy,KuDumallige,Karnataka 577432,India",10.718,movement,Idle,2020-01-03 09:08:24
+3491871,1731,13.72668465,75.29455384,2020-01-02 20:04:43,0.0,0.0,0.0,gps,"Solapur - Mangalore Hwy,KuDumallige,Karnataka 577432,India",0.0,activity,Idle,2020-01-03 09:08:41
+3491872,1731,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 09:08:44
+3491873,1731,13.85186199,75.70266357,2020-01-03 09:08:50,2.27,12.1,51.456,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,punchIn,Idle,2020-01-03 09:08:51
+3491874,1731,13.85186199,75.70266357,2020-01-03 09:08:53,2.45,28.8281,51.456,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,movement,Idle,2020-01-03 09:08:54
+3491875,1731,13.85186199,75.70266357,2020-01-03 09:08:59,2.45,28.8281,51.456,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,movement,Idle,2020-01-03 09:09:00
+3491877,1731,13.85186199,75.70266357,2020-01-03 09:10:23,2.09,63.2812,51.456,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,movement,Idle,2020-01-03 09:10:24
+3492013,1731,13.85186199,75.70266357,2020-01-03 10:25:51,2.09,63.2812,51.456,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,movement,Idle,2020-01-03 10:25:52
+3492015,1731,13.85175411,75.70266846,2020-01-03 10:25:56,0.0,0.0,3.216,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,punchOut,Idle,2020-01-03 10:26:01
+3492022,1731,13.8517201,75.7026707,2020-01-03 10:27:56,0.0,0.0,3.216,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,punchIn,Idle,2020-01-03 10:27:58
+3492023,1731,13.8517201,75.7026707,2020-01-03 10:27:59,0.0,0.0,3.216,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,movement,Idle,2020-01-03 10:28:00
+3492025,1731,13.85172019,75.70267074,2020-01-03 10:28:25,0.0,0.0,0.0,gps,"Old Town,Jai Bheem Nagar,Indira Nagar,Bhadravathi,Karnataka 577301,India",0.0,activity,Idle,2020-01-03 10:28:29
+3492065,1731,13.85028696,75.70294727,2020-01-03 10:43:00,5.3,173.6,27.872,gps,"Old Town,Shimoga Dist.,Kanaka Nagar,Bhadravathi,Karnataka 577301,India",0.236,movement,,2020-01-03 10:43:02
+3492428,1731,13.84708366,75.70300759999998,2020-01-03 12:22:46,0.0,0.0,13.936,gps,"NST Rd,Kanaka Nagar,Bhadravathi,Karnataka 577301,India",0.376,movement,Idle,2020-01-03 12:22:47
+3492430,1731,13.84708366,75.70300759999998,2020-01-03 12:24:15,0.0,0.0,0.0,gps,"NST Rd,Kanaka Nagar,Bhadravathi,Karnataka 577301,India",0.0,activity,Idle,2020-01-03 12:24:20
+3492434,1731,13.84708366,75.70300759999998,2020-01-03 12:25:06,0.0,0.0,0.0,gps,"NST Rd,Kanaka Nagar,Bhadravathi,Karnataka 577301,India",0.0,activity,Idle,2020-01-03 12:25:09
+3492435,1731,0.0,0.0,2020-01-03 12:25:38,0.0,0.0,0.0,na,Unknown Location,0.0,movement,,2020-01-03 12:25:39
+3492438,1731,13.84708366,75.70300759999998,2020-01-03 12:26:01,0.0,0.0,0.0,gps,"NST Rd,Kanaka Nagar,Bhadravathi,Karnataka 577301,India",0.0,activity,Idle,2020-01-03 12:26:06
+3492600,1731,13.70855639,75.81250943,2020-01-03 13:14:59,1.18,288.0,9.648,gps,"Unnamed Road,Tarikere,Karnataka 577228,India",20.344,movement,Idle,2020-01-03 13:15:02
+3492601,1731,13.70855639,75.81250943,2020-01-03 13:15:10,0.0,0.0,0.0,gps,"Unnamed Road,Tarikere,Karnataka 577228,India",0.0,activity,Idle,2020-01-03 13:15:15

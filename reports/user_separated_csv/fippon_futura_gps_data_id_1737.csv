@@ -1,0 +1,27 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492043,1737,18.66700591,78.10295929,2020-01-03 10:30:36,0.47,9.6,11.8789,gps,"Phulong X Road,Near Rythu Market,Phulong,Nizamabad,Telangana 503001,India",0.0,punchIn,Idle,2020-01-03 10:30:40
+3492044,1737,18.66687975,78.1029255,2020-01-03 10:30:42,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 10:30:43
+3492112,1737,18.66687975,78.1029255,2020-01-03 10:47:16,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 10:47:27
+3492157,1737,18.66687975,78.1029255,2020-01-03 11:04:01,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 11:04:03
+3492206,1737,18.66687975,78.1029255,2020-01-03 11:20:36,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 11:20:36
+3492255,1737,18.66687975,78.1029255,2020-01-03 11:40:07,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 11:40:08
+3492411,1737,18.66687975,78.1029255,2020-01-03 11:56:05,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 12:16:07
+3492412,1737,18.66687975,78.1029255,2020-01-03 12:16:07,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 12:16:08
+3492462,1737,18.66687975,78.1029255,2020-01-03 12:32:16,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 12:32:17
+3492520,1737,18.66687975,78.1029255,2020-01-03 12:47:17,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 12:47:19
+3492562,1737,18.66687975,78.1029255,2020-01-03 13:04:57,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 13:04:59
+3492619,1737,18.66687975,78.1029255,2020-01-03 13:20:41,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 13:20:42
+3492688,1737,18.66687975,78.1029255,2020-01-03 13:35:44,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 13:35:46
+3492726,1737,18.66687975,78.1029255,2020-01-03 13:51:10,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 13:51:11
+3492785,1737,18.66687975,78.1029255,2020-01-03 14:06:45,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 14:06:46
+3492838,1737,18.66687975,78.1029255,2020-01-03 14:21:55,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 14:21:56
+3492976,1737,18.66687975,78.1029255,2020-01-03 14:41:15,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 14:58:03
+3492977,1737,18.66687975,78.1029255,2020-01-03 14:58:01,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 14:58:04
+3493022,1737,18.66687975,78.1029255,2020-01-03 15:13:12,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 15:13:13
+3493120,1737,18.66687975,78.1029255,2020-01-03 15:29:32,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 15:31:37
+3493214,1737,18.66687975,78.1029255,2020-01-03 15:44:42,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 15:59:42
+3493215,1737,18.66687975,78.1029255,2020-01-03 15:59:41,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 15:59:43
+3493329,1737,18.66687975,78.1029255,2020-01-03 16:15:01,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 16:33:15
+3493330,1737,18.66687975,78.1029255,2020-01-03 16:33:13,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 16:33:27
+3493336,1737,18.66687975,78.1029255,2020-01-03 16:35:26,0.0,0.0,5.10259,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,movement,Idle,2020-01-03 16:35:27
+3493337,1737,18.66688219,78.10292204,2020-01-03 16:35:29,0.0,0.0,4.8619900000000005,gps,"Dichpally - Nizamabad Rd,Padma Nagar,Nizamabad,Telangana 503001,India",0.0,punchOut,Idle,2020-01-03 16:35:32

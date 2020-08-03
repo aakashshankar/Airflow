@@ -1,0 +1,5 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491822,1254,25.23752581,86.69113497,2020-01-03 07:08:17,24.43,263.2,13.936,gps,"NH-80,Bihar 813213,India",0.0,punchIn,Idle,2020-01-03 07:08:20
+3491823,1254,25.23752581,86.69113497,2020-01-03 07:08:20,24.43,263.2,13.936,gps,"NH-80,Bihar 813213,India",0.0,movement,Idle,2020-01-03 07:08:22
+3494088,1254,25.606856,85.1392882,2020-01-03 20:37:10,0.0,0.0,26.547,fused,"05,2nd Floor,Anwar House,Jamal Rd,Fraser Road Area,Patna,Bihar 800001,India",204.743,movement,,2020-01-03 20:37:13
+3494427,1254,25.49606271084567,85.33432820191128,2020-01-03 23:59:00,86.0,1.76985,31.703000000000007,gps,"Unnamed Road,Raipura,Bihar 803202,India",30.648000000000003,punchOut,,2020-01-03 23:59:21

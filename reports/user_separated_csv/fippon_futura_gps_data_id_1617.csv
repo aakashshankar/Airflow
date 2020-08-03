@@ -1,0 +1,4 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492069,1617,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 10:44:09
+3492070,1617,25.28181833333333,82.98925166666669,2020-01-03 10:44:11,0.279494,246.37,2.0,gps,"B-33/362,Gandhi Nagar Extension,Sundarpur,Naria,Varanasi,Uttar Pradesh 221005,India",0.0,punchIn,Idle,2020-01-03 10:44:15
+3492071,1617,25.28181833333333,82.98925166666669,2020-01-03 10:44:16,0.211036,277.73,2.0,gps,"B-33/362,Gandhi Nagar Extension,Sundarpur,Naria,Varanasi,Uttar Pradesh 221005,India",0.0,movement,Idle,2020-01-03 10:44:17

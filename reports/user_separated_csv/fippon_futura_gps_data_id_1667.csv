@@ -1,0 +1,37 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492727,1667,26.67613684,80.8161396,2020-01-02 23:57:00,14.06,219.2,20.368,gps,"NH27,Junab Ganj,Uttar Pradesh 226401,India",20.817,movement,Idle,2020-01-03 13:51:31
+3492728,1667,26.67613684,80.8161396,2020-01-02 23:59:00,14.06,219.2,20.368,gps,"NH27,Junab Ganj,Uttar Pradesh 226401,India",0.0,punchOut,Idle,2020-01-03 13:51:38
+3492729,1667,26.49092933,80.28586403,2020-01-03 13:51:41,0.0,0.0,9.648,gps,"117,Zoo Rd,Sharda Nagar,Kanpur,Uttar Pradesh 208024,India",0.0,punchIn,Idle,2020-01-03 13:51:43
+3492786,1667,26.49092933,80.28586403,2020-01-03 13:51:44,0.0,0.0,9.648,gps,"117,Zoo Rd,Sharda Nagar,Kanpur,Uttar Pradesh 208024,India",0.0,movement,Idle,2020-01-03 14:06:46
+3492787,1667,26.50047482,80.25708922,2020-01-03 14:06:45,0.88,63.5,17.152,gps,"17-C,New Azad Nagar,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",3.64,movement,Idle,2020-01-03 14:06:49
+3492836,1667,26.50047482,80.25708922,2020-01-03 14:21:44,0.0,0.0,17.152,gps,"17-C,New Azad Nagar,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",0.0,movement,Idle,2020-01-03 14:21:47
+3492889,1667,26.50047482,80.25708922,2020-01-03 14:36:46,0.33,240.5,17.152,gps,"17-C,New Azad Nagar,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",0.0,movement,Idle,2020-01-03 14:36:47
+3492964,1667,26.49527662,80.24944731,2020-01-03 14:51:48,0.0,0.0,7.504,gps,"66A,Panki Rd,In Front Chaska Restaurent,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",1.186,movement,,2020-01-03 14:51:52
+3493000,1667,26.48625672,80.24708881,2020-01-03 15:06:48,1.94,143.6,16.08,gps,"Panki Rd,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",1.079,movement,,2020-01-03 15:06:52
+3493061,1667,26.47293522,80.24689329,2020-01-03 15:21:48,6.81,236.2,19.296,gps,"Shahpur,Swaraj Nagar,Kanpur,Uttar Pradesh 208020,India",1.74,movement,,2020-01-03 15:21:51
+3493172,1667,26.46375647,80.24351859,2020-01-03 15:36:47,0.0,0.0,172.592,gps,"95,E Block,Panki,Kanpur,Uttar Pradesh 208020,India",1.4780000000000002,movement,Idle,2020-01-03 15:51:53
+3493173,1667,26.46375647,80.24351859,2020-01-03 15:51:49,0.0,0.0,172.592,gps,"95,E Block,Panki,Kanpur,Uttar Pradesh 208020,India",0.0,movement,Idle,2020-01-03 15:51:55
+3493209,1667,26.46356578,80.2434296,2020-01-03 15:58:45,0.0,0.0,0.0,gps,"40-E,Panki Station Rd,Panki Power House,Panki,Kanpur,Uttar Pradesh 208020,India",0.0,activity,,2020-01-03 15:59:03
+3493237,1667,26.46375647,80.24351859,2020-01-03 16:06:49,1.91,317.4,172.592,gps,"95,E Block,Panki,Kanpur,Uttar Pradesh 208020,India",0.0,movement,Idle,2020-01-03 16:06:51
+3493290,1667,26.46375647,80.24351859,2020-01-03 16:21:51,0.66,297.7,172.592,gps,"95,E Block,Panki,Kanpur,Uttar Pradesh 208020,India",0.0,movement,Idle,2020-01-03 16:21:52
+3493342,1667,26.50077591,80.25383702,2020-01-03 16:36:51,0.41,41.3,4.288,gps,"337/A,Purana Shivali Rd,Gooba Gardens,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",5.053,movement,,2020-01-03 16:36:55
+3493390,1667,26.50082679,80.25644307,2020-01-03 16:51:52,4.0,38.3,13.936,gps,"28,New Azad Nagar,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",0.375,movement,,2020-01-03 16:51:56
+3493411,1667,26.50046609,80.25678132,2020-01-03 16:57:52,0.0,0.0,0.0,gps,"17-C,New Azad Nagar,Kalyanpur,Kanpur,Uttar Pradesh 208017,India",0.0,activity,,2020-01-03 16:58:02
+3493444,1667,26.49401612,80.27598439,2020-01-03 17:06:51,8.13,104.1,6.432,gps,"NH34,Khyora,Kanpur,Uttar Pradesh 208024,India",2.218,movement,,2020-01-03 17:06:55
+3493482,1667,26.47846967,80.30728054,2020-01-03 17:21:52,0.0,0.0,9.648,gps,"NH34,Raja Purva,Sarvodaya Nagar,Kanpur,Uttar Pradesh 208005,India",4.047,movement,,2020-01-03 17:21:55
+3493522,1667,26.47861746,80.30739735,2020-01-03 17:36:52,0.51,192.3,8.576,gps,"NH34,GSVM ?????? ?????,Sarvodaya Nagar,Kanpur,Uttar Pradesh 208002,India",0.0,movement,Idle,2020-01-03 17:36:54
+3493570,1667,26.47861746,80.30739735,2020-01-03 17:51:52,0.0,0.0,8.576,gps,"NH34,GSVM ?????? ?????,Sarvodaya Nagar,Kanpur,Uttar Pradesh 208002,India",0.0,movement,Idle,2020-01-03 17:51:55
+3493609,1667,26.47861746,80.30739735,2020-01-03 18:06:52,0.0,0.0,8.576,gps,"NH34,GSVM ?????? ?????,Sarvodaya Nagar,Kanpur,Uttar Pradesh 208002,India",0.0,movement,Idle,2020-01-03 18:06:54
+3493664,1667,26.46845352,80.32841973,2020-01-03 18:21:54,2.4,107.9,15.008,gps,"40,P Rd,Sisamau,Gandhi Nagar,Kanpur,Uttar Pradesh 208001,India",3.015,movement,,2020-01-03 18:21:57
+3493707,1667,26.4680628,80.33105501,2020-01-03 18:36:59,0.0,0.0,12.864,gps,"88/576,Peshkar Rd,Chaman Ganj,Colonelganj,Kanpur,Uttar Pradesh 208001,India",0.278,movement,Idle,2020-01-03 18:37:01
+3493736,1667,26.4680628,80.33105501,2020-01-03 18:51:58,0.0,0.0,12.864,gps,"88/576,Peshkar Rd,Chaman Ganj,Colonelganj,Kanpur,Uttar Pradesh 208001,India",0.0,movement,Idle,2020-01-03 18:52:00
+3493779,1667,26.4680628,80.33105501,2020-01-03 19:06:58,0.0,0.0,12.864,gps,"88/576,Peshkar Rd,Chaman Ganj,Colonelganj,Kanpur,Uttar Pradesh 208001,India",0.0,movement,Idle,2020-01-03 19:07:00
+3493839,1667,26.46790347,80.33103595,2020-01-03 19:22:00,0.0,0.0,12.864,gps,"80/580,Peshkar Rd,Chaman Ganj,Colonelganj,Kanpur,Uttar Pradesh 208001,India",0.0,movement,Idle,2020-01-03 19:22:02
+3493891,1667,26.47786848,80.30822703,2020-01-03 19:37:01,0.21,32.3,11.792,gps,"Directorate of Industries Bus Stop,Sarvodaya Nagar,Kanpur,Uttar Pradesh 208005,India",3.954,movement,Idle,2020-01-03 19:37:04
+3493946,1667,26.47786848,80.30822703,2020-01-03 19:52:00,0.0,0.0,11.792,gps,"Directorate of Industries Bus Stop,Sarvodaya Nagar,Kanpur,Uttar Pradesh 208005,India",0.0,movement,Idle,2020-01-03 19:52:03
+3493995,1667,26.47864502,80.30767586,2020-01-03 20:07:02,0.0,0.0,18.224,gps,"NH34,GSVM ?????? ?????,Sarvodaya Nagar,Kanpur,Uttar Pradesh 208002,India",0.0,movement,,2020-01-03 20:07:03
+3494042,1667,26.46432335,80.32144042,2020-01-03 20:22:01,10.01,137.6,10.72,gps,"107/3-B,GT Rd,Dwarikapuri,Jawahar Nagar,Kanpur,Uttar Pradesh 208012,India",2.103,movement,,2020-01-03 20:22:04
+3494147,1667,26.40923269,80.35791253,2020-01-03 20:37:00,2.79,229.6,5.36,gps,"62 ramnagar society 200 feet P.A.C,PAC Rd,Shyam Nagar,Kanpur,Uttar Pradesh 208015,India",8.963,movement,,2020-01-03 21:07:04
+3494148,1667,26.40717439,80.35771368,2020-01-03 21:07:01,0.73,8.5,37.52,gps,"s 63,KDA Colony,Daheli Sujanpur,Shyam Nagar,Kanpur,Uttar Pradesh 208013,India",0.325,movement,Idle,2020-01-03 21:07:05
+3494213,1667,26.40743411,80.35843334,2020-01-03 21:37:02,0.0,0.0,70.752,gps,"Unnamed Road,Shyam Nagar,Kanpur,Uttar Pradesh 208015,India",0.0,movement,Idle,2020-01-03 21:37:03
+3494407,1667,26.40750545,80.35855107,2020-01-03 23:37:02,0.52,320.7,28.944000000000006,gps,"Unnamed Road,Daheli Sujanpur,Kanpur,Uttar Pradesh 208015,India",0.0,movement,,2020-01-03 23:37:04

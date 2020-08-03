@@ -1,0 +1,36 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491932,1720,9.967096666666666,76.29483333333333,2020-01-03 09:57:42,0.0,0.0,3.3,gps,"Karithala Road,Manorama Junction,Kochi,Kerala 682016,India",0.0,punchIn,Idle,2020-01-03 09:57:49
+3491933,1720,9.967096666666666,76.29483333333333,2020-01-03 09:57:49,0.0,0.0,3.3,gps,"Karithala Road,Manorama Junction,Kochi,Kerala 682016,India",0.0,movement,Idle,2020-01-03 09:57:52
+3491966,1720,9.989735,76.29394,2020-01-03 10:08:37,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",3.457,movement,Idle,2020-01-03 10:08:45
+3491986,1720,9.989735,76.29394,2020-01-03 10:16:46,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:16:54
+3491987,1720,9.989735,76.29394,2020-01-03 10:17:19,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:17:22
+3491990,1720,9.989735,76.29394,2020-01-03 10:19:51,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:19:54
+3491997,1720,9.989735,76.29394,2020-01-03 10:21:16,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:21:20
+3492002,1720,9.989735,76.29394,2020-01-03 10:22:44,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:22:47
+3492004,1720,9.989735,76.29394,2020-01-03 10:23:47,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:23:52
+3492008,1720,9.989735,76.29394,2020-01-03 10:24:26,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:24:31
+3492014,1720,9.989735,76.29394,2020-01-03 10:25:52,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:25:54
+3492016,1720,9.989735,76.29394,2020-01-03 10:26:15,0.0,0.0,7.7,gps,"SKRA-180,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 10:26:20
+3492272,1720,9.9906665,76.2945637,2020-01-03 10:42:44,0.0,0.0,941.0,network,"SRRA-118,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.147,movement,Idle,2020-01-03 11:42:29
+3492273,1720,9.9906665,76.2945637,2020-01-03 10:57:44,0.0,0.0,941.0,network,"SRRA-118,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 11:42:30
+3492274,1720,9.9906665,76.2945637,2020-01-03 11:12:44,0.0,0.0,941.0,network,"SRRA-118,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 11:42:31
+3492275,1720,9.9906665,76.2945637,2020-01-03 11:38:00,0.0,0.0,941.0,network,"SRRA-118,Kathrikadavu,Kaloor,Kochi,Kerala 682017,India",0.0,movement,Idle,2020-01-03 11:42:32
+3492276,1720,9.96699,76.29474333333333,2020-01-03 11:42:25,0.0,0.0,9.1,gps,"Karithala Road,Manorama Junction,Kochi,Kerala 682016,India",3.969,movement,,2020-01-03 11:42:33
+3492312,1720,9.951883333333337,76.33054333333331,2020-01-03 11:56:16,8.39512,151.53,2.9,gps,"Royal Bakers,SH15,Upasana Nagar,Maradu,Ernakulam,Kerala 682304,India",6.206,movement,,2020-01-03 11:56:19
+3492385,1720,9.953903333333333,76.34242166666667,2020-01-03 12:11:18,1.3424,336.83,5.8,gps,"Thommattil Arcade,Kochi-Madurai-Tondi Point Rd,Vadakkekotta,Thrippunithura,Ernakulam,Kerala 682301,India",1.506,movement,Idle,2020-01-03 12:11:21
+3492441,1720,9.953903333333333,76.34242166666667,2020-01-03 12:26:16,1.3424,336.83,5.8,gps,"Thommattil Arcade,Kochi-Madurai-Tondi Point Rd,Vadakkekotta,Thrippunithura,Ernakulam,Kerala 682301,India",0.0,movement,Idle,2020-01-03 12:26:18
+3492494,1720,9.947606666666667,76.34122666666667,2020-01-03 12:41:16,0.0,0.0,8.9,gps,"VKRAW-26/7,Devi Hospital Rd,Ambili Nagar,Kottakakom,Thrippunithura,Kochi,Kerala 682301,India",1.003,movement,Idle,2020-01-03 12:41:18
+3493612,1720,9.947606666666667,76.34122666666667,2020-01-03 12:54:29,0.0,0.0,8.9,gps,"VKRAW-26/7,Devi Hospital Rd,Ambili Nagar,Kottakakom,Thrippunithura,Kochi,Kerala 682301,India",0.0,movement,Idle,2020-01-03 18:11:21
+3493614,1720,9.947555,76.34128166666666,2020-01-03 12:55:29,0.0,0.0,0.0,gps,"VKRAW-26/7,Devi Hospital Rd,Ambili Nagar,Kottakakom,Thrippunithura,Kochi,Kerala 682301,India",0.0,activity,Idle,2020-01-03 18:11:25
+3493615,1720,9.947395,76.341545,2020-01-03 12:58:45,0.0,0.0,0.0,gps,"27/5,Ambili Nagar,Kottakakom,Thrippunithura,Kochi,Kerala 682301,India",0.0,activity,Idle,2020-01-03 18:11:27
+3493616,1720,9.947378333333337,76.34154833333334,2020-01-03 13:09:29,0.0,0.0,9.6,gps,"27/5,Ambili Nagar,Kottakakom,Thrippunithura,Kochi,Kerala 682301,India",0.0,movement,Idle,2020-01-03 18:11:28
+3493618,1720,9.947685,76.34137166666666,2020-01-03 13:24:29,1.02378,9.46,9.7,gps,"VKRAW-26/7,Devi Hospital Rd,Ambili Nagar,Kottakakom,Thrippunithura,Kochi,Kerala 682301,India",0.0,movement,,2020-01-03 18:11:30
+3493620,1720,9.952571666666667,76.33006,2020-01-03 13:39:29,7.23699,332.79,3.4,gps,"49/586,Valloor Rd,Upasana Nagar,Maradu,Kochi,Kerala 682038,India",2.032,movement,,2020-01-03 18:11:32
+3493622,1720,9.966766666666668,76.2949383333333,2020-01-03 13:54:29,0.0,0.0,6.5,gps,"Karithala Rd,Ernakulam,Kerala 682016,India",5.674,movement,Idle,2020-01-03 18:11:34
+3493623,1720,9.966766666666668,76.2949383333333,2020-01-03 14:09:29,0.0,0.0,6.5,gps,"Karithala Rd,Ernakulam,Kerala 682016,India",0.0,movement,Idle,2020-01-03 18:11:37
+3493624,1720,9.966766666666668,76.2949383333333,2020-01-03 14:24:29,6.25645,271.99,6.5,gps,"Karithala Rd,Ernakulam,Kerala 682016,India",0.0,movement,Idle,2020-01-03 18:11:39
+3493626,1720,9.975086666666666,76.28531166666667,2020-01-03 14:39:29,0.0,0.0,6.7,gps,"39/40,1st Floor,Thempadath Building,Iyyattil Jn,Near Krishna Hospital,Chittoor Rd,Shenoys,Kochi,Kerala 682011,India",2.934,movement,,2020-01-03 18:11:42
+3493627,1720,9.964991666666666,76.28735,2020-01-03 14:54:29,0.0,0.0,5.3,gps,"Mahatma Gandhi Rd,Pallimukku,Ernakulam,Kerala 682016,India",1.272,movement,Idle,2020-01-03 18:11:46
+3493628,1720,9.964991666666666,76.28735,2020-01-03 18:10:28,0.0,0.0,5.3,gps,"Mahatma Gandhi Rd,Pallimukku,Ernakulam,Kerala 682016,India",0.0,movement,Idle,2020-01-03 18:11:50
+3493630,1720,9.98421,76.295875,2020-01-03 18:11:07,0.0,0.0,0.0,gps,"Kaloor - Kadavanthara Rd,Kathrikadavu,Kaloor,Ernakulam,Kerala 682017,India",3.933,activity,,2020-01-03 18:11:55
+3493634,1720,9.983936666666667,76.30257333333334,2020-01-03 18:13:36,4.82758,77.45,3.9,gps,"Thammanam - Pullepady Rd,DD Village,Thammanam,Ernakulam,Kerala 682017,India",4.173,movement,,2020-01-03 18:13:39

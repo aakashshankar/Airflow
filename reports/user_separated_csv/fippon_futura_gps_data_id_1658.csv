@@ -1,0 +1,43 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492745,1658,19.261637022325075,76.43632954350656,2020-01-03 13:55:44,0.0,0.0,8.0,gps,"Pokharni Road,Murtuza Colony,Khasab Galli,Murtuza Colony,Khasab Galli,Pathri,Maharashtra 431506,India",0.0,punchIn,Idle,2020-01-03 13:55:48
+3492746,1658,19.261637022325075,76.43632954350656,2020-01-03 13:55:48,0.0,0.0,8.0,gps,"Pokharni Road,Murtuza Colony,Khasab Galli,Murtuza Colony,Khasab Galli,Pathri,Maharashtra 431506,India",0.0,movement,Idle,2020-01-03 13:55:51
+3492763,1658,19.261637022325075,76.43632954350656,2020-01-03 13:59:43,0.0,0.0,8.0,gps,"Pokharni Road,Murtuza Colony,Khasab Galli,Murtuza Colony,Khasab Galli,Pathri,Maharashtra 431506,India",0.0,movement,Idle,2020-01-03 13:59:45
+3492814,1658,19.26124437337821,76.43640140071956,2020-01-03 14:14:45,0.0,0.0,6.0,gps,"Pathri Bus Stand,Khasab Galli,Pathri,Maharashtra 431506,India",0.0,movement,,2020-01-03 14:14:47
+3492854,1658,19.28746862670863,76.48354672625122,2020-01-03 14:29:45,11.1782,39.1795,16.0,gps,"Majalgaon - Parbhani Rd,Maharashtra 431505,India",5.985,movement,,2020-01-03 14:29:48
+3492938,1658,19.35951889009388,76.53528136532394,2020-01-03 14:44:45,0.0,143.721,24.0,gps,"Manvat - Railway Station,Manwat Road,Maharashtra 431505,India",10.325,movement,,2020-01-03 14:44:47
+3492988,1658,19.31736066385265,76.63245000369865,2020-01-03 15:03:19,13.7936,108.76,12.0,gps,"Selu - Parbhani Rd,Panhera,Maharashtra 431537,India",11.59,movement,,2020-01-03 15:03:22
+3493052,1658,19.309415510611046,76.66051842726046,2020-01-03 15:18:20,16.4399,107.479,16.0,gps,"Selu - Parbhani Rd,Maharashtra 431537,India",3.07603,movement,,2020-01-03 15:18:22
+3493124,1658,19.26203530398963,76.76517098933516,2020-01-03 15:33:23,0.868505,75.8953,16.0,gps,"Purna Rd,New Mondha,Parbhani,Maharashtra 431401,India",13.228,movement,Idle,2020-01-03 15:33:25
+3493157,1658,19.26203530398963,76.76517098933516,2020-01-03 15:48:20,0.917498,56.9206,16.0,gps,"Purna Rd,New Mondha,Parbhani,Maharashtra 431401,India",0.0,movement,Idle,2020-01-03 15:48:22
+3493227,1658,19.272876860623125,76.76135627300195,2020-01-03 16:03:21,0.00080544,349.564,24.0,gps,"Bajaj Shorum,Prabhavati Nagar,Parbhani,Maharashtra 431401,India",1.4580000000000002,movement,,2020-01-03 16:03:23
+3493276,1658,19.27260296889032,76.76557234772417,2020-01-03 16:18:21,0.307589,3.45223,6.0,gps,"District Jail Rd,Shastri Nagar,Parbhani,Maharashtra 431401,India",0.496,movement,,2020-01-03 16:18:23
+3493331,1658,19.259297056074384,76.77087386542175,2020-01-03 16:33:22,2.36653,106.217,6.0,gps,"Parbhani Bus Stand,State Highway 148,New Mondha,Parbhani,Maharashtra 431401,India",2.456,movement,,2020-01-03 16:33:30
+3493383,1658,19.260745761306246,76.77277329596447,2020-01-03 16:48:21,0.0,56.4689,16.0,gps,"Wattamwar complex,dr.giram hospital,New Mondha,Parbhani,Maharashtra 431401,India",0.8240000000000001,movement,,2020-01-03 16:48:23
+3493423,1658,19.257524665929026,76.77388303812509,2020-01-03 17:03:21,0.547339,209.189,8.0,gps,"Parbhani Junction,Railway Station Rd,Marathwada Agriculture University,Parbhani,Maharashtra 431401,India",0.721,movement,Idle,2020-01-03 17:03:24
+3493473,1658,19.257524665929026,76.77388303812509,2020-01-03 17:18:22,0.0349185,287.232,8.0,gps,"Parbhani Junction,Railway Station Rd,Marathwada Agriculture University,Parbhani,Maharashtra 431401,India",0.0,movement,Idle,2020-01-03 17:18:25
+3493511,1658,19.257524665929026,76.77388303812509,2020-01-03 17:33:21,2.18062,0.0,8.0,gps,"Parbhani Junction,Railway Station Rd,Marathwada Agriculture University,Parbhani,Maharashtra 431401,India",0.0,movement,Idle,2020-01-03 17:33:23
+3493558,1658,19.257524665929026,76.77388303812509,2020-01-03 17:48:22,2.18062,0.0,8.0,gps,"Parbhani Junction,Railway Station Rd,Marathwada Agriculture University,Parbhani,Maharashtra 431401,India",0.0,movement,Idle,2020-01-03 17:48:24
+3493600,1658,19.257524665929026,76.77388303812509,2020-01-03 18:03:21,2.18062,0.0,8.0,gps,"Parbhani Junction,Railway Station Rd,Marathwada Agriculture University,Parbhani,Maharashtra 431401,India",0.0,movement,Idle,2020-01-03 18:03:30
+3493729,1658,18.95436184781437,76.71941046891621,2020-01-03 18:19:16,19.5492,248.511,12.0,gps,"Maharashtra 431514,India",40.301,movement,,2020-01-03 18:48:28
+3493730,1658,18.933912006106368,76.65790899807027,2020-01-03 18:33:33,25.1346,246.185,16.0,gps,"Unnamed Road,Maharashtra 431514,India",10.51,movement,Idle,2020-01-03 18:48:31
+3493731,1658,18.933912006106368,76.65790899807027,2020-01-03 18:48:23,25.1346,246.185,16.0,gps,"Unnamed Road,Maharashtra 431514,India",0.0,movement,Idle,2020-01-03 18:48:34
+3493760,1658,18.850526560857293,76.52419930151893,2020-01-03 19:03:23,0.6632060000000001,51.8481,6.0,gps,"Bus Stand Road,Vidyanagar,Parli,Maharashtra 431515,India",23.25,movement,,2020-01-03 19:03:26
+3493825,1658,18.847807054023328,76.52149538041712,2020-01-03 19:18:23,0.0,216.255,24.0,gps,"Unnamed Road,Vidyanagar,Parli,Maharashtra 431515,India",1.189,movement,,2020-01-03 19:18:27
+3494271,1658,0.0,0.0,2020-01-03 19:33:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:18:37
+3494272,1658,0.0,0.0,2020-01-03 19:48:23,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:18:39
+3494273,1658,0.0,0.0,2020-01-03 20:03:26,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:18:48
+3494275,1658,0.0,0.0,2020-01-03 20:18:28,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:18:49
+3494276,1658,0.0,0.0,2020-01-03 20:33:28,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:18:57
+3494277,1658,0.0,0.0,2020-01-03 20:48:28,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:19:07
+3494278,1658,0.0,0.0,2020-01-03 21:03:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:19:08
+3494279,1658,0.0,0.0,2020-01-03 21:18:30,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:19:09
+3494280,1658,0.0,0.0,2020-01-03 21:33:30,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:19:17
+3494281,1658,0.0,0.0,2020-01-03 21:48:31,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:19:18
+3494282,1658,0.0,0.0,2020-01-03 22:03:31,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:19:19
+3494283,1658,0.0,0.0,2020-01-03 22:18:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:19:20
+3494318,1658,0.0,0.0,2020-01-03 22:33:42,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:33:45
+3494353,1658,0.0,0.0,2020-01-03 22:48:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:48:27
+3494374,1658,0.0,0.0,2020-01-03 23:03:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:03:29
+3494394,1658,0.0,0.0,2020-01-03 23:18:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:18:31
+3494405,1658,0.0,0.0,2020-01-03 23:33:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:33:32
+3494414,1658,0.0,0.0,2020-01-03 23:48:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:48:27

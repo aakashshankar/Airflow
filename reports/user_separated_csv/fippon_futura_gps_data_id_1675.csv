@@ -1,0 +1,8 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491909,1675,20.23459492,85.84459916,2020-01-03 09:38:53,0.0,0.0,7.0,gps,"Plot no-533&534,Mahavir Bazar,Samantarapur,Above ICICI Bank,Mahaveer Nagar,Bhubaneswar,Odisha 751002,India",0.0,punchIn,Idle,2020-01-03 09:38:55
+3491910,1675,20.23459492,85.84459916,2020-01-03 09:38:55,0.0,0.0,7.0,gps,"Plot no-533&534,Mahavir Bazar,Samantarapur,Above ICICI Bank,Mahaveer Nagar,Bhubaneswar,Odisha 751002,India",0.0,movement,Idle,2020-01-03 09:38:57
+3494082,1675,20.23459492,85.84459916,2020-01-03 20:34:38,0.0,0.0,7.0,gps,"Plot no-533&534,Mahavir Bazar,Samantarapur,Above ICICI Bank,Mahaveer Nagar,Bhubaneswar,Odisha 751002,India",0.0,movement,Idle,2020-01-03 20:34:41
+3494083,1675,20.23467606,85.8446122,2020-01-03 20:34:53,0.0,0.0,0.0,gps,"Plot no-533&534,Mahavir Bazar,Samantarapur,Above ICICI Bank,Mahaveer Nagar,Bhubaneswar,Odisha 751002,India",0.0,activity,Idle,2020-01-03 20:34:58
+3494084,1675,20.23465881,85.84456049,2020-01-03 20:35:16,0.0,0.0,0.0,gps,"Plot no-533&534,Mahavir Bazar,Samantarapur,Above ICICI Bank,Mahaveer Nagar,Bhubaneswar,Odisha 751002,India",0.0,activity,Idle,2020-01-03 20:35:21
+3494085,1675,20.23461299,85.8445831,2020-01-03 20:35:36,0.0,0.0,0.0,gps,"Plot no-533&534,Mahavir Bazar,Samantarapur,Above ICICI Bank,Mahaveer Nagar,Bhubaneswar,Odisha 751002,India",0.0,activity,Idle,2020-01-03 20:35:40
+3494086,1675,20.23461154,85.84457728,2020-01-03 20:35:50,0.0,0.0,19.0,gps,"Plot no-533&534,Mahavir Bazar,Samantarapur,Above ICICI Bank,Mahaveer Nagar,Bhubaneswar,Odisha 751002,India",0.0,punchOut,Idle,2020-01-03 20:35:53

@@ -1,0 +1,14 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492084,1683,28.7172987,77.13961280000002,2020-01-03 10:45:34,0.13317,0.0,3.76284,gps,"303,Aggarwal Tower,CU Block,Pitam Pura,Block E,Sector 14,Rohini,Delhi,110088,India",0.0,punchIn,Idle,2020-01-03 10:45:37
+3492085,1683,28.7172987,77.13961280000002,2020-01-03 10:45:37,0.13317,0.0,3.76284,gps,"303,Aggarwal Tower,CU Block,Pitam Pura,Block E,Sector 14,Rohini,Delhi,110088,India",0.0,movement,Idle,2020-01-03 10:45:39
+3492154,1683,28.80097815,77.14315076666666,2020-01-03 11:01:21,6.00293,350.4240000000001,2.07429,gps,"GT Karnal Rd,Bankoli Village,Delhi,110036,India",10.108,movement,,2020-01-03 11:01:23
+3492330,1683,28.80606426666667,77.14909991666667,2020-01-03 11:59:47,0.263255,48.24100000000001,4.4287,gps,"Palla Bakhtawar Road,Bakoli,Bankoli Village,Delhi,110036,India",0.937,movement,,2020-01-03 11:59:49
+3492333,1683,28.82032485,77.17335301666667,2020-01-03 12:00:38,0.0,0.0,0.0,gps,"Bakhtawarpur Chowk,Bakhtawarpur,Delhi,110036,India",3.178,activity,Idle,2020-01-03 12:00:43
+3492334,1683,28.82032485,77.17335301666667,2020-01-03 12:01:00,0.0,0.0,0.0,na,"Bakhtawarpur Chowk,Bakhtawarpur,Delhi,110036,India",3.178,activity,Idle,2020-01-03 12:01:05
+3492401,1683,28.767677716666668,77.18182991666666,2020-01-03 12:14:49,0.480749,134.143,11.5077,gps,"Nathupura Rd,Prem Nagar,Nathupura,Burari,Delhi,110084,India",9.201,movement,,2020-01-03 12:14:51
+3492452,1683,28.75554066666667,77.19815778333333,2020-01-03 12:29:49,3.83365,133.493,2.62615,gps,"Nathupura Rd,Conductor Colony,Extension Colony,Burari,Delhi,110084,India",2.182,movement,,2020-01-03 12:29:53
+3492516,1683,28.73030556666667,77.19839756666667,2020-01-03 12:44:50,0.345522,179.58,1.9236,gps,"21,Sant Nagar Marg,Laldora,Jharoda,Jharoda Majra Burari,Delhi,110084,India",2.864,movement,,2020-01-03 12:44:52
+3492554,1683,28.72732088333333,77.16252695,2020-01-03 12:59:52,0.61649,25.399,6.20499,gps,"Jahangirpuri Rd,Ramgarh,Bhalswa Jahangirpuri,Jahangirpuri,Delhi,110033,India",5.686,movement,,2020-01-03 12:59:56
+3493344,1683,28.5838919,77.1587619,2020-01-03 16:39:39,0.0,0.0,600.0,fused,"Unnamed Road,Subroto Park,Delhi Cantonment,New Delhi,Delhi 110057,India",22.181,movement,Idle,2020-01-03 16:39:41
+3493345,1683,28.5835334,77.1587619,2020-01-03 16:39:57,0.0,0.0,0.0,network,"Unnamed Road,Subroto Park,Delhi Cantonment,New Delhi,Delhi 110057,India",0.0,activity,Idle,2020-01-03 16:40:04
+3493385,1683,28.5835334,77.1587619,2020-01-03 16:50:12,0.0,0.0,699.9989999999998,network,"Unnamed Road,Subroto Park,Delhi Cantonment,New Delhi,Delhi 110057,India",0.0,punchOut,Idle,2020-01-03 16:50:16

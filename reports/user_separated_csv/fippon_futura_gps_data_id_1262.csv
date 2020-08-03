@@ -1,0 +1,38 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492359,1262,21.09337685,79.13056875,2020-01-03 12:07:26,0.0,0.0,19.721,gps,"Vasutugandha Green III Apartment,Near Acharya vishnugupt college Narsala,Chandrakiran Nagar,Nagpur,Maharashtra 440034,India",0.0,punchIn,Idle,2020-01-03 12:07:29
+3492360,1262,21.09337685,79.13056875,2020-01-03 12:07:29,0.0,0.0,19.721,gps,"Vasutugandha Green III Apartment,Near Acharya vishnugupt college Narsala,Chandrakiran Nagar,Nagpur,Maharashtra 440034,India",0.0,movement,Idle,2020-01-03 12:07:32
+3492484,1262,21.09318492,79.1303397,2020-01-03 12:07:43,0.0,0.0,16.687,gps,"flat flat202,New Narsala Rd,Chandrakiran Nagar,Narsala,Maharashtra 440024,India",0.0,movement,Idle,2020-01-03 12:37:47
+3492485,1262,21.09318492,79.1303397,2020-01-03 12:22:42,0.0,0.0,16.687,gps,"flat flat202,New Narsala Rd,Chandrakiran Nagar,Narsala,Maharashtra 440024,India",0.0,movement,Idle,2020-01-03 12:37:48
+3492486,1262,21.09318492,79.1303397,2020-01-03 12:37:44,0.0,0.0,16.687,gps,"flat flat202,New Narsala Rd,Chandrakiran Nagar,Narsala,Maharashtra 440024,India",0.0,movement,Idle,2020-01-03 12:37:49
+3492579,1262,21.12525009,79.10500168,2020-01-03 12:52:42,5.99,3.6,13.653,gps,"4/5,Somwaripeth,Nagpur,Maharashtra 440024,India",6.197,movement,,2020-01-03 13:07:30
+3492580,1262,21.13220066,79.09825583,2020-01-03 13:07:44,0.0,0.0,40.959,gps,"194,Untkhana Rd,Medical Chowk,Untkhana,Nagpur,Maharashtra 440009,India",1.396,movement,Idle,2020-01-03 13:07:46
+3492592,1262,21.13220066,79.09825583,2020-01-03 13:12:53,0.97,172.3,40.959,gps,"194,Untkhana Rd,Medical Chowk,Untkhana,Nagpur,Maharashtra 440009,India",0.0,movement,Idle,2020-01-03 13:12:54
+3492594,1262,21.13224732,79.09828704,2020-01-03 13:13:22,0.0,0.0,0.0,gps,"194,Untkhana Rd,Medical Chowk,Untkhana,Nagpur,Maharashtra 440009,India",0.0,activity,Idle,2020-01-03 13:13:41
+3492624,1262,21.13220066,79.09825583,2020-01-03 13:21:22,0.0,0.0,40.959,gps,"194,Untkhana Rd,Medical Chowk,Untkhana,Nagpur,Maharashtra 440009,India",0.0,movement,Idle,2020-01-03 13:21:23
+3492737,1262,21.13220066,79.09825583,2020-01-03 13:36:20,0.0,0.0,40.959,gps,"194,Untkhana Rd,Medical Chowk,Untkhana,Nagpur,Maharashtra 440009,India",0.0,movement,Idle,2020-01-03 13:53:54
+3492738,1262,0.0,0.0,2020-01-03 13:51:20,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:53:56
+3492739,1262,21.1319386,79.0970614,2020-01-03 13:53:51,0.0,0.0,50.015,fused,"Bhagyashree Surve Building,Ajni Rd,Medical Chowk,Rambagh Layout,Untkhana,Nagpur,Maharashtra 440003,India",0.725,movement,Idle,2020-01-03 13:53:59
+3492741,1262,21.1317658,79.09711531,2020-01-03 13:54:55,0.0,0.0,0.0,gps,"Bhagyashree Surve Building,Ajni Rd,Medical Chowk,Rambagh Layout,Untkhana,Nagpur,Maharashtra 440003,India",0.0,activity,Idle,2020-01-03 13:55:13
+3492744,1262,21.1317658,79.09711531,2020-01-03 13:55:38,0.0,0.0,0.0,na,"Bhagyashree Surve Building,Ajni Rd,Medical Chowk,Rambagh Layout,Untkhana,Nagpur,Maharashtra 440003,India",0.0,activity,Idle,2020-01-03 13:55:47
+3492795,1262,21.13194364,79.09738503,2020-01-03 14:08:52,0.0,0.0,13.653,gps,"Infront of PNB & ICICI ATM,Ajit Apartment,Plot No79,Medical Chowk,Rambagh Layout,Untkhana,Nagpur,Maharashtra 440003,India",0.0,movement,Idle,2020-01-03 14:08:55
+3492798,1262,21.13191716,79.09743259,2020-01-03 14:09:39,0.0,0.0,4.551,gps,"Ajit Apartment,Medical College Rd,Medical Chowk,Rambagh Layout,Untkhana,Nagpur,Maharashtra 440003,India",0.0,movement,Idle,2020-01-03 14:09:40
+3492802,1262,21.13191555,79.09743885,2020-01-03 14:10:04,0.0,0.0,0.0,gps,"Ajit Apartment,Medical College Rd,Medical Chowk,Rambagh Layout,Untkhana,Nagpur,Maharashtra 440003,India",0.0,activity,Idle,2020-01-03 14:10:15
+3493114,1262,21.13191716,79.09743259,2020-01-03 14:24:39,0.67,338.8,4.551,gps,"Ajit Apartment,Medical College Rd,Medical Chowk,Rambagh Layout,Untkhana,Nagpur,Maharashtra 440003,India",0.0,movement,Idle,2020-01-03 15:31:18
+3493117,1262,21.13191716,79.09743259,2020-01-03 14:40:01,0.67,338.8,4.551,gps,"Ajit Apartment,Medical College Rd,Medical Chowk,Rambagh Layout,Untkhana,Nagpur,Maharashtra 440003,India",0.0,movement,Idle,2020-01-03 15:31:20
+3493118,1262,21.14333929,79.08297426,2020-01-03 14:45:55,0.8,113.2,22.755,gps,"28,Sitabuldi,Nagpur,Maharashtra 440012,India",2.562,movement,,2020-01-03 15:31:25
+3493151,1262,0.0,0.0,2020-01-03 15:00:56,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:45:58
+3493152,1262,21.09978825,79.12245579,2020-01-03 15:16:00,0.0,0.0,7.585,gps,"Old Hudkeshwar Naka,Hudkeshwar Rd,near Chanakya Sawji Bhojnalay,Santoshi Nagar,Chandrakiran Nagar,Nagpur,Maharashtra 440034,India",8.076,movement,Idle,2020-01-03 15:46:00
+3493153,1262,21.09978825,79.12245579,2020-01-03 15:31:06,0.0,0.0,7.585,gps,"Old Hudkeshwar Naka,Hudkeshwar Rd,near Chanakya Sawji Bhojnalay,Santoshi Nagar,Chandrakiran Nagar,Nagpur,Maharashtra 440034,India",0.0,movement,Idle,2020-01-03 15:46:07
+3493325,1262,21.09335411,79.13053693,2020-01-03 15:45:57,0.0,0.0,13.653,gps,"Vasutugandha Green III Apartment,Near Acharya vishnugupt college Narsala,Chandrakiran Nagar,Nagpur,Maharashtra 440034,India",1.675,movement,Idle,2020-01-03 16:31:08
+3493326,1262,0.0,0.0,2020-01-03 16:00:57,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:31:09
+3493642,1262,0.0,0.0,2020-01-03 16:15:57,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:04
+3493643,1262,21.09335411,79.13053693,2020-01-03 16:31:04,0.0,0.0,13.653,gps,"Vasutugandha Green III Apartment,Near Acharya vishnugupt college Narsala,Chandrakiran Nagar,Nagpur,Maharashtra 440034,India",0.0,movement,Idle,2020-01-03 18:15:05
+3493644,1262,0.0,0.0,2020-01-03 16:45:57,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:06
+3493645,1262,0.0,0.0,2020-01-03 17:00:58,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:07
+3493646,1262,0.0,0.0,2020-01-03 17:16:01,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:07
+3493647,1262,0.0,0.0,2020-01-03 17:19:27,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:08
+3493648,1262,0.0,0.0,2020-01-03 17:34:27,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:11
+3493649,1262,0.0,0.0,2020-01-03 17:49:27,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:12
+3493650,1262,0.0,0.0,2020-01-03 18:04:27,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:13
+3493651,1262,0.0,0.0,2020-01-03 18:14:58,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:15:13
+3493653,1262,21.09328689,79.13061067,2020-01-03 18:15:16,0.0,0.0,24.272,gps,"flat flat202,New Narsala Rd,Chandrakiran Nagar,Narsala,Maharashtra 440024,India",0.0,punchOut,Idle,2020-01-03 18:15:28

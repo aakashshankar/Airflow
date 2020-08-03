@@ -1,0 +1,65 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491812,1679,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,,Unknown Location,0.0,punchOut,,2020-01-03 01:29:23
+3491984,1679,11.565342117100954,78.00951861776413,2020-01-03 10:15:40,0.0,0.0,14.0,gps,"4/286-A K.A.K COLONY,Vembadithalam,Tamil Nadu 637504,India",0.0,punchIn,Idle,2020-01-03 10:15:42
+3491985,1679,11.565342117100954,78.00951861776413,2020-01-03 10:15:43,0.0,0.0,14.0,gps,"4/286-A K.A.K COLONY,Vembadithalam,Tamil Nadu 637504,India",0.0,movement,Idle,2020-01-03 10:15:44
+3492045,1679,0.0,0.0,2020-01-03 10:30:43,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:30:44
+3492114,1679,0.0,0.0,2020-01-03 10:47:51,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:47:54
+3492156,1679,0.0,0.0,2020-01-03 11:02:51,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:02:52
+3492200,1679,0.0,0.0,2020-01-03 11:17:52,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:17:53
+3492241,1679,0.0,0.0,2020-01-03 11:32:51,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:32:53
+3492288,1679,0.0,0.0,2020-01-03 11:47:53,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:47:54
+3492339,1679,0.0,0.0,2020-01-03 12:02:50,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:02:51
+3492362,1679,0.0,0.0,2020-01-03 12:09:07,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:09:07
+3492368,1679,11.640851581469178,78.1533049698919,2020-01-03 12:10:02,0.0,0.0,0.0,gps,"2,Trichy Main Rd,Karungalpatty,Dadagapatti,Salem,Tamil Nadu 636006,India",19.637,activity,Idle,2020-01-03 12:10:09
+3492369,1679,11.640851581469178,78.1533049698919,2020-01-03 12:10:20,0.0,0.0,3.0,gps,"2,Trichy Main Rd,Karungalpatty,Dadagapatti,Salem,Tamil Nadu 636006,India",19.637,movement,Idle,2020-01-03 12:10:21
+3492370,1679,11.640851581469178,78.1533049698919,2020-01-03 12:10:26,0.0,0.0,3.0,gps,"2,Trichy Main Rd,Karungalpatty,Dadagapatti,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 12:10:27
+3492372,1679,11.640851581469178,78.1533049698919,2020-01-03 12:10:33,0.0,0.0,3.0,gps,"2,Trichy Main Rd,Karungalpatty,Dadagapatti,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 12:10:34
+3492399,1679,0.0,0.0,2020-01-03 12:14:23,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:14:24
+3492451,1679,0.0,0.0,2020-01-03 12:29:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:29:25
+3492509,1679,0.0,0.0,2020-01-03 12:44:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:44:27
+3492552,1679,0.0,0.0,2020-01-03 12:59:27,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:59:31
+3492598,1679,0.0,0.0,2020-01-03 13:14:28,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:14:33
+3492757,1679,0.0,0.0,2020-01-03 13:30:03,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:58:21
+3492758,1679,0.0,0.0,2020-01-03 13:45:13,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:58:22
+3492761,1679,11.640851581469178,78.1533049698919,2020-01-03 13:58:41,0.0,0.0,0.0,na,"2,Trichy Main Rd,Karungalpatty,Dadagapatti,Salem,Tamil Nadu 636006,India",0.0,activity,Idle,2020-01-03 13:58:48
+3492807,1679,11.667563994415104,78.1445224955678,2020-01-03 14:13:19,2.26,29.5,18.5,gps,"212,Govinda Gounder Thottam Rd,Peramanur,Salem,Tamil Nadu 636007,India",4.051,movement,,2020-01-03 14:13:22
+3492852,1679,11.642943201586606,78.15335651859641,2020-01-03 14:29:29,0.86,320.9,28.0,gps,"40,Trichy Main Rd,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",4.17,movement,Idle,2020-01-03 14:29:33
+3492936,1679,11.642941357567905,78.15311671234667,2020-01-03 14:44:27,0.9,43.2,20.5,gps,"133/31A,Sethu Krishna Trade Centre,Trichy Main Rd,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 14:44:30
+3492980,1679,11.642941357567905,78.15311671234667,2020-01-03 14:59:26,0.9,43.2,20.5,gps,"133/31A,Sethu Krishna Trade Centre,Trichy Main Rd,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 14:59:29
+3493028,1679,11.642941357567905,78.15311671234667,2020-01-03 15:14:26,0.9,43.2,20.5,gps,"133/31A,Sethu Krishna Trade Centre,Trichy Main Rd,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 15:14:28
+3493099,1679,11.642941357567905,78.15311671234667,2020-01-03 15:29:26,0.9,43.2,20.5,gps,"133/31A,Sethu Krishna Trade Centre,Trichy Main Rd,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 15:29:28
+3493146,1679,11.642941357567905,78.15311671234667,2020-01-03 15:44:27,0.9,43.2,20.5,gps,"133/31A,Sethu Krishna Trade Centre,Trichy Main Rd,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 15:44:30
+3493213,1679,11.642904980108142,78.15336967818439,2020-01-03 15:59:28,0.0,0.0,13.0,gps,"Sethu Krishna Trade Centre,Trichy Main Rd,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 15:59:31
+3493263,1679,11.642847480252385,78.15310782752931,2020-01-03 16:14:28,2.88,24.8,35.5,gps,"133/31A,Sethu Krishna Trade Centre,Trichy Main Rd,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 16:14:32
+3493368,1679,11.642923504114153,78.15345257520677,2020-01-03 16:29:37,7.86,8.2,45.0,gps,"37a,Trichy Main Rd,near raja sabari theater,Karungalpatty,Gugai,Salem,Tamil Nadu 636006,India",0.0,movement,Idle,2020-01-03 16:44:36
+3493369,1679,11.633536610752346,78.12785441055894,2020-01-03 16:44:33,1.08,0.0,35.0,gps,"Auto Stop,Nethimedu,Salem,Tamil Nadu 636010,India",3.344,movement,,2020-01-03 16:44:39
+3493414,1679,11.63343720138073,78.12612874433398,2020-01-03 16:59:29,5.19,317.6,7.5,gps,"NH 44,Sandaipet,Kondalampatti,Salem,Tamil Nadu 636010,India",0.327,movement,,2020-01-03 16:59:32
+3493441,1679,11.674139513634145,78.15963607281445,2020-01-03 17:06:45,1.42,300.6,15.0,gps,"44,Cherry Rd,Hasthampatti,Salem,Tamil Nadu 636007,India",10.146,movement,,2020-01-03 17:06:47
+3493481,1679,0.0,0.0,2020-01-03 17:21:42,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:21:44
+3493520,1679,0.0,0.0,2020-01-03 17:36:43,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:36:44
+3493571,1679,0.0,0.0,2020-01-03 17:52:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:52:49
+3493631,1679,0.0,0.0,2020-01-03 18:12:43,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:12:45
+3493678,1679,0.0,0.0,2020-01-03 18:27:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:27:49
+3493719,1679,0.0,0.0,2020-01-03 18:42:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:42:49
+3493754,1679,0.0,0.0,2020-01-03 18:57:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:57:50
+3493853,1679,0.0,0.0,2020-01-03 19:12:49,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:27:51
+3493854,1679,0.0,0.0,2020-01-03 19:27:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:27:53
+3493932,1679,0.0,0.0,2020-01-03 19:42:54,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:42:59
+3493957,1679,0.0,0.0,2020-01-03 19:57:54,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:57:57
+3494010,1679,0.0,0.0,2020-01-03 20:12:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:12:49
+3494059,1679,0.0,0.0,2020-01-03 20:27:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:27:51
+3494102,1679,0.0,0.0,2020-01-03 20:42:49,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:42:50
+3494137,1679,0.0,0.0,2020-01-03 20:57:49,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:57:51
+3494151,1679,0.0,0.0,2020-01-03 21:12:50,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:12:52
+3494175,1679,0.0,0.0,2020-01-03 21:27:50,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:27:52
+3494216,1679,0.0,0.0,2020-01-03 21:42:51,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:42:53
+3494235,1679,0.0,0.0,2020-01-03 21:57:52,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:57:54
+3494255,1679,0.0,0.0,2020-01-03 22:12:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:12:49
+3494308,1679,0.0,0.0,2020-01-03 22:27:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:27:49
+3494337,1679,0.0,0.0,2020-01-03 22:42:49,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:42:51
+3494363,1679,0.0,0.0,2020-01-03 22:57:49,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:57:51
+3494388,1679,0.0,0.0,2020-01-03 23:12:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:12:50
+3494401,1679,0.0,0.0,2020-01-03 23:27:49,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:27:50
+3494410,1679,0.0,0.0,2020-01-03 23:42:49,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:42:51
+3494420,1679,0.0,0.0,2020-01-03 23:57:52,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:57:56
+3494425,1679,0.0,0.0,2020-01-03 23:59:00,0.0,0.0,0.0,,Unknown Location,0.0,punchOut,,2020-01-03 23:59:20

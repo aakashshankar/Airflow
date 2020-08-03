@@ -1,0 +1,63 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491992,1671,26.83464737,83.52683859999998,2020-01-03 10:20:21,0.0,0.0,5.36,gps,"Pipraich Market Rd,Pipraich,Uttar Pradesh 273152,India",0.0,punchIn,Idle,2020-01-03 10:20:24
+3491993,1671,26.83464737,83.52683859999998,2020-01-03 10:20:25,0.0,0.0,5.36,gps,"Pipraich Market Rd,Pipraich,Uttar Pradesh 273152,India",0.0,movement,Idle,2020-01-03 10:20:26
+3492050,1671,0.0,0.0,2020-01-03 10:35:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:35:25
+3492120,1671,0.0,0.0,2020-01-03 10:50:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 10:50:25
+3492166,1671,0.0,0.0,2020-01-03 11:05:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:05:26
+3492204,1671,0.0,0.0,2020-01-03 11:20:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:20:27
+3492248,1671,0.0,0.0,2020-01-03 11:35:26,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:35:27
+3492299,1671,0.0,0.0,2020-01-03 11:50:27,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:50:28
+3492350,1671,0.0,0.0,2020-01-03 12:05:28,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:05:29
+3492421,1671,0.0,0.0,2020-01-03 12:20:27,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:20:29
+3492475,1671,0.0,0.0,2020-01-03 12:35:28,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:35:29
+3492526,1671,0.0,0.0,2020-01-03 12:50:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 12:50:29
+3492566,1671,0.0,0.0,2020-01-03 13:05:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:05:30
+3492617,1671,0.0,0.0,2020-01-03 13:20:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:20:30
+3492687,1671,0.0,0.0,2020-01-03 13:35:29,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:35:31
+3492724,1671,0.0,0.0,2020-01-03 13:50:30,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 13:50:31
+3492777,1671,0.0,0.0,2020-01-03 14:05:36,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:05:40
+3492831,1671,0.0,0.0,2020-01-03 14:20:37,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:20:39
+3492885,1671,0.0,0.0,2020-01-03 14:35:37,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:35:38
+3492958,1671,0.0,0.0,2020-01-03 14:50:38,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 14:50:40
+3492995,1671,0.0,0.0,2020-01-03 15:05:39,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:05:40
+3493058,1671,0.0,0.0,2020-01-03 15:20:39,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:20:40
+3493130,1671,0.0,0.0,2020-01-03 15:35:40,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:35:41
+3493166,1671,0.0,0.0,2020-01-03 15:50:41,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 15:50:41
+3493233,1671,0.0,0.0,2020-01-03 16:05:41,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:05:42
+3493288,1671,0.0,0.0,2020-01-03 16:20:41,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:20:43
+3493339,1671,0.0,0.0,2020-01-03 16:35:42,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:35:44
+3493388,1671,0.0,0.0,2020-01-03 16:50:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 16:50:50
+3493433,1671,0.0,0.0,2020-01-03 17:05:48,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:05:50
+3493478,1671,0.0,0.0,2020-01-03 17:20:49,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:20:50
+3493519,1671,0.0,0.0,2020-01-03 17:35:50,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:35:51
+3493569,1671,0.0,0.0,2020-01-03 17:50:51,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 17:50:52
+3493608,1671,0.0,0.0,2020-01-03 18:05:52,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:05:52
+3493662,1671,0.0,0.0,2020-01-03 18:20:52,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:20:53
+3493701,1671,0.0,0.0,2020-01-03 18:35:53,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:35:54
+3493733,1671,0.0,0.0,2020-01-03 18:50:54,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 18:50:55
+3493773,1671,0.0,0.0,2020-01-03 19:05:55,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:05:56
+3493837,1671,0.0,0.0,2020-01-03 19:20:56,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:20:57
+3493888,1671,0.0,0.0,2020-01-03 19:35:56,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:35:58
+3493945,1671,0.0,0.0,2020-01-03 19:50:59,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 19:51:02
+3493994,1671,0.0,0.0,2020-01-03 20:06:00,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:06:02
+3494038,1671,0.0,0.0,2020-01-03 20:21:01,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:21:03
+3494073,1671,26.83464737,83.52683859999998,2020-01-03 20:31:12,2.08,310.3,5.36,gps,"Pipraich Market Rd,Pipraich,Uttar Pradesh 273152,India",0.0,movement,Idle,2020-01-03 20:31:15
+3494074,1671,26.83466239,83.52688586,2020-01-03 20:31:24,0.0,0.0,0.0,gps,"Pipraich Market Rd,Pipraich,Uttar Pradesh 273152,India",0.0,activity,Idle,2020-01-03 20:31:31
+3494075,1671,26.83466951,83.52689117,2020-01-03 20:31:40,0.0,0.0,0.0,gps,"Pipraich Market Rd,Pipraich,Uttar Pradesh 273152,India",0.0,activity,Idle,2020-01-03 20:31:46
+3494077,1671,26.83466983,83.526891,2020-01-03 20:32:00,0.0,0.0,0.0,gps,"Pipraich Market Rd,Pipraich,Uttar Pradesh 273152,India",0.0,activity,Idle,2020-01-03 20:32:06
+3494078,1671,26.83467012,83.52689099,2020-01-03 20:32:16,0.0,0.0,0.0,gps,"Pipraich Market Rd,Pipraich,Uttar Pradesh 273152,India",0.0,activity,Idle,2020-01-03 20:32:31
+3494079,1671,26.83466886,83.52689223,2020-01-03 20:32:55,0.0,0.0,0.0,gps,"Pipraich Market Rd,Pipraich,Uttar Pradesh 273152,India",0.0,activity,Idle,2020-01-03 20:33:16
+3494114,1671,0.0,0.0,2020-01-03 20:46:13,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:46:14
+3494143,1671,0.0,0.0,2020-01-03 21:01:13,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:01:14
+3494159,1671,0.0,0.0,2020-01-03 21:16:14,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:16:15
+3494200,1671,0.0,0.0,2020-01-03 21:31:20,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:31:22
+3494222,1671,0.0,0.0,2020-01-03 21:46:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 21:46:23
+3494242,1671,0.0,0.0,2020-01-03 22:01:21,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:01:22
+3494269,1671,0.0,0.0,2020-01-03 22:16:22,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:16:23
+3494315,1671,0.0,0.0,2020-01-03 22:31:23,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:31:23
+3494352,1671,0.0,0.0,2020-01-03 22:46:23,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:46:25
+3494370,1671,0.0,0.0,2020-01-03 23:01:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:01:25
+3494393,1671,0.0,0.0,2020-01-03 23:16:24,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:16:26
+3494404,1671,0.0,0.0,2020-01-03 23:31:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:31:26
+3494413,1671,0.0,0.0,2020-01-03 23:46:25,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 23:46:26
+3494422,1671,0.0,0.0,2020-01-03 23:59:00,0.0,0.0,0.0,,Unknown Location,0.0,punchOut,,2020-01-03 23:59:16

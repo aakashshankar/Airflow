@@ -1,0 +1,17 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3491796,1492,10.7591199,76.74140759999997,2020-01-02 23:05:49,0.0,81.0,8946.95,network,"unnachi Bus Stop,Palakkad - Pollachi Rd,Kunnachi,Elappully-II,Kerala 678622,India",0.0,movement,Idle,2020-01-03 00:00:01
+3491797,1492,10.7591199,76.74140759999997,2020-01-02 23:07:29,0.0,81.0,8946.95,network,"Kunnachi Bus Stop,Palakkad - Pollachi Rd,Kunnachi,Elappully-II,Kerala 678622,India",0.0,movement,Idle,2020-01-03 00:00:05
+3491798,1492,10.7541514,76.74609670000002,2020-01-02 23:25:25,0.0,81.0,4962.38,network,"Unnamed Road,Elappully Thara,Elappully,Kerala 678622,India",1.4509999999999998,movement,,2020-01-03 00:00:08
+3491799,1492,10.755686099999998,76.74970359999998,2020-01-02 23:40:25,0.0,81.0,7826.81,network,"Palakkad - Pollachi Rd,Para,Elappully,Kerala 678622,India",1.085,movement,Idle,2020-01-03 00:00:10
+3491800,1492,10.755686099999998,76.74970359999998,2020-01-02 23:55:25,0.0,81.0,7826.81,network,"Palakkad - Pollachi Rd,Para,Elappully,Kerala 678622,India",0.0,movement,Idle,2020-01-03 00:00:13
+3491801,1492,10.755686099999998,76.74970359999998,2020-01-02 23:59:00,0.0,81.0,7826.81,network,"Palakkad - Pollachi Rd,Para,Elappully,Kerala 678622,India",0.0,punchOut,Idle,2020-01-03 00:00:19
+3491923,1492,10.86205112,76.49628923,2020-01-03 09:51:39,0.0,0.0,3.216,gps,"Kozhikode - Malappuram - Palakkad Hwy,Kongad West,Kerala 678631,India",0.0,punchIn,Idle,2020-01-03 09:51:42
+3491924,1492,10.86205112,76.49628923,2020-01-03 09:51:41,0.0,0.0,3.216,gps,"Kozhikode - Malappuram - Palakkad Hwy,Kongad West,Kerala 678631,India",0.0,movement,Idle,2020-01-03 09:51:43
+3492256,1492,10.86205112,76.49628923,2020-01-03 10:52:48,0.0,81.0,3.216,network,"Kozhikode - Malappuram - Palakkad Hwy,Kongad West,Kerala 678631,India",0.0,movement,Idle,2020-01-03 11:40:52
+3492258,1492,10.978806,76.2440687,2020-01-03 11:29:07,0.0,81.0,6677.23,network,"Ponniakurssi Bus Stop,Ferokh Palakkad Highway (NH-213),Dubaipadi,Ponniakurussi,Perintalmanna,Kerala 679322,India",37.597,movement,,2020-01-03 11:40:54
+3492260,1492,10.97456387,76.23809594,2020-01-03 11:40:50,0.0,0.0,26.8,gps,"Pathaikara,NH 213,Kuttippara,Pathaikkara,Perintalmanna,Kerala 679322,India",0.836,movement,,2020-01-03 11:40:56
+3492269,1492,10.97415915,76.23807028,2020-01-03 11:41:43,0.0,0.0,0.0,gps,"Pathaikara,NH 213,Kuttippara,Pathaikkara,Perintalmanna,Kerala 679322,India",0.0,activity,,2020-01-03 11:41:52
+3492280,1492,10.97456387,76.23809594,2020-01-03 11:43:47,0.0,0.0,26.8,gps,"Pathaikara,NH 213,Kuttippara,Pathaikkara,Perintalmanna,Kerala 679322,India",0.0,movement,Idle,2020-01-03 11:43:48
+3492309,1492,10.97456387,76.23809594,2020-01-03 11:55:50,0.0,0.0,26.8,gps,"Pathaikara,NH 213,Kuttippara,Pathaikkara,Perintalmanna,Kerala 679322,India",0.0,movement,Idle,2020-01-03 11:55:51
+3492328,1492,10.97352693,76.23744452,2020-01-03 11:59:11,0.0,0.0,3.216,gps,"Pathaikara,,Kuttippara,Pathaikkara,Perintalmanna,Kerala 679322,India",0.153,movement,Idle,2020-01-03 11:59:13
+3492340,1492,10.97352693,76.23744452,2020-01-03 12:03:32,0.0,0.0,3.216,gps,"Pathaikara,,Kuttippara,Pathaikkara,Perintalmanna,Kerala 679322,India",0.0,movement,Idle,2020-01-03 12:03:34

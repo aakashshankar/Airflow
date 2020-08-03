@@ -1,0 +1,36 @@
+gps_id,user_id,latitude,longitude,date_time,speed,bearing,accuracy,provider,address,driving_distance,gps_for,idle_status,last_modified_date_time
+3492094,1614,0.0,0.0,2020-01-02 23:59:00,0.0,0.0,0.0,0.0,Unknown Location,0.0,punchOut,,2020-01-03 10:46:29
+3492096,1614,9.9156701,78.1372201,2020-01-03 10:46:34,0.0,0.0,48.9,network,"176,Kamarajar Salai,Tamil Nadu 625009,India",0.0,punchIn,,2020-01-03 10:46:36
+3492160,1614,0.0,0.0,2020-01-03 11:04:42,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:04:43
+3492205,1614,0.0,0.0,2020-01-03 11:20:34,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:20:36
+3492207,1614,0.0,0.0,2020-01-03 11:20:37,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 11:20:38
+3492208,1614,9.9167926,78.13442490000001,2020-01-03 11:21:14,0.0,0.0,0.0,network,"213,Kamarajar Salai,Tamil Nadu 625009,India",0.330737,activity,,2020-01-03 11:21:23
+3492254,1614,9.9195413,78.1458697,2020-01-03 11:39:00,0.0,0.0,20.0,network,"40/21-B,Anna Nagar,Sathamangalam,Tamil Nadu 625020,India",1.869,movement,,2020-01-03 11:39:01
+3492317,1614,9.91949,78.145735,2020-01-03 11:57:24,0.0,0.0,8.6,gps,"21-A,Anna Nagar,Sathamangalam,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 11:57:25
+3492319,1614,9.919414999999999,78.14577666666669,2020-01-03 11:57:27,0.0,0.0,0.0,gps,"46,Lal Baherer Sashere St,Anna Nagar,Sathamangalam,Tamil Nadu 625020,India",0.0,activity,Idle,2020-01-03 11:57:37
+3492482,1614,9.91949,78.145735,2020-01-03 12:37:06,0.0,0.0,8.6,gps,"21-A,Anna Nagar,Sathamangalam,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 12:37:08
+3492483,1614,9.923756666666666,78.13979666666667,2020-01-03 12:37:32,0.0,0.0,0.0,gps,"44/41,Gandhi Nagar,Ranan Nagar,Madurai,Tamil Nadu 625020,India",1.101,activity,,2020-01-03 12:37:42
+3492534,1614,9.924033333333334,78.13879666666666,2020-01-03 12:52:22,0.0,0.0,6.4,gps,"26/16,Ranan Nagar,Madurai,Tamil Nadu 625020,India",1.155,movement,Idle,2020-01-03 12:52:28
+3492583,1614,9.924463333333334,78.13919333333334,2020-01-03 13:09:05,0.0,0.0,6.7,gps,"Shop No.14,Near Collectorate Office,Anna Bus Stand Rd,Gandhi Nagar,Shenoy Nagar,Madurai,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 13:09:07
+3492591,1614,9.92523,78.13961666666667,2020-01-03 13:12:42,0.0,0.0,0.0,gps,"2,Sivaganga Rd,Managiri,Rajakoor,Sathamangalam,Tamil Nadu 625020,India",0.0,activity,,2020-01-03 13:12:50
+3492635,1614,9.930945,78.14510333333331,2020-01-03 13:24:12,0.0,0.0,13.7,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",1.185,movement,Idle,2020-01-03 13:24:14
+3492742,1614,9.930945,78.14510333333331,2020-01-03 13:40:05,0.0,0.0,13.7,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 13:55:31
+3492743,1614,9.930945,78.14510333333331,2020-01-03 13:55:25,0.0,0.0,13.7,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 13:55:32
+3492848,1614,9.930945,78.14510333333331,2020-01-03 14:28:01,0.0,0.0,13.7,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 14:28:14
+3492851,1614,9.930945,78.14510333333331,2020-01-03 14:29:02,0.0,0.0,0.0,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,activity,Idle,2020-01-03 14:29:18
+3493154,1614,9.930945,78.14510333333331,2020-01-03 14:58:23,0.0,0.0,13.7,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 15:46:32
+3493155,1614,9.930945,78.14510333333331,2020-01-03 15:43:48,0.0,0.0,13.7,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 15:46:32
+3493156,1614,9.930945,78.14510333333331,2020-01-03 15:46:30,0.0,0.0,13.7,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 15:46:33
+3493159,1614,9.930945,78.14510333333331,2020-01-03 15:48:23,0.0,0.0,0.0,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,activity,Idle,2020-01-03 15:48:41
+3493257,1614,9.930945,78.14510333333331,2020-01-03 16:13:14,0.0,0.0,13.7,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,movement,Idle,2020-01-03 16:13:17
+3493260,1614,9.930945,78.14510333333331,2020-01-03 16:13:57,0.0,0.0,0.0,gps,"55,Bharathiyar 3rd Cross Rd,Managiri,KK Nagar,Tamil Nadu 625020,India",0.0,activity,Idle,2020-01-03 16:14:12
+3493289,1614,9.947886666666667,78.16080333333333,2020-01-03 16:20:40,0.0,0.0,0.0,gps,"542,Sambakulam,T M Nagar,Uthangudi,Tamil Nadu 625107,India",3.733,activity,,2020-01-03 16:20:46
+3493315,1614,9.947453333333334,78.15993499999998,2020-01-03 16:29:03,10.2605,244.27,2.1,gps,"4/153,T M Nagar Main Rd,Sambakulam,T M Nagar,Madurai,Tamil Nadu 625007,India",3.84,movement,Idle,2020-01-03 16:29:05
+3493365,1614,9.947453333333334,78.15993499999998,2020-01-03 16:44:03,10.2605,244.27,2.1,gps,"4/153,T M Nagar Main Rd,Sambakulam,T M Nagar,Madurai,Tamil Nadu 625007,India",0.0,movement,Idle,2020-01-03 16:44:04
+3493947,1614,9.947453333333334,78.15993499999998,2020-01-03 19:52:36,10.2605,244.27,2.1,gps,"4/153,T M Nagar Main Rd,Sambakulam,T M Nagar,Madurai,Tamil Nadu 625007,India",0.0,movement,Idle,2020-01-03 19:52:37
+3493949,1614,9.947453333333334,78.15993499999998,2020-01-03 19:53:20,0.0,0.0,0.0,gps,"4/153,T M Nagar Main Rd,Sambakulam,T M Nagar,Madurai,Tamil Nadu 625007,India",0.0,activity,Idle,2020-01-03 19:53:26
+3493997,1614,9.947453333333334,78.15993499999998,2020-01-03 20:07:39,10.2605,244.27,2.1,gps,"4/153,T M Nagar Main Rd,Sambakulam,T M Nagar,Madurai,Tamil Nadu 625007,India",0.0,movement,Idle,2020-01-03 20:07:43
+3494015,1614,9.926095,78.14087166666667,2020-01-03 20:14:09,0.0,0.0,0.0,gps,"22,Sivaganga Rd,Near Anna Bus stand,Gandhi Nagar,Shenoy Nagar,Sathamangalam,Tamil Nadu 625020,India",3.434,activity,,2020-01-03 20:14:18
+3494043,1614,0.0,0.0,2020-01-03 20:22:43,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:22:46
+3494097,1614,0.0,0.0,2020-01-03 20:38:44,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 20:38:47
+3494309,1614,0.0,0.0,2020-01-03 22:27:50,0.0,0.0,0.0,na,GPS settings off /  Network settings off,0.0,movement,,2020-01-03 22:27:51
